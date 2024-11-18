@@ -172,3 +172,7 @@ http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656850.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png", AXN
 http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656863.ts
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5snjmnyioiyX82ZUP8PH9LiulTJ.jpg",Am I Racist? (2024)
+https://maxbit.link/play/driveid-191270-webrip-1080-terbit21-com-am-i-racist-2024.mp4|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
