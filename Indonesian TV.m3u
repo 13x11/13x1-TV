@@ -7,6 +7,9 @@ http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34322.ts
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="" tvg-logo="https://cdn.macan.tv/img/animax.png", ANIMAX
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34336.ts
 
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" group-title="" tvg-logo="https://i.imgur.com/Y282owj.png", Thrill
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34343.ts
+
 #EXTINF:-1 tvg-id="Cinema World" tvg-name="Cinema World" group-title="" tvg-logo="https://cdn.macan.tv/img/cinemaworld.png", CINEMAWORLD
 https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
 
@@ -20,7 +23,7 @@ https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8
 
 #EXTINF:-1 tvg-id="Celestial Movie" tvg-name="Celestial Movie" group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Celestial_Movies_%282003-.n.v.%29.png", Celestial Movies
-https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34342.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="" tvg-logo="https://cdn.macan.tv/img/cartoonnetwork.png", Cartoon Network
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
