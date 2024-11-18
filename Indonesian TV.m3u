@@ -34,7 +34,7 @@ https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="Nick Junior" tvg-name="Nick Junior" group-title="" tvg-logo="https://cdn.macan.tv/img/nickjr.png", Nick Jr
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34380.ts
 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" group-title="" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" type="Series" group-title="" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png", DISCOVERY CHANNEL
 https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png", ANIMAL PLANET
