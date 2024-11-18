@@ -5,7 +5,7 @@
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34322.ts
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="" tvg-logo="https://cdn.macan.tv/img/animax.png", ANIMAX
-https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34336.ts
 
 #EXTINF:-1 tvg-id="Cinema World" tvg-name="Cinema World" group-title="" tvg-logo="https://cdn.macan.tv/img/cinemaworld.png", CINEMAWORLD
 https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
@@ -61,10 +61,13 @@ http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34325.ts
 #EXTINF:-1 tvg-id="MNC" tvg-name="MNC" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png", MNCTV
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34326.ts
 
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png", GTV
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34331.ts
+
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/2560px-INDOSIAR_Logo.png", INDOSIAR
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34327.ts
 
-#EXTINF:-1 tvg-id="TV One" tvg-name="TV One" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvOne_2023.svg", TVONE
+#EXTINF:-1 tvg-id="TV One" tvg-name="TV One" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1000px-TvOne_2023.svg.png", TVONE
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34329.ts
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" group-title="" tvg-logo="https://cdn.macan.tv/img/antv.png", ANTV
@@ -74,10 +77,16 @@ https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34321.ts
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" group-title="" tvg-logo="https://cdn.macan.tv/img/metrotv.png", METRO TV
-https://cdn09jtedge.indihometv.com/joss/133/metrotv/index.m3u8
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34330.ts
 
 #EXTINF:-1 tvg-id="Kompas TV" tvg-name="Kompas TV" group-title="" tvg-logo="https://cdn.macan.tv/img/kompastv.png", KOMPAS TV
-https://cdn09jtedge.indihometv.com/joss/133/kompastv/index.m3u8
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34332.ts
+
+#EXTINF:-1 tvg-id="iNews" tvg-name="iNews" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png", iNews
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34335.ts
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png", TVRI
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34333.ts
 
 #EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" group-title="" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png", GALAXY
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
