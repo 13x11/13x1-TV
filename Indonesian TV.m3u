@@ -128,19 +128,25 @@ http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34345.ts
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34352.ts
 
 #EXTINF:-1 tvg-id="HITS Now" tvg-name="HITS Now" group-title="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/hitsnow.png", HITS NOW
-https://cdn09jtedge.indihometv.com/joss/133/hitsnow/index.m3u8
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656888.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png", Disney Channel
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/361375.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png", Disney Jr.
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/361376.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png", Astro Premier League
-http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34535.ts
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656970.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png", Astro Premier League 2
-http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34534.ts
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656971.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png", Astro Grandstand
-http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34533.ts
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656972.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png", Astro Football
-http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34531.ts
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656973.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png", Astro Rania
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34627.ts
@@ -159,3 +165,10 @@ http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34628.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png", Astro Ceria
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34590.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/508_144.png", Astro Premier
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656850.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png", AXN
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656863.ts
+
