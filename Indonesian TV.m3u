@@ -25,7 +25,7 @@ http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34356.ts
 #EXTINF:-1 tvg-id="SONE" tvg-name="SONE" group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png", ONE
 https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8
 
-#EXTINF:-1 tvg-id="Celestial Movie" tvg-name="Celestial Movie" group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Celestial_Movies_%282003-.n.v.%29.png", Celestial Movies
+#EXTINF:-1 tvg-id="Celestial Movie" tvg-name="Celestial Movie" group-title="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Celestial_Movies_%282003-.n.v.%29.png", Celestial Movies
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34342.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="" tvg-logo="https://cdn.macan.tv/img/cartoonnetwork.png", Cartoon Network
@@ -142,4 +142,20 @@ http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34533.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png", Astro Football
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34531.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png", Astro Rania
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34627.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png", Astro AEC
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34556.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", Astro Arena
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34608.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png", Astro Arena 2
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34649.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png", Astro Aura
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34628.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png", Astro Ceria
+http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34590.ts
