@@ -1,0 +1,86 @@
+#EXTM3U
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" refresh="3600"
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="" tvg-logo="https://cdn.macan.tv/img/animax.png", ANIMAX
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="Cinema World" group-title="" tvg-logo="https://cdn.macan.tv/img/cinemaworld.png", CINEMAWORLD
+https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
+
+#EXTINF:-1 tvg-id="TVN Movies" tvg-name="TVN Movies" group-title="" tvg-logo="https://cdn.macan.tv/img/tvn_movies.png", TVN MOVIES
+https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8
+
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" group-title="" tvg-logo="https://cdn.macan.tv/img/tvn.png", TVN
+https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8
+
+#EXTINF:-1 tvg-id="SONE" tvg-name="SONE" group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png", ONE
+https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8
+
+#EXTINF:-1 tvg-id="Celestial Movie" tvg-name="Celestial Movie" group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Celestial_Movies_%282003-.n.v.%29.png", Celestial Movies
+https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="" tvg-logo="https://cdn.macan.tv/img/cartoonnetwork.png", Cartoon Network
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="Nick Junior" tvg-name="Nick Junior" group-title="" tvg-logo="https://cdn.macan.tv/img/nickjr.png", Nick Jr
+https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" group-title="" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png", DISCOVERY CHANNEL
+https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png", ANIMAL PLANET
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="" tvg-logo="https://cdn.macan.tv/img/history.png", HISTORY 
+https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8
+
+#EXTINF:-1 tvg-id="Crime Investigation" tvg-name="Crime Investigation" group-title="" tvg-logo="https://cdn.macan.tv/img/crime_investigation.png", CRIME INVESTIGATION
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-name="Asian Food Network" group-title="" tvg-logo="https://cdn.macan.tv/img/afc.png", ASIAN FOOD NETWORK
+https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="" tvg-logo="https://cdn.macan.tv/img/spotv.png", SPOTV
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="" tvg-logo="https://cdn.macan.tv/img/spotv.png", SPOTV2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+#EXTINF:-1 tvg-id="Kix" tvg-name="Kix" group-title="" tvg-logo="https://cdn.macan.tv/img/kix.png", KIX
+https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8
+
+#EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" group-title="" tvg-logo="https://cdn.macan.tv/img/transtv.png", TRANS TV
+https://cdn09jtedge.indihometv.com/joss/133/transtv/index.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" group-title="" tvg-logo="https://cdn.macan.tv/img/antv.png", ANTV
+https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
+
+#EXTINF:-1 tvg-id="Net." tvg-name="Net." group-title="" tvg-logo="https://cdn.macan.tv/img/net.png", NET.
+https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8
+
+#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" group-title="" tvg-logo="https://cdn.macan.tv/img/metrotv.png", METRO TV
+https://cdn09jtedge.indihometv.com/joss/133/metrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="Kompas TV" tvg-name="Kompas TV" group-title="" tvg-logo="https://cdn.macan.tv/img/kompastv.png", KOMPAS TV
+https://cdn09jtedge.indihometv.com/joss/133/kompastv/index.m3u8
+
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" group-title="" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png", GALAXY
+https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
+
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png", GALAXY PREMIUM
+https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
+
+#EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-name="Bioskop Indonesia" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png", Bioskop Indonesia
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="" tvg-logo="https://cdn.macan.tv/img/flik.png", FLIK
+https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
+
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" group-title="" tvg-logo="https://cdn.macan.tv/img/hits.png", HITS
+https://cdn09jtedge.indihometv.com/joss/133/hits/index.m3u8
+
+#EXTINF:-1 tvg-id="HIts Movie" tvg-name="HIts Movie" group-title="" tvg-logo="https://cdn.macan.tv/img/hits_movies.png", HITS MOVIES
+https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/index.m3u8
+
+#EXTINF:-1 tvg-id="HITS Now" tvg-name="HITS Now" group-title="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/hitsnow.png", HITS NOW
+https://cdn09jtedge.indihometv.com/joss/133/hitsnow/index.m3u8
