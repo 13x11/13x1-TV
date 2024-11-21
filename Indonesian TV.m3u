@@ -7,9 +7,6 @@
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png", RCTI
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34322.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png", Sportstar
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd?ck=NDVmZWM5MWNlMWYxOWI2YjFmMzFkNjlkY2ZhYWY2Y2Q6ODQzZTIyOGFiMTA5ZTlhYTZjNDgyMmVlNGFkMDVkN2Q=
-
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="" tvg-logo="https://cdn.macan.tv/img/animax.png", ANIMAX
 http://vipizfq.top:8080/live/VIP01522172430344994/03fe5a902333/34336.ts
 
