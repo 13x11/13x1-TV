@@ -62,10 +62,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 
 #EXTINF:-1 tvg-id="810" ch-number="810" tvg-name="Astro Grandstand" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Grandstand  
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UYzNPV0k0T1dFdE5tVXpNQzAwWkdRM0xUZzFOemN0TXpVNU9XSmxPREpqT0RFeSIsIndtb3BpZCI6MzIsImV4cCI6MTczMTQ2OTk0NiwiaWF0IjoxNzMwODY1OTQ2fQ.G51YAKn6JNQT1OoTqAIAVNZbpE1Dz4qPhN6bjjAKVxs"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
-https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
+http://krooztv.live:80/live/solo/solo/663949.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UYzNPV0k0T1dFdE5tVXpNQzAwWkdRM0xUZzFOemN0TXpVNU9XSmxPREpqT0RFeSIsIndtb3BpZCI6MzIsImV4cCI6MTczMTQ2OTk0NiwiaWF0IjoxNzMwODY1OTQ2fQ.G51YAKn6JNQT1OoTqAIAVNZbpE1Dz4qPhN6bjjAKVxs"}
