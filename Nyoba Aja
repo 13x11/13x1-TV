@@ -2,3 +2,6 @@
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1747989339764572160/7nxm03-2_400x400.jpg" group-title="", Laliga TV
 http://tvhomesmart.xyz:8080/live/OskarPac2405/9LSCsS5cwfDX/12380.ts
+
+#EXTINF: -1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3625.png" group-title="", TNT Sports 1
+http://fixhdelite.xyz:8880/live/lorrainedombek@yahoo.com/EtFHhBW8U7/508184.ts
