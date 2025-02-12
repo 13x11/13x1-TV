@@ -1,11 +1,10 @@
 #EXTM3U
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9LdWFsYV9MdW1wdXI%3D&date=20250212&channel_id=405049"
 
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1747989339764572160/7nxm03-2_400x400.jpg" group-title="", Laliga TV
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/LaLigaTV_%282023%29.svg/revision/latest/scale-to-width-down/200?cb=20240327213326" group-title="", Laliga TV
 http://tvhomesmart.xyz:8080/live/OskarPac2405/9LSCsS5cwfDX/12380.ts
 
-#EXTINF: -1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3625.png" group-title="", TNT Sports 1
+#EXTINF: -1 tvg-logo="https://media.info/l/o/1/1539.1689778027.png" group-title="", TNT Sports 1
 http://fixhdelite.xyz:8880/live/lorrainedombek@yahoo.com/EtFHhBW8U7/508184.ts
 
-#EXTINF:-1 tvg-id="405049" ch-number="111" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="", TSN 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="", TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
