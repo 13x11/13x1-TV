@@ -5,3 +5,8 @@ http://tvhomesmart.xyz:8080/live/OskarPac2405/9LSCsS5cwfDX/12380.ts
 
 #EXTINF: -1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3625.png" group-title="", TNT Sports 1
 http://fixhdelite.xyz:8880/live/lorrainedombek@yahoo.com/EtFHhBW8U7/508184.ts
+
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV INDO" group-logo="https://i.ibb.co.com/YXnCdpw/Boi-Garuda-ID.png", TRANS TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
