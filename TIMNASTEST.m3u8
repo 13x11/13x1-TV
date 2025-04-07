@@ -2,3 +2,8 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a604e3ee69e4a9db23923e5672f36a2:0c68b2473988ee3617e537541e7fbe96
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV INDO" group-logo="https://i.ibb.co.com/YXnCdpw/Boi-Garuda-ID.png", TRANS TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
