@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <channel id="timnas.indonesia.u17">
-    <display-name>Timnas Indonesia U-17</display-name>
+  <channel id="timnas.indonesia">
+    <display-name>Timnas Indonesia</display-name>
   </channel>
 
-  <programme start="20250404T220000 +0700" stop="20250405T000000 +0700" channel="timnas.indonesia.u17">
+  <programme start="20250404T220000 +0700" stop="20250405T000000 +0700" channel="timnas.indonesia">
     <title lang="id">Indonesia U-17 vs Korea Selatan U-17</title>
-    <desc>Piala Asia U-17 2025 - Grup C. Stadion Prince Abdullah Al Faisal, Jeddah.</desc>
+    <desc>Piala Asia U-17 2025 - Grup C. Kick-off: 22.00 WIB. Stadion Prince Abdullah Al Faisal, Jeddah.</desc>
   </programme>
 
-  <programme start="20250407T220000 +0700" stop="20250408T000000 +0700" channel="timnas.indonesia.u17">
+  <programme start="20250407T220000 +0700" stop="20250408T000000 +0700" channel="timnas.indonesia">
     <title lang="id">Indonesia U-17 vs Yaman U-17</title>
-    <desc>Piala Asia U-17 2025 - Grup C. Stadion Prince Abdullah Al Faisal, Jeddah.</desc>
+    <desc>Piala Asia U-17 2025 - Grup C. Kick-off: 22.00 WIB. Stadion Prince Abdullah Al Faisal, Jeddah.</desc>
   </programme>
 
-  <programme start="20250411T001500 +0700" stop="20250411T021500 +0700" channel="timnas.indonesia.u17">
+  <programme start="20250411T001500 +0700" stop="20250411T021500 +0700" channel="timnas.indonesia">
     <title lang="id">Indonesia U-17 vs Afghanistan U-17</title>
-    <desc>Piala Asia U-17 2025 - Grup C. Stadion Prince Abdullah Al Faisal, Jeddah.</desc>
+    <desc>Piala Asia U-17 2025 - Grup C. Kick-off: 00.15 WIB. Stadion Prince Abdullah Al Faisal, Jeddah.</desc>
   </programme>
 </tv>
