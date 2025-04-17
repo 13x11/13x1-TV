@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generated-by="13x1_ on github - EPG XML Generator V1.0 - EPG Generated for 17-04-2025">
+ <channel id="proliga1">
+  <display-name lang="en">PROLIGA 1</display-name>
+  <icon src="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png"/>
+  <url>https://vidio.com</url>
+ </channel>
+<programme start="20250427163000 +0700" stop="20250427190000 +0700" channel="proliga1">
+  <title lang="en">Final Four Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN</title>
+  <desc lang="en">Pertandingan pembuka seri Final Four Kediri mempertemukan Pertamina Enduro menghadapi Electric PLN, akankah tersaji duel sengit diantara kedua tim?</desc>
+  <icon src="http://linear-poster.astro.com.my/prod/poster/ivp_default_1028_IVP_LAND_917x516.jpg"/>
+</tv>
