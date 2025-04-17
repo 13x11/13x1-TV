@@ -1,15 +1,18 @@
-<tv date="20250417155704 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250417.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250417&timezone=None">
-<script/>
-<script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
-<script/>
-<script/>
-<script/>
-<channel id="400477">
-<display-name lang="United Kingdom of Great Britain and Northern Ireland">TNT Sports 1 HD</display-name>
-<icon src=""/>
-</channel>
-<programme channel="400477" start="20250417020000 +0000" stop="20250417043000 +0000">
-<title lang="zh">Live NBA</title>
-<desc/>
-<date>2025-04-17</date>
-</programme>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Proliga" source-info-url="vidio.com">
+  
+  <!-- Daftar channel -->
+  <channel id="Proliga Putri">
+    <display-name>Proliga 1</display-name>
+    <icon src="" />
+  </channel>
+
+  <!-- Jadwal acara -->
+  <programme start="20250427163000 +0700" stop="20250427190000 +0700" channel="Proliga Putri">
+    <title lang="id">Final Four Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN</title>
+    <desc lang="id">Pertandingan pembuka seri Final Four Kediri mempertemukan Pertamina Enduro menghadapi Electric PLN, akankah tersaji duel sengit diantara kedua tim?</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+
+</tv>
