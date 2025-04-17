@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Proliga" source-info-url="vidio.com">
-  
-  <!-- Daftar channel -->
-  <channel id="Proliga Putri">
+  <channel id="Proliga.Putri">
     <display-name>Proliga 1</display-name>
     <icon src="" />
   </channel>
-
-  <!-- Jadwal acara -->
+  
   <programme start="20250427163000 +0700" stop="20250427190000 +0700" channel="Proliga Putri">
     <title lang="id">Final Four Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN</title>
     <desc lang="id">Pertandingan pembuka seri Final Four Kediri mempertemukan Pertamina Enduro menghadapi Electric PLN, akankah tersaji duel sengit diantara kedua tim?</desc>
