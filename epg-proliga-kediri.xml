@@ -1,48 +1,58 @@
-<tv generator-info-name="epg-timnas" source-info-url="https://flashscore.co.id/">
-  <!-- Channel gabungan untuk Proliga -->
-  <channel id="proliga.kediri">
-    <display-name>Proliga GOR Jayabaya Kediri</display-name>
+<tv date="20250418195704 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
+  <script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
+  <script/>
+  <script/>
+  <script/>
+  <channel id="400471">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">Proliga GOR Jayabaya Kediri</display-name>
+    <icon src="https://kulitbundar.com/wp-content/uploads/2025/04/pln-mobile-proliga-2025.jpg"/>
   </channel>
 
-  <!-- Putri (Jam 16:00 WIB) -->
-  <programme start="20250417T090000 +0700" stop="20250417T110000 +0700" channel="proliga.kediri">
-    <title lang="id">Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN</title>
-    <desc>Proliga Putri - GOR Jayabaya Kediri</desc>
+  <!-- 17 April -->
+  <programme channel="400471" start="20250417160000 +0700" stop="20250417180000 +0700">
+    <title lang="zh">Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN</title>
+    <desc>Final Four Proliga Putri 2025 - GOR Jayabaya Kediri</desc>
+    <date>2025-04-17</date>
+  </programme>
+  <programme channel="400471" start="20250417190000 +0700" stop="20250417210000 +0700">
+    <title lang="zh">Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator</title>
+    <desc>Final Four Proliga Putra 2025 - GOR Jayabaya Kediri</desc>
+    <date>2025-04-17</date>
   </programme>
 
-  <programme start="20250418T090000 +0700" stop="20250418T110000 +0700" channel="proliga.kediri">
-    <title lang="id">Putri: Jakarta Popsivo Polwan vs Gresik Petrokimia Pupuk Indonesia</title>
-    <desc>Proliga Putri - GOR Jayabaya Kediri</desc>
+  <!-- 18 April -->
+  <programme channel="400471" start="20250418160000 +0700" stop="20250418180000 +0700">
+    <title lang="zh">Putri: Jakarta Popsivo Polwan vs Gresik Petrokimia Pupuk Indonesia</title>
+    <desc>Final Four Proliga Putri 2025 - GOR Jayabaya Kediri</desc>
+    <date>2025-04-18</date>
+  </programme>
+  <programme channel="400471" start="20250418190000 +0700" stop="20250418210000 +0700">
+    <title lang="zh">Putra: Jakarta Lavani Livin' Transmedia vs Palembang Bank Sumselbabel</title>
+    <desc>Final Four Proliga Putra 2025 - GOR Jayabaya Kediri</desc>
+    <date>2025-04-18</date>
   </programme>
 
-  <programme start="20250419T090000 +0700" stop="20250419T110000 +0700" channel="proliga.kediri">
-    <title lang="id">Putri: Gresik Petrokimia Pupuk Indonesia vs Jakarta Pertamina Enduro</title>
-    <desc>Proliga Putri - GOR Jayabaya Kediri</desc>
+  <!-- 19 April -->
+  <programme channel="400471" start="20250419160000 +0700" stop="20250419180000 +0700">
+    <title lang="zh">Putri: Gresik Petrokimia Pupuk Indonesia vs Jakarta Pertamina Enduro</title>
+    <desc>Final Four Proliga Putri 2025 - GOR Jayabaya Kediri</desc>
+    <date>2025-04-19</date>
+  </programme>
+  <programme channel="400471" start="20250419190000 +0700" stop="20250419210000 +0700">
+    <title lang="zh">Putra: Palembang Bank Sumselbabel vs Jakarta Bhayangkara Presisi</title>
+    <desc>Final Four Proliga Putra 2025 - GOR Jayabaya Kediri</desc>
+    <date>2025-04-19</date>
   </programme>
 
-  <programme start="20250420T090000 +0700" stop="20250420T110000 +0700" channel="proliga.kediri">
-    <title lang="id">Putri: Jakarta Popsivo Polwan vs Jakarta Electric PLN</title>
-    <desc>Proliga Putri - GOR Jayabaya Kediri</desc>
+  <!-- 20 April -->
+  <programme channel="400471" start="20250420160000 +0700" stop="20250420180000 +0700">
+    <title lang="zh">Putri: Jakarta Popsivo Polwan vs Jakarta Electric PLN</title>
+    <desc>Final Four Proliga Putri 2025 - GOR Jayabaya Kediri</desc>
+    <date>2025-04-20</date>
   </programme>
-
-  <!-- Putra (Jam 19:00 WIB) -->
-  <programme start="20250417T120000 +0700" stop="20250417T140000 +0700" channel="proliga.kediri">
-    <title lang="id">Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator</title>
-    <desc>Proliga Putra - GOR Jayabaya Kediri</desc>
-  </programme>
-
-  <programme start="20250418T120000 +0700" stop="20250418T140000 +0700" channel="proliga.kediri">
-    <title lang="id">Putra: Jakarta Lavani Livin' Transmedia vs Palembang Bank Sumselbabel</title>
-    <desc>Proliga Putra - GOR Jayabaya Kediri</desc>
-  </programme>
-
-  <programme start="20250419T120000 +0700" stop="20250419T140000 +0700" channel="proliga.kediri">
-    <title lang="id">Putra: Palembang Bank Sumselbabel vs Jakarta Bhayangkara Presisi</title>
-    <desc>Proliga Putra - GOR Jayabaya Kediri</desc>
-  </programme>
-
-  <programme start="20250420T120000 +0700" stop="20250420T140000 +0700" channel="proliga.kediri">
-    <title lang="id">Putra: Jakarta Lavani Livin' Transmedia vs Surabaya Samator</title>
-    <desc>Proliga Putra - GOR Jayabaya Kediri</desc>
+  <programme channel="400471" start="20250420190000 +0700" stop="20250420210000 +0700">
+    <title lang="zh">Putra: Jakarta Lavani Livin' Transmedia vs Surabaya Samator</title>
+    <desc>Final Four Proliga Putra 2025 - GOR Jayabaya Kediri</desc>
+    <date>2025-04-20</date>
   </programme>
 </tv>
