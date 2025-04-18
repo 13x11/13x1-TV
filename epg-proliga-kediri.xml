@@ -1,53 +1,48 @@
 <tv generator-info-name="epg-timnas" source-info-url="https://flashscore.co.id/">
-  <!-- Channel untuk Proliga Putri -->
-  <channel id="proliga.putri">
-    <display-name>Proliga Putri</display-name>
+  <!-- Channel gabungan untuk Proliga -->
+  <channel id="proliga.kediri">
+    <display-name>Proliga GOR Jayabaya Kediri</display-name>
   </channel>
 
-  <!-- Channel untuk Proliga Putra -->
-  <channel id="proliga.putra">
-    <display-name>Proliga Putra</display-name>
-  </channel>
-
-  <!-- Pertandingan Putri (Jam 16:00 WIB / 09:00 UTC) -->
-  <programme start="20250417T090000 +0700" stop="20250417T110000 +0700" channel="proliga.putri">
-    <title lang="id">Jakarta Pertamina Enduro vs Jakarta Electric PLN</title>
+  <!-- Putri (Jam 16:00 WIB) -->
+  <programme start="20250417T090000 +0700" stop="20250417T110000 +0700" channel="proliga.kediri">
+    <title lang="id">Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN</title>
     <desc>Proliga Putri - GOR Jayabaya Kediri</desc>
   </programme>
 
-  <programme start="20250418T090000 +0700" stop="20250418T110000 +0700" channel="proliga.putri">
-    <title lang="id">Jakarta Popsivo Polwan vs Gresik Petrokimia Pupuk Indonesia</title>
+  <programme start="20250418T090000 +0700" stop="20250418T110000 +0700" channel="proliga.kediri">
+    <title lang="id">Putri: Jakarta Popsivo Polwan vs Gresik Petrokimia Pupuk Indonesia</title>
     <desc>Proliga Putri - GOR Jayabaya Kediri</desc>
   </programme>
 
-  <programme start="20250419T090000 +0700" stop="20250419T110000 +0700" channel="proliga.putri">
-    <title lang="id">Gresik Petrokimia Pupuk Indonesia vs Jakarta Pertamina Enduro</title>
+  <programme start="20250419T090000 +0700" stop="20250419T110000 +0700" channel="proliga.kediri">
+    <title lang="id">Putri: Gresik Petrokimia Pupuk Indonesia vs Jakarta Pertamina Enduro</title>
     <desc>Proliga Putri - GOR Jayabaya Kediri</desc>
   </programme>
 
-  <programme start="20250420T090000 +0700" stop="20250420T110000 +0700" channel="proliga.putri">
-    <title lang="id">Jakarta Popsivo Polwan vs Jakarta Electric PLN</title>
+  <programme start="20250420T090000 +0700" stop="20250420T110000 +0700" channel="proliga.kediri">
+    <title lang="id">Putri: Jakarta Popsivo Polwan vs Jakarta Electric PLN</title>
     <desc>Proliga Putri - GOR Jayabaya Kediri</desc>
   </programme>
 
-  <!-- Pertandingan Putra (Jam 19:00 WIB / 12:00 UTC) -->
-  <programme start="20250417T120000 +0700" stop="20250417T140000 +0700" channel="proliga.putra">
-    <title lang="id">Jakarta Bhayangkara Presisi vs Surabaya Samator</title>
+  <!-- Putra (Jam 19:00 WIB) -->
+  <programme start="20250417T120000 +0700" stop="20250417T140000 +0700" channel="proliga.kediri">
+    <title lang="id">Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator</title>
     <desc>Proliga Putra - GOR Jayabaya Kediri</desc>
   </programme>
 
-  <programme start="20250418T120000 +0700" stop="20250418T140000 +0700" channel="proliga.putra">
-    <title lang="id">Jakarta Lavani Livin' Transmedia vs Palembang Bank Sumselbabel</title>
+  <programme start="20250418T120000 +0700" stop="20250418T140000 +0700" channel="proliga.kediri">
+    <title lang="id">Putra: Jakarta Lavani Livin' Transmedia vs Palembang Bank Sumselbabel</title>
     <desc>Proliga Putra - GOR Jayabaya Kediri</desc>
   </programme>
 
-  <programme start="20250419T120000 +0700" stop="20250419T140000 +0700" channel="proliga.putra">
-    <title lang="id">Palembang Bank Sumselbabel vs Jakarta Bhayangkara Presisi</title>
+  <programme start="20250419T120000 +0700" stop="20250419T140000 +0700" channel="proliga.kediri">
+    <title lang="id">Putra: Palembang Bank Sumselbabel vs Jakarta Bhayangkara Presisi</title>
     <desc>Proliga Putra - GOR Jayabaya Kediri</desc>
   </programme>
 
-  <programme start="20250420T120000 +0700" stop="20250420T140000 +0700" channel="proliga.putra">
-    <title lang="id">Jakarta Lavani Livin' Transmedia vs Surabaya Samator</title>
+  <programme start="20250420T120000 +0700" stop="20250420T140000 +0700" channel="proliga.kediri">
+    <title lang="id">Putra: Jakarta Lavani Livin' Transmedia vs Surabaya Samator</title>
     <desc>Proliga Putra - GOR Jayabaya Kediri</desc>
   </programme>
 </tv>
