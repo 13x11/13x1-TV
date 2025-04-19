@@ -1,6 +1,6 @@
 tv date="20250419172145 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=112233">
 <channel id="112233">
-<display-name lang="en">Formula 1 - 2025 Season</display-name>
+<display-name lang="United Kingdom of Great Britain and Northern Ireland">Formula 1 - 2025 Season</display-name>
 <icon src="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg"/>
 </channel>
 <programme channel="112233" start="20250314090000 +0000" stop="20250314100000 +0000">
