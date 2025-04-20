@@ -1,0 +1,229 @@
+<tv date="20250420100000 +0700" generator-info-name="epg.nba2025">
+<channel id="100471">
+<display-name lang="en">Cleveland Heat</display-name>
+</channel>
+<programme channel="100471" start="20250421050000 +0700" stop="20250421070000 +0700">
+<title lang="en">Cavaliers vs Heat - Game 1</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250421</date>
+</programme>
+<programme channel="100471" start="20250424053000 +0700" stop="20250424073000 +0700">
+<title lang="en">Cavaliers vs Heat - Game 2</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250424</date>
+</programme>
+<programme channel="100471" start="20250427000000 +0700" stop="20250427020000 +0700">
+<title lang="en">Heat vs Cavaliers - Game 3</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250427</date>
+</programme>
+<programme channel="100471" start="20250421050000 +0700" stop="20250421070000 +0700">
+<title lang="en">Cavaliers vs Heat - Game 1</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250421</date>
+</programme>
+<programme channel="100471" start="20250424053000 +0700" stop="20250424073000 +0700">
+<title lang="en">Cavaliers vs Heat - Game 2</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250424</date>
+</programme>
+<programme channel="100471" start="20250427000000 +0700" stop="20250427020000 +0700">
+<title lang="en">Heat vs Cavaliers - Game 3</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250427</date>
+</programme>
+<channel id="200471">
+<display-name lang="en">Boston Magic</display-name>
+</channel>
+<programme channel="200471" start="20250421013000 +0700" stop="20250421033000 +0700">
+<title lang="en">Celtics vs Magic - Game 1</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250421</date>
+</programme>
+<programme channel="200471" start="20250424050000 +0700" stop="20250424070000 +0700">
+<title lang="en">Celtics vs Magic - Game 2</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250424</date>
+</programme>
+<programme channel="200471" start="20250426050000 +0700" stop="20250426070000 +0700">
+<title lang="en">Magic vs Celtics - Game 3</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250426</date>
+</programme>
+<programme channel="200471" start="20250421013000 +0700" stop="20250421033000 +0700">
+<title lang="en">Celtics vs Magic - Game 1</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250421</date>
+</programme>
+<programme channel="200471" start="20250424050000 +0700" stop="20250424070000 +0700">
+<title lang="en">Celtics vs Magic - Game 2</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250424</date>
+</programme>
+<programme channel="200471" start="20250426050000 +0700" stop="20250426070000 +0700">
+<title lang="en">Magic vs Celtics - Game 3</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250426</date>
+</programme>
+<channel id="300471">
+<display-name lang="en">New York Detroit</display-name>
+</channel>
+<programme channel="300471" start="20250422063000 +0700" stop="20250422083000 +0700">
+<title lang="en">Knicks vs Pistons - Game 1</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250422</date>
+</programme>
+<programme channel="300471" start="20250425060000 +0700" stop="20250425080000 +0700">
+<title lang="en">Pistons vs Knicks - Game 2</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250425</date>
+</programme>
+<programme channel="300471" start="20250422063000 +0700" stop="20250422083000 +0700">
+<title lang="en">Knicks vs Pistons - Game 1</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250422</date>
+</programme>
+<programme channel="300471" start="20250425060000 +0700" stop="20250425080000 +0700">
+<title lang="en">Pistons vs Knicks - Game 2</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250425</date>
+</programme>
+<channel id="500471">
+<display-name lang="en">Indiana Bucks</display-name>
+</channel>
+<programme channel="500471" start="20250423050000 +0700" stop="20250423070000 +0700">
+<title lang="en">Pacers vs Bucks - Game 1</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250423</date>
+</programme>
+<programme channel="500471" start="20250426060000 +0700" stop="20250426080000 +0700">
+<title lang="en">Bucks vs Pacers - Game 2</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250426</date>
+</programme>
+<programme channel="500471" start="20250423050000 +0700" stop="20250423070000 +0700">
+<title lang="en">Pacers vs Bucks - Game 1</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250423</date>
+</programme>
+<programme channel="500471" start="20250426060000 +0700" stop="20250426080000 +0700">
+<title lang="en">Bucks vs Pacers - Game 2</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250426</date>
+</programme>
+<channel id="600471">
+<display-name lang="en">Oklahoma Memphis</display-name>
+</channel>
+<programme channel="600471" start="20250421000000 +0700" stop="20250421020000 +0700">
+<title lang="en">Thunder vs Grizzlies - Game 1</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250421</date>
+</programme>
+<programme channel="600471" start="20250423053000 +0700" stop="20250423073000 +0700">
+<title lang="en">Thunder vs Grizzlies - Game 2</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250423</date>
+</programme>
+<programme channel="600471" start="20250425083000 +0700" stop="20250425103000 +0700">
+<title lang="en">Grizzlies vs Thunder - Game 3</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250425</date>
+</programme>
+<programme channel="600471" start="20250427023000 +0700" stop="20250427043000 +0700">
+<title lang="en">Grizzlies vs Thunder - Game 4</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250427</date>
+</programme>
+<programme channel="600471" start="20250421000000 +0700" stop="20250421020000 +0700">
+<title lang="en">Thunder vs Grizzlies - Game 1</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250421</date>
+</programme>
+<programme channel="600471" start="20250423053000 +0700" stop="20250423073000 +0700">
+<title lang="en">Thunder vs Grizzlies - Game 2</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250423</date>
+</programme>
+<programme channel="600471" start="20250425083000 +0700" stop="20250425103000 +0700">
+<title lang="en">Grizzlies vs Thunder - Game 3</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250425</date>
+</programme>
+<programme channel="600471" start="20250427023000 +0700" stop="20250427043000 +0700">
+<title lang="en">Grizzlies vs Thunder - Game 4</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250427</date>
+</programme>
+<channel id="700471">
+<display-name lang="en">Houston State</display-name>
+</channel>
+<programme channel="700471" start="20250421083000 +0700" stop="20250421103000 +0700">
+<title lang="en">Rockets vs Warriors - Game 1</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250421</date>
+</programme>
+<programme channel="700471" start="20250424083000 +0700" stop="20250424103000 +0700">
+<title lang="en">Rockets vs Warriors - Game 2</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250424</date>
+</programme>
+<programme channel="700471" start="20250421083000 +0700" stop="20250421103000 +0700">
+<title lang="en">Rockets vs Warriors - Game 1</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250421</date>
+</programme>
+<programme channel="700471" start="20250424083000 +0700" stop="20250424103000 +0700">
+<title lang="en">Rockets vs Warriors - Game 2</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250424</date>
+</programme>
+<channel id="800471">
+<display-name lang="en">Los Angeles Timberwolves</display-name>
+</channel>
+<programme channel="800471" start="20250423090000 +0700" stop="20250423110000 +0700">
+<title lang="en">Lakers vs Timberwolves - Game 1</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250423</date>
+</programme>
+<programme channel="800471" start="20250426083000 +0700" stop="20250426103000 +0700">
+<title lang="en">Timberwolves vs Lakers - Game 2</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250426</date>
+</programme>
+<programme channel="800471" start="20250423090000 +0700" stop="20250423110000 +0700">
+<title lang="en">Lakers vs Timberwolves - Game 1</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250423</date>
+</programme>
+<programme channel="800471" start="20250426083000 +0700" stop="20250426103000 +0700">
+<title lang="en">Timberwolves vs Lakers - Game 2</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250426</date>
+</programme>
+<channel id="900471">
+<display-name lang="en">Denver Clippers</display-name>
+</channel>
+<programme channel="900471" start="20250422090000 +0700" stop="20250422110000 +0700">
+<title lang="en">Nuggets vs Clippers - Game 1</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250422</date>
+</programme>
+<programme channel="900471" start="20250425090000 +0700" stop="20250425110000 +0700">
+<title lang="en">Clippers vs Nuggets - Game 2</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250425</date>
+</programme>
+<channel id="900471">
+<display-name lang="en">LA Clippers</display-name>
+</channel>
+<programme channel="900471" start="20250422090000 +0700" stop="20250422110000 +0700">
+<title lang="en">Nuggets vs Clippers - Game 1</title>
+<desc>Playoff Round 1 - Away</desc>
+<date>20250422</date>
+</programme>
+<programme channel="900471" start="20250425090000 +0700" stop="20250425110000 +0700">
+<title lang="en">Clippers vs Nuggets - Game 2</title>
+<desc>Playoff Round 1 - Home</desc>
+<date>20250425</date>
+</programme>
+</tv>
