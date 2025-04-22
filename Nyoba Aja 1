@@ -1,10 +1,4 @@
-#EXTM3U
-
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/LaLigaTV_%282023%29.svg/revision/latest/scale-to-width-down/200?cb=20240327213326" group-title="", Laliga TV
-http://tvhomesmart.xyz:8080/live/OskarPac2405/9LSCsS5cwfDX/12380.ts
-
-#EXTINF: -1 tvg-logo="https://media.info/l/o/1/1539.1689778027.png" group-title="", TNT Sports 1
-http://fixhdelite.xyz:8880/live/lorrainedombek@yahoo.com/EtFHhBW8U7/508184.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="", TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
+#EXTINF:-1 tvg-id="NickJr.id" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr HD
+https://cempedak-cdn-fly.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
