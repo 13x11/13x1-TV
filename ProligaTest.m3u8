@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="400471" tvg-name="Proliga GOR Jayabaya Kediri" tvg-logo="https://kulitbundar.com/wp-content/uploads/2025/04/pln-mobile-proliga-2025.jpg" group-title="Final Four PLN Mobile Proliga 2025",Final Four PLN Mobile Proliga 2025 Feed
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ecbed842ca06a0ae2723a481b4489aa:a5a0eb493b11dec043c8b797c417dba7
+https://popmi.my.id/tes.mpd?id=18234-pln-mobile-proliga-2025&ck=eyI1ZWNiZWQ4NDJjYTA2YTBhZTI3MjNhNDgxYjQ0ODlhYSI6ImE1YTBlYjQ5M2IxMWRlYzA0M2M4Yjc5N2M0MTdkYmE3In0=
