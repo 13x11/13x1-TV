@@ -1,0 +1,48 @@
+<tv date="20250418195704 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
+  <script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
+  <script/>
+  <script/>
+  <script/>
+  <channel id="405471">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">SV League Men</display-name>
+    <icon src="https://thumbor.prod.vidiocdn.com/VOAtnqoIMAj2oErWZmuoLkleHGE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18345/sv-league-2024-25-074579.jpg"/>
+  </channel>
+  <channel id="406471">
+    <display-name lang="United Kingdom of Great Britain and Northern Ireland">SV League Men</display-name>
+    <icon src="https://thumbor.prod.vidiocdn.com/VOAtnqoIMAj2oErWZmuoLkleHGE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18345/sv-league-2024-25-074579.jpg"/>
+  </channel>
+
+<!-- Suntory Sunbirds vs Wolfdogs Nagoya -->
+<programme channel="405471" start="20250425180500 +0900" stop="20250425200500 +0900">
+  <title lang="zh">Men: Suntory Sunbirds vs Wolfdogs Nagoya - Game 1</title>
+  <desc>Semifinal SV.League Japan 2025 - Asue Arena Osaka</desc>
+  <date>2025-04-25</date>
+</programme>
+<programme channel="405471" start="20250426180500 +0900" stop="20250426200500 +0900">
+  <title lang="zh">Men: Suntory Sunbirds vs Wolfdogs Nagoya - Game 2</title>
+  <desc>Semifinal SV.League Japan 2025 - Asue Arena Osaka</desc>
+  <date>2025-04-26</date>
+</programme>
+<programme channel="405471" start="20250427180500 +0900" stop="20250427200500 +0900">
+  <title lang="zh">Men: Suntory Sunbirds vs Wolfdogs Nagoya - Game 3 (if necessary)</title>
+  <desc>Semifinal SV.League Japan 2025 - Asue Arena Osaka</desc>
+  <date>2025-04-26</date>
+</programme>
+
+<!-- Osaka Bluteon vs JTEKT Stings Aichi -->
+<programme channel="406471" start="20250425130500 +0900" stop="20250425150500 +0900">
+  <title lang="zh">Men: Osaka Bluteon vs JTEKT Stings Aichi - Game 1</title>
+  <desc>Semifinal SV.League Japan 2025 - Asue Arena Osaka</desc>
+  <date>2025-04-25</date>
+</programme>
+<programme channel="405471" start="20250426130500 +0900" stop="20250426150500 +0900">
+  <title lang="zh">Men: Osaka Bluteon vs JTEKT Stings Aichi - Game 2</title>
+  <desc>Semifinal SV.League Japan 2025 - Asue Arena Osaka</desc>
+  <date>2025-04-26</date>
+</programme>
+<programme channel="405471" start="20250427130500 +0900" stop="20250427150500 +0900">
+  <title lang="zh">Men: Men: Osaka Bluteon vs JTEKT Stings Aichi - Game 3 (if necessary)</title>
+  <desc>Semifinal SV.League Japan 2025 - Asue Arena Osaka</desc>
+  <date>2025-04-27</date>
+</programme>
+</tv>
