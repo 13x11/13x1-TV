@@ -1,21 +1,37 @@
-<tv date="20250418195704 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
+<tv date="20250425203000 +0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
   <script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
   <script/>
   <script/>
   <script/>
   <channel id="101.sudirman">
     <display-name lang="en">Court 1</display-name>
-    <icon src="https://imgur.com/a/IEjCcQb"/>
+    <icon src="https://i.imgur.com/QGNofEB.png"/>
   </channel>
   <channel id="102.sudirman">
     <display-name lang="en">Court 2</display-name>
-    <icon src="https://imgur.com/a/IEjCcQb"/>
+    <icon src="https://i.imgur.com/sMiHJi0.png"/>
   </channel>
   <channel id="103.sudirman">
     <display-name lang="en">Court 3</display-name>
-    <icon src="https://imgur.com/a/IEjCcQb"/>
+    <icon src="https://i.imgur.com/AnytPxM.png"/>
   </channel>
 
+  <!-- Promo Video -->
+<programme channel="101.sudirman" start="20250425203000 +0700" stop="2025042708300 +0700">
+  <title lang="en">TotalEnergies BWF Sudirman Cup Finals 2025 Video Promo</title>
+  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 - Xiamen Olympic Sports Center</desc>
+  <date>2025-04-27</date>
+</programme>
+<programme channel="102.sudirman" start="20250425203000 +0700" stop="2025042708300 +0700">
+  <title lang="en">TotalEnergies BWF Sudirman Cup Finals 2025 Video Promo</title>
+  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 - Xiamen Olympic Sports Center</desc>
+  <date>2025-04-27</date>
+</programme>
+<programme channel="103.sudirman" start="20250425203000 +0700" stop="2025042708300 +0700">
+  <title lang="en">TotalEnergies BWF Sudirman Cup Finals 2025 Video Promo</title>
+  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 - Xiamen Olympic Sports Center</desc>
+  <date>2025-04-27</date>
+</programme>
 
   <!-- Group A -->
 <programme channel="102.sudirman" start="20250427083000 +0700" stop="20250427115000 +0700">
@@ -144,3 +160,4 @@
   <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - D</desc>
   <date>2025-05-01</date>
 </programme>
+</tv>
