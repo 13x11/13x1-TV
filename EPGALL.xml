@@ -1,4 +1,4 @@
-<tv date="20250425203000 +0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
+<tv date="20250426203000 +0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
   <script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
   <script/>
   <script/>
@@ -28,7 +28,7 @@
 <programme channel="9182" start="20250426210000 +0700" stop="20250426230000 +0700">
   <title lang="en">Newcastle vs Ipswich</title>
   <desc>Premier League Matchday 34 - St. James' Park</desc>
-  <date>2025-04-27</date>
+  <date>2025-04-26</date>
 </programme>
 <programme channel="9182" start="20250427223000 +0700" stop="20250428003000 +0700">
   <title lang="en">Liverpool vs Tottenham</title>
@@ -40,18 +40,18 @@
 <programme channel="9183" start="20250426210000 +0700" stop="20250426230000 +0700">
   <title lang="en">Brighton vs West Ham</title>
   <desc>Premier League Matchday 34 - Falmer Stadium</desc>
-  <date>2025-04-27</date>
+  <date>2025-04-26</date>
 </programme>
 
   <!-- Premier League TV -->
 <programme channel="17638" start="20250426210000 +0700" stop="20250426230000 +0700">
   <title lang="en">Wolves vs Leicester City</title>
   <desc>Premier League Matchday 34 - Molineux Stadium</desc>
-  <date>2025-04-27</date>
+  <date>2025-04-26</date>
 </programme>
 <programme channel="17882" start="20250426210000 +0700" stop="20250426230000 +0700">
   <title lang="en">Southampton vs Fulham</title>
   <desc>Premier League Matchday 34 - St. Mary's Stadium</desc>
-  <date>2025-04-27</date>
+  <date>2025-04-26</date>
 </programme>
 </tv>
