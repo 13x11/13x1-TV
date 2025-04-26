@@ -24,7 +24,7 @@
     <icon src="https://i.imgur.com/AnytPxM.png"/>
   </channel>
 
-  <!-- Champions TV 5 -->
+<!-- Champions TV 5 -->
 <programme channel="9182" start="20250426210000 +0700" stop="20250426230000 +0700">
   <title lang="en">Newcastle vs Ipswich</title>
   <desc>Premier League Matchday 34 - St. James' Park</desc>
@@ -36,14 +36,14 @@
   <date>2025-04-27</date>
 </programme>
 
-   <!-- Champions TV 6 -->
+<!-- Champions TV 6 -->
 <programme channel="9183" start="20250426210000 +0700" stop="20250426230000 +0700">
   <title lang="en">Brighton vs West Ham</title>
   <desc>Premier League Matchday 34 - Falmer Stadium</desc>
   <date>2025-04-26</date>
 </programme>
 
-  <!-- Premier League TV -->
+<!-- Premier League TV -->
 <programme channel="17638" start="20250426210000 +0700" stop="20250426230000 +0700">
   <title lang="en">Wolves vs Leicester City</title>
   <desc>Premier League Matchday 34 - Molineux Stadium</desc>
