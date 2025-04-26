@@ -23,6 +23,16 @@
     <display-name lang="en">Premier League3</display-name>
     <icon src="https://i.imgur.com/AnytPxM.png"/>
   </channel>
+  <channel id="0400">
+    <display-name lang="en">CDR</display-name>
+    <icon src="https://i.imgur.com/AnytPxM.png"/>
+  </channel>
+
+<programme channel="0400" start="20250427030000 +0700" stop="20250427050000 +0700">
+  <title lang="en">FC Barcelona vs Real Madrid</title>
+  <desc>Copa del Rey 2025 Final - Estadio de La Cartuja in Seville</desc>
+  <date>2025-04-27</date>
+</programme>
 
 <!-- Champions TV 5 -->
 <programme channel="9182" start="20250426210000 +0700" stop="20250426230000 +0700">
