@@ -35,10 +35,10 @@
 </programme>
 
 <!-- Champions TV 5 -->
-<programme channel="9182" start="20250426210000 +0700" stop="20250426230000 +0700">
-  <title lang="en">Newcastle vs Ipswich</title>
-  <desc>Premier League Matchday 34 - St. James' Park</desc>
-  <date>2025-04-26</date>
+<programme channel="9182" start="20250427200000 +0700" stop="20250427220000 +0700">
+  <title lang="en">Bournemouth vs Man United</title>
+  <desc>Premier League Matchday 34 - Vitality Stadium</desc>
+  <date>2025-04-27</date>
 </programme>
 <programme channel="9182" start="20250427223000 +0700" stop="20250428003000 +0700">
   <title lang="en">Liverpool vs Tottenham</title>
