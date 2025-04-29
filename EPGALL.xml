@@ -23,15 +23,24 @@
     <display-name lang="en">Premier League3</display-name>
     <icon src="https://i.imgur.com/AnytPxM.png"/>
   </channel>
-  <channel id="0400">
-    <display-name lang="en">CDR</display-name>
+  <channel id="010525">
+    <display-name lang="en">UCL2</display-name>
+    <icon src="https://i.imgur.com/AnytPxM.png"/>
+  </channel>
+   <channel id="300425">
+    <display-name lang="en">UCL1</display-name>
     <icon src="https://i.imgur.com/AnytPxM.png"/>
   </channel>
 
-<programme channel="0400" start="20250427030000 +0700" stop="20250427050000 +0700">
-  <title lang="en">FC Barcelona vs Real Madrid</title>
-  <desc>Copa del Rey 2025 Final - Estadio de La Cartuja in Seville</desc>
-  <date>2025-04-27</date>
+<programme channel="300425" start="20250430030000 +0700" stop="20250430050000 +0700">
+  <title lang="en">Arsenal F.C. vs. Paris Saint-Germain F.C.</title>
+  <desc>UEFA Champions League Semi-final - Emirates Stadium</desc>
+  <date>2025-04-30</date>
+</programme>
+<programme channel="010525" start="20250430030000 +0700" stop="20250430050000 +0700">
+  <title lang="en">FC Barcelona vs. Inter Milan</title>
+  <desc>UEFA Champions League Semi-final - Estadi Olímpic Lluís Companys</desc>
+  <date>2025-05-01</date>
 </programme>
 
 <!-- Champions TV 5 -->
