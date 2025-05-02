@@ -1,5 +1,4 @@
 <tv date="20250426203000 +0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
-
   <channel id="9182">
     <display-name lang="en">Champions5</display-name>
     <icon src="https://i.imgur.com/QGNofEB.png"/>
@@ -39,7 +38,7 @@
   <desc>UEFA Champions League Semi-final - Emirates Stadium</desc>
   <date>2025-04-30</date>
 </programme>
-<programme channel="010525" start="20250501020000 +0700" stop="2025050`040000 +0700">
+<programme channel="010525" start="20250501020000 +0700" stop="2025050040000 +0700">
   <title lang="en">FC Barcelona vs. Inter Milan</title>
   <desc>UEFA Champions League Semi-final - Estadi Olímpic Lluís Companys</desc>
   <date>2025-05-01</date>
