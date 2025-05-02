@@ -20,47 +20,38 @@
   </channel>
 
   
-  <!-- Cavaliers vs Heat -->
-  <programme channel="100471" start="20250429063000 +0700" stop="20250429090000 +0700">
-    <title lang="en">Cleveland Cavaliers vs Miami Heat - Game 4</title>
-    <desc>Playoff Game 4</desc>
-    <date>20250429</date>
+  <!-- 1/8 Finals -->
+  <programme channel="700471" start="20250503080000 +0700" stop="20250503103000 +0700">
+    <title lang="en">Golden State Warriors vs Houston Rockets - Game 6</title>
+    <desc>NBA - Play Offs - 1/8 Finals - Chase Center (San Francisco, CA)</desc>
+    <date>20250503</date>
+  </programme>
+  <programme channel="900471" start="20250504063000 +0700" stop="20250504080000 +0700">
+    <title lang="en">Denver Nuggets vs Los Angeles Clippers - Game 7</title>
+    <desc>NBA - Play Offs - 1/8 Finals - Ball Arena (Denver, CO)</desc>
+    <date>20250503</date>
   </programme>
 
-  <!-- Bucks vs Pacers -->
-  <programme channel="500471" start="20250428083000 +0700" stop="20250428110000 +0700">
-    <title lang="en">Milwaukee Bucks vs Indiana Pacers - Game 4</title>
-    <desc>Playoff Game 4 - Fiserv Forum</desc>
-    <date>20250428</date>
+  <!-- Quarter-Finals CLE-IND -->
+  <programme channel="100471" start="20250505030000 +0700" stop="20250505043000 +0700">
+    <title lang="en">Cleveland Cavaliers vs Indiana Pacers - Game 1</title>
+    <desc>NBA - Play Offs - Quarter Finals - Rocket Mortgage FieldHouse (Cleveland, OH)</desc>
+    <date>20250505</date>
   </programme>
-  <programme channel="500471" start="20250430050000 +0700" stop="20250430073000 +0700">
-    <title lang="en">Milwaukee Bucks vs Indiana Pacers - Game 5</title>
-    <desc>Playoff Game 5 - Gainbridge Fieldhouse</desc>
-    <date>20250430</date>
+  <programme channel="100471" start="20250507030000 +0700" stop="20250507043000 +0700">
+    <title lang="en">Cleveland Cavaliers vs Indiana Pacers - Game 2</title>
+    <desc>NBA - Play Offs - Quarter Finals - Rocket Mortgage FieldHouse (Cleveland, OH)</desc>
+    <date>20250507</date>
   </programme>
-
-  <!-- Magic vs Celtics -->
-  <programme channel="200471" start="20250428060000 +0700" stop="20250428083000 +0700">
-    <title lang="en">Orlando Magic vs Boston Celtics - Game 4</title>
-    <desc>Playoff Game 4 - Kia Center</desc>
-    <date>20250428</date>
+  <programme channel="100471" start="20250510030000 +0700" stop="20250510043000 +0700">
+    <title lang="en">Cleveland Cavaliers vs Indiana Pacers - Game 3</title>
+    <desc>NBA - Play Offs - Quarter Finals - Gainbridge Fieldhouse (Indianapolis, IN)</desc>
+    <date>20250510</date>
   </programme>
-  <programme channel="200471" start="20250430073000 +0700" stop="20250430100000 +0700">
-    <title lang="en">Orlando Magic vs Boston Celtics - Game 5</title>
-    <desc>Playoff Game 5 - TD Garden</desc>
-    <date>20250430</date>
+  <programme channel="100471" start="20250512030000 +0700" stop="20250512043000 +0700">
+    <title lang="en">Cleveland Cavaliers vs Indiana Pacers - Game 4</title>
+    <desc>NBA - Play Offs - Quarter Finals - Gainbridge Fieldhouse (Indianapolis, IN)</desc>
+    <date>20250512</date>
   </programme>
-
-  <!-- Knicks vs Pistons -->
-  <programme channel="300471" start="20250428000000 +0700" stop="20250428023000 +0700">
-    <title lang="en">Detroit Pistons vs New York Knicks - Game 4</title>
-    <desc>Playoff Game 4 - Little Caesars Arena</desc>
-    <date>20250428</date>
-  </programme>
-  <programme channel="300471" start="20250430063000 +0700" stop="20250430900000 +0700">
-    <title lang="en">Detroit Pistons vs New York Knicks - Game 5</title>
-    <desc>Playoff Game 5 - Madison Square Garden</desc>
-    <date>20250430</date>
-  </programme>
-
+  
 </tv>
