@@ -33,131 +33,15 @@
   <date>2025-04-27</date>
 </programme>
 
-  <!-- Group A -->
-<programme channel="102.sudirman" start="20250427083000 +0700" stop="20250427115000 +0700">
-  <title lang="en">Thailand vs Hong Kong China</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - A</desc>
-  <date>2025-04-27</date>
+  <!-- Semifinal -->
+<programme channel="101.sudirman" start="20250503083000 +0700" stop="20250503130000 +0700">
+  <title lang="en">China vs Japan</title>
+  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Sudirman Cup - Knock-out - Semi Final</desc>
+  <date>2025-05-03</date>
 </programme>
-<programme channel="103.sudirman" start="20250427160000 +0700" stop="20250427192000 +0700">
-  <title lang="en">China vs Aljazair</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - A</desc>
-  <date>2025-04-27</date>
-</programme>
-<programme channel="103.sudirman" start="20250428160000 +0700" stop="20250428192000 +0700">
-  <title lang="en">Thailand vs Aljazair</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - A</desc>
-  <date>2025-04-28</date>
-</programme>
-<programme channel="101.sudirman" start="20250428160000 +0700" stop="20250428192000 +0700">
-  <title lang="en">China vs Hong Kong China</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - A</desc>
-  <date>2025-04-28</date>
-</programme>
-<programme channel="101.sudirman" start="20250430083000 +0700" stop="20250430123000 +0700">
-  <title lang="en">Thailand vs Aljazair</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - A</desc>
-  <date>2025-04-30</date>
-</programme>
-<programme channel="101.sudirman" start="20250430160000 +0700" stop="20250430203000 +0700">
-  <title lang="en">China vs Thailand</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - A</desc>
-  <date>2025-04-30</date>
-</programme>
-
-   <!-- Group B -->
-<programme channel="103.sudirman" start="20250427083000 +0700" stop="20250427115000 +0700">
-  <title lang="en">Korea vs Ceko</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - B</desc>
-  <date>2025-04-27</date>
-</programme>
-<programme channel="101.sudirman" start="20250427083000 +0700" stop="20250427115000 +0700">
-  <title lang="en">Chinese Taipei vs Kanada</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - B</desc>
-  <date>2025-04-27</date>
-</programme>
-<programme channel="101.sudirman" start="20250428083000 +0700" stop="20250428115000 +0700">
-  <title lang="en">Korea vs Kanada</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - B</desc>
-  <date>2025-04-28</date>
-</programme>
-<programme channel="102.sudirman" start="20250428160000 +0700" stop="20250428192000 +0700">
-  <title lang="en">Chinese Taipei vs Ceko</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - B</desc>
-  <date>2025-04-28</date>
-</programme>
-<programme channel="102.sudirman" start="20250430083000 +0700" stop="20250430123000 +0700">
-  <title lang="en">Kanada vs Ceko</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - B</desc>
-  <date>2025-04-30</date>
-</programme>
-<programme channel="102.sudirman" start="20250430160000 +0700" stop="20250430203000 +0700">
-  <title lang="en">Korea vs Chinese Taipei</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - B</desc>
-  <date>2025-04-30</date>
-</programme>
-
-  <!-- Group C -->
-<programme channel="103.sudirman" start="20250428083000 +0700" stop="20250428115000 +0700">
-  <title lang="en">Jepang vs Australia</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - C</desc>
-  <date>2025-04-28</date>
-</programme>
-<programme channel="102.sudirman" start="20250428083000 +0700" stop="20250428115000 +0700">
-  <title lang="en">Malaysia vs Perancis</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - C</desc>
-  <date>2025-04-28</date>
-</programme>
-<programme channel="102.sudirman" start="20250429083000 +0700" stop="20250429123000 +0700">
-  <title lang="en">Malaysia vs Australia</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - C</desc>
-  <date>2025-04-29</date>
-</programme>
-<programme channel="101.sudirman" start="20250429083000 +0700" stop="20250429123000 +0700">
-  <title lang="en">Jepang vs Perancis</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - C</desc>
-  <date>2025-04-29</date>
-</programme>
-<programme channel="101.sudirman" start="20250501083000 +0700" stop="20250501123000 +0700">
-  <title lang="en">Jepang vs Malaysia</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - C</desc>
-  <date>2025-05-01</date>
-</programme>
-<programme channel="101.sudirman" start="20250501160000 +0700" stop="20250501203000 +0700">
-  <title lang="en">Perancis vs Australia</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - C</desc>
-  <date>2025-05-01</date>
-</programme>
-
-  <!-- Group D -->
-<programme channel="102.sudirman" start="20250427160000 +0700" stop="20250427192000 +0700">
-  <title lang="en">Indonesia vs Inggris</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - D</desc>
-  <date>2025-04-27</date>
-</programme>
-<programme channel="101.sudirman" start="20250427160000 +0700" stop="20250427192000 +0700">
-  <title lang="en">Denmark vs India</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - D</desc>
-  <date>2025-04-27</date>
-</programme>
-<programme channel="102.sudirman" start="20250429160000 +0700" stop="20250429203000 +0700">
-  <title lang="en">Denmark vs Inggris</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - D</desc>
-  <date>2025-04-29</date>
-</programme>
-<programme channel="101.sudirman" start="20250429160000 +0700" stop="20250429203000 +0700">
-  <title lang="en">Indonesia vs India</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - D</desc>
-  <date>2025-04-29</date>
-</programme>
-<programme channel="102.sudirman" start="20250501083000 +0700" stop="20250501230000 +0700">
-  <title lang="en">Indonesia vs Denmark</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - D</desc>
-  <date>2025-05-01</date>
-</programme>
-<programme channel="102.sudirman" start="20250501160000 +0700" stop="20250501203000 +0700">
-  <title lang="en">India vs Inggris</title>
-  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Group - D</desc>
-  <date>2025-05-01</date>
+<programme channel="101.sudirman" start="20250503160000 +0700" stop="20250503203000 +0700">
+  <title lang="en">Indonesia vs Korea</title>
+  <desc>TotalEnergies BWF Sudirman Cup Finals 2025 Sudirman Cup - Knock-out - Semi Final</desc>
+  <date>2025-05-03</date>
 </programme>
 </tv>
