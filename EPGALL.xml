@@ -33,15 +33,15 @@
   </channel>
 
 <!-- UCL -->
-<programme channel="300425" start="20250430020000 +0700" stop="20250430040000 +0700">
-  <title lang="en">Arsenal F.C. vs. Paris Saint-Germain F.C.</title>
-  <desc>UEFA Champions League Semi-final - Emirates Stadium</desc>
-  <date>2025-04-30</date>
+<programme channel="300425" start="20250508020000 +0700" stop="20250508040000 +0700">
+  <title lang="en">Paris Saint-Germain F.C. vs. Arsenal F.C.</title>
+  <desc>UEFA Champions League Semi-final - Parc des Princes</desc>
+  <date>2025-05-08</date>
 </programme>
-<programme channel="010525" start="20250501020000 +0700" stop="2025050140000 +0700">
-  <title lang="en">FC Barcelona vs. Inter Milan</title>
-  <desc>UEFA Champions League Semi-final - Estadi Olímpic Lluís Companys</desc>
-  <date>2025-05-01</date>
+<programme channel="010525" start="20250507020000 +0700" stop="20250507040000 +0700">
+  <title lang="en">Inter Milan vs. FC Barcelona</title>
+  <desc>UEFA Champions League Semi-final - Stadio Giuseppe Meazza</desc>
+  <date>2025-05-07</date>
 </programme>
 
 <!-- Champions TV 5 -->
