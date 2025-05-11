@@ -31,8 +31,20 @@
     <display-name lang="en">PFL</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9c/LOGO_PRO_FUTSAL_LEAGUE_2025.png"/>
   </channel>
+  </channel>
+   <channel id="110525">
+    <display-name lang="en">FCB</display-name>
+    <icon src="https://media.gq.com.mx/photos/62360bd01982a4c011ad4c28/16:9/w_2992,h_1683,c_limit/madrid%20vs%20barca.jpg"/>
+  </channel>
 
-<!-- UCL -->
+ <!-- UCL -->
+<programme channel="110525" start="20250511211500 +0700" stop="20250511231500 +0700">
+  <title lang="en">FC Barcelona vs Real Madrid CF</title>
+  <desc>LaLiga Matchday 35 - Estadi Olímpic Lluís Companys</desc>
+  <date>2025-05-11</date>
+</programme>
+  
+  <!-- UCL -->
 <programme channel="300425" start="20250508020000 +0700" stop="20250508040000 +0700">
   <title lang="en">Paris Saint-Germain F.C. vs. Arsenal F.C.</title>
   <desc>UEFA Champions League Semi-final - Parc des Princes</desc>
