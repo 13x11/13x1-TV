@@ -35,12 +35,26 @@
     <display-name lang="en">FCB</display-name>
     <icon src="https://editorial.uefa.com/resources/0299-1dd33004abad-c70bde8742ac-1000/uefa_champions_league_2025_final_teams_jerseys_shoot.jpeg"/>
   </channel>
+  <channel id="060525">
+    <display-name lang="en">UNL1</display-name>
+    <icon src="https://i.imgur.com/QGNofEB.png"/>
+  </channel>
+  <channel id="060625">
+    <display-name lang="en">UNL2</display-name>
+    <icon src="https://i.imgur.com/QGNofEB.png"/>
+  </channel>
+  
 
  <!-- UCL -->
-<programme channel="110525" start="20250601020000 +0700" stop="20250601040000 +0700">
-  <title lang="en">Paris Saint-Germain vs. FC Internazionale Milano</title>
-  <desc>UEFA Champions League Final 2025 - Munich Football Arena</desc>
-  <date>2025-06-01</date>
+<programme channel="060525" start="20250605020000 +0700" stop="20250605040000 +0700">
+  <title lang="en">Germany vs. Portugal</title>
+  <desc>UEFA Nations League 2025 Semifinals - Munich Football Arena</desc>
+  <date>2025-06-05</date>
+</programme>
+<programme channel="060625" start="20250606020000 +0700" stop="20250606040000 +0700">
+  <title lang="en">Spain vs. France</title>
+  <desc>UEFA Nations League 2025 Semifinals - Stuttgart Arena</desc>
+  <date>2025-06-06</date>
 </programme>
   
   <!-- UCL -->
