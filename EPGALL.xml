@@ -1,15 +1,15 @@
 <tv date="20250426203000 +0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
   <channel id="100.sports">
     <display-name lang="en">S1</display-name>
-    <icon src="https://i.imgur.com/AnytPxM.png"/>
+    <icon src="https://i.imgur.com/DzjoHlU.png"/>
   </channel>
   <channel id="101.sports">
     <display-name lang="en">S2</display-name>
-    <icon src="https://i.imgur.com/QGNofEB.png"/>
+    <icon src="https://i.imgur.com/DzjoHlU.png"/>
   </channel>
   <channel id="102.sports">
     <display-name lang="en">S3</display-name>
-    <icon src="https://i.imgur.com/QGNofEB.png"/>
+    <icon src="https://i.imgur.com/DzjoHlU.png"/>
   </channel>
   
 
@@ -19,9 +19,14 @@
   <desc>FIFA World Cup Qualifiers - CONMEBOL - Estadio Mâs Monumental</desc>
   <date>2025-06-11</date>
 </programme>
-<programme channel="060625" start="20250610180000 +0700" stop="20250610200000 +0700">
-  <title lang="en">China vs. Bahrain</title>
-  <desc>AFC Asian Qualifiers™ - Matchday 10 - Chongqing Olympic Sports Centre</desc>
-  <date>2025-06-10</date>
+<programme channel="101.sports" start="20250611084500 +0800" stop="20250611104500 +0800">
+  <title lang="en">Brazil vs. Paraguay</title>
+  <desc>FIFA World Cup Qualifiers - CONMEBOL - Neo Quimica Arena, Sao Paulo</desc>
+  <date>2025-06-11</date>
+</programme>
+<programme channel="102.sports" start="20250611093000 +0800" stop="20250611113000 +0800">
+  <title lang="en">Peru vs. Ecuador</title>
+  <desc>FIFA World Cup Qualifiers - CONMEBOL - Estadio Nacional de Lima</desc>
+  <date>2025-06-11</date>
 </programme>
 </tv>
