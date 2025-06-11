@@ -1,39 +1,7 @@
 <tv date="20250426203000 +0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
-  <channel id="9182">
-    <display-name lang="en">Champions5</display-name>
-    <icon src="https://i.imgur.com/QGNofEB.png"/>
-  </channel>
-  <channel id="9183">
-    <display-name lang="en">Champions6</display-name>
-    <icon src="https://i.imgur.com/sMiHJi0.png"/>
-  </channel>
-  <channel id="17882">
-    <display-name lang="en">Premier League</display-name>
+  <channel id="000001">
+    <display-name lang="en">Match1</display-name>
     <icon src="https://i.imgur.com/AnytPxM.png"/>
-  </channel>
-  <channel id="17638">
-    <display-name lang="en">Premier League2</display-name>
-    <icon src="https://i.imgur.com/AnytPxM.png"/>
-  </channel>
-  <channel id="9353">
-    <display-name lang="en">Premier League3</display-name>
-    <icon src="https://i.imgur.com/AnytPxM.png"/>
-  </channel>
-  <channel id="010525">
-    <display-name lang="en">UCL2</display-name>
-    <icon src="https://i.imgur.com/AnytPxM.png"/>
-  </channel>
-   <channel id="300425">
-    <display-name lang="en">UCL1</display-name>
-    <icon src="https://i.imgur.com/AnytPxM.png"/>
-  </channel>
-   <channel id="030525">
-    <display-name lang="en">PFL</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9c/LOGO_PRO_FUTSAL_LEAGUE_2025.png"/>
-  </channel>
-   <channel id="110525">
-    <display-name lang="en">FCB</display-name>
-    <icon src="https://editorial.uefa.com/resources/0299-1dd33004abad-c70bde8742ac-1000/uefa_champions_league_2025_final_teams_jerseys_shoot.jpeg"/>
   </channel>
   <channel id="060525">
     <display-name lang="en">UNL1</display-name>
@@ -45,110 +13,15 @@
   </channel>
   
 
- <!-- UCL -->
-<programme channel="060525" start="20250610173500 +0700" stop="20250610193500 +0700">
-  <title lang="en">Japan vs. Indonesia</title>
-  <desc>AFC Asian Qualifiers™ - Matchday 10 - Panasonic Stadium Suita</desc>
-  <date>2025-06-10</date>
+ <!-- Football -->
+<programme channel="000001" start="20250611080000 +0800" stop="20250611100000 +0800">
+  <title lang="en">Argentina vs. Colombia</title>
+  <desc>FIFA World Cup Qualifiers - CONMEBOL - Estadio Mâs Monumental</desc>
+  <date>2025-06-11</date>
 </programme>
 <programme channel="060625" start="20250610180000 +0700" stop="20250610200000 +0700">
   <title lang="en">China vs. Bahrain</title>
   <desc>AFC Asian Qualifiers™ - Matchday 10 - Chongqing Olympic Sports Centre</desc>
   <date>2025-06-10</date>
-</programme>
-  
-  <!-- UCL -->
-<programme channel="300425" start="20250508020000 +0700" stop="20250508040000 +0700">
-  <title lang="en">Paris Saint-Germain F.C. vs. Arsenal F.C.</title>
-  <desc>UEFA Champions League Semi-final - Parc des Princes</desc>
-  <date>2025-05-08</date>
-</programme>
-<programme channel="010525" start="20250507020000 +0700" stop="20250507040000 +0700">
-  <title lang="en">Inter Milan vs. FC Barcelona</title>
-  <desc>UEFA Champions League Semi-final - Stadio Giuseppe Meazza</desc>
-  <date>2025-05-07</date>
-</programme>
-
-<!-- Champions TV 5 -->
-<programme channel="9182" start="20250427200000 +0700" stop="20250427220000 +0700">
-  <title lang="en">Bournemouth vs Man United</title>
-  <desc>Premier League Matchday 34 - Vitality Stadium</desc>
-  <date>2025-04-27</date>
-</programme>
-<programme channel="9182" start="20250427223000 +0700" stop="20250428003000 +0700">
-  <title lang="en">Liverpool vs Tottenham</title>
-  <desc>Premier League Matchday 34 - Anfield</desc>
-  <date>2025-04-27</date>
-</programme>
-
-<!-- Champions TV 6 -->
-<programme channel="9183" start="20250426210000 +0700" stop="20250426230000 +0700">
-  <title lang="en">Brighton vs West Ham</title>
-  <desc>Premier League Matchday 34 - Falmer Stadium</desc>
-  <date>2025-04-26</date>
-</programme>
-
-<!-- Premier League TV -->
-<programme channel="17638" start="20250426210000 +0700" stop="20250426230000 +0700">
-  <title lang="en">Wolves vs Leicester City</title>
-  <desc>Premier League Matchday 34 - Molineux Stadium</desc>
-  <date>2025-04-26</date>
-</programme>
-<programme channel="17882" start="20250426210000 +0700" stop="20250426230000 +0700">
-  <title lang="en">Southampton vs Fulham</title>
-  <desc>Premier League Matchday 34 - St. Mary's Stadium</desc>
-  <date>2025-04-26</date>
-</programme>
-
-<!-- PFL -->
-<programme channel="030525" start="20250503090000 +0700" stop="20250503110000 +0700">
-  <title lang="en">Black Steel FC Papua vs Moncongbulo FC</title>
-  <desc>Pekan 8 PFL 2024/2025 - GOR Harapan Bangsa, Lhong Raya, Banda Aceh</desc>
-  <date>2025-05-03</date>
-</programme>
-<programme channel="030525" start="20250503110000 +0700" stop="20250503130000 +0700">
-  <title lang="en">Fafage Banua vs Pangsuma FC Kalbar</title>
-  <desc>Pekan 8 PFL 2024/2025 - GOR Harapan Bangsa, Lhong Raya, Banda Aceh</desc>
-  <date>2025-05-03</date>
-</programme>
-<programme channel="030525" start="20250503130000 +0700" stop="20250503150000 +0700">
-  <title lang="en">Kuda Laut Nusantara vs Bintang Timur Surabaya</title>
-  <desc>Pekan 8 PFL 2024/2025 - GOR Harapan Bangsa, Lhong Raya, Banda Aceh</desc>
-  <date>2025-05-03</date>
-</programme>
-<programme channel="030525" start="20250503150000 +0700" stop="20250503170000 +0700">
-  <title lang="en">Sadakata United FC vs Rafhely FC Padang</title>
-  <desc>Pekan 8 PFL 2024/2025 - GOR Harapan Bangsa, Lhong Raya, Banda Aceh</desc>
-  <date>2025-05-03</date>
-</programme>
-<programme channel="030525" start="20250503170000 +0700" stop="20250503190000 +0700">
-  <title lang="en">Cosmo JNE Jakarta vs Unggul FC Malang</title>
-  <desc>Pekan 8 PFL 2024/2025 - GOR Harapan Bangsa, Lhong Raya, Banda Aceh</desc>
-  <date>2025-05-03</date>
-</programme>
-<programme channel="030525" start="20250504090000 +0700" stop="20250504110000 +0700">
-  <title lang="en">Moncongbulo FC vs Pangsuma FC Kalbar</title>
-  <desc>Pekan 8 PFL 2024/2025 - GOR Harapan Bangsa, Lhong Raya, Banda Aceh</desc>
-  <date>2025-05-04</date>
-</programme>
-<programme channel="030525" start="20250504110000 +0700" stop="20250504130000 +0700">
-  <title lang="en">Bintang Timur Surabaya vs Black Steel FC Papua</title>
-  <desc>Pekan 8 PFL 2024/2025 - GOR Harapan Bangsa, Lhong Raya, Banda Aceh</desc>
-  <date>2025-05-04</date>
-</programme>
-<programme channel="030525" start="20250504130000 +0700" stop="20250504150000 +0700">
-  <title lang="en">Sadakata United FC vs Kuda Laut Nusantara</title>
-  <desc>Pekan 8 PFL 2024/2025 - GOR Harapan Bangsa, Lhong Raya, Banda Aceh</desc>
-  <date>2025-05-04</date>
-</programme>
-<programme channel="030525" start="20250504150000 +0700" stop="20250504170000 +0700">
-  <title lang="en">Fafage Banua vs Cosmo JNE Jakarta</title>
-  <desc>Pekan 8 PFL 2024/2025 - GOR Harapan Bangsa, Lhong Raya, Banda Aceh</desc>
-  <date>2025-05-04</date>
-</programme>
-<programme channel="030525" start="20250504170000 +0700" stop="20250504190000 +0700">
-  <title lang="en">Rafhely FC Padang vs Unggul FC Malang</title>
-  <desc>Pekan 8 PFL 2024/2025 - GOR Harapan Bangsa, Lhong Raya, Banda Aceh</desc>
-  <date>2025-05-04</date>
 </programme>
 </tv>
