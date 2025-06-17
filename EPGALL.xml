@@ -55,7 +55,7 @@
   <desc>FIFA Club World Cup 2025™ - Matchday 1 - Hard Rock Stadium, Miami</desc>
   <date>2025-06-17</date>
 </programme>
-<programme channel="102.sports" start="20250617090000 +0800" stop="20250617110000 +0800">
+<programme channel="100.sports" start="20250617090000 +0800" stop="20250617110000 +0800">
   <title lang="en">CR Flamengo vs. Espérance Sportive de Tunis</title>
   <desc>FIFA Club World Cup 2025™ - Matchday 1 - Lincoln Financial Field, Philadelphia</desc>
   <date>2025-06-17</date>
@@ -67,12 +67,12 @@
   <desc>FIFA Club World Cup 2025™ - Matchday 1 - MetLife Stadium, New York</desc>
   <date>2025-06-18</date>
 </programme>
-<programme channel="101.sports" start="20250618030000 +0800" stop="20250618050000 +0800">
+<programme channel="100.sports" start="20250618030000 +0800" stop="20250618050000 +0800">
   <title lang="en">CA River Plate vs. Urawa Red Diamonds</title>
   <desc>FIFA Club World Cup 2025™ - Matchday 1 - Lumen Field, Seattle</desc>
   <date>2025-06-18</date>
 </programme>
-<programme channel="102.sports" start="20250618060000 +0800" stop="20250618080000 +0800">
+<programme channel="100.sports" start="20250618060000 +0800" stop="20250618080000 +0800">
   <title lang="en">Ulsan HD vs. Mamelodi Sundowns FC</title>
   <desc>FIFA Club World Cup 2025™ - Matchday 1 - Inter&Co Stadium, Orlando</desc>
   <date>2025-06-18</date>
@@ -89,12 +89,12 @@
   <desc>FIFA Club World Cup 2025™ - Matchday 1 - Lincoln Financial Field, Philadelphia</desc>
   <date>2025-06-19</date>
 </programme>
-<programme channel="101.sports" start="20250619030000 +0800" stop="20250619050000 +0800">
+<programme channel="100.sports" start="20250619030000 +0800" stop="20250619050000 +0800">
   <title lang="en">Real Madrid C.F. vs. Al Hilal</title>
   <desc>FIFA Club World Cup 2025™ - Matchday 1 - Hard Rock Stadium, Miami</desc>
   <date>2025-06-19</date>
 </programme>
-<programme channel="102.sports" start="20250619060000 +0800" stop="20250619080000 +0800">
+<programme channel="100.sports" start="20250619060000 +0800" stop="20250619080000 +0800">
   <title lang="en">CF Pachuca vs. FC Salzburg</title>
   <desc>FIFA Club World Cup 2025™ - Matchday 1 - TQL Stadium, Cincinnati</desc>
   <date>2025-06-19</date>
