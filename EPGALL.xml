@@ -16,16 +16,6 @@
  <!-- Football -->
 
   <!-- 19 June 2025 -->
-<programme channel="100.sports" start="20250619000000 +0800" stop="20250619020000 +0800">
-  <title lang="en">Manchester City vs. Wydad AC</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - Lincoln Financial Field, Philadelphia</desc>
-  <date>2025-06-19</date>
-</programme>
-<programme channel="100.sports" start="20250619030000 +0800" stop="20250619050000 +0800">
-  <title lang="en">Real Madrid C.F. vs. Al Hilal</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - Hard Rock Stadium, Miami</desc>
-  <date>2025-06-19</date>
-</programme>
 <programme channel="100.sports" start="20250619060000 +0800" stop="20250619080000 +0800">
   <title lang="en">CF Pachuca vs. FC Salzburg</title>
   <desc>FIFA Club World Cup 2025™ - Matchday 1 - TQL Stadium, Cincinnati</desc>
