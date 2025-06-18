@@ -15,52 +15,6 @@
 
  <!-- Football -->
 
- <!-- 15 June 2025 -->
-<programme channel="100.sports" start="20250615080000 +0800" stop="20250615100000 +0800">
-  <title lang="en">Al Ahly vs. Inter Miami</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - Hard Rock Stadium, Miami</desc>
-  <date>2025-06-14</date>
-</programme>
-
-  <!-- 16 June 2025 -->
-<programme channel="101.sports" start="20250616000000 +0800" stop="20250616020000 +0800">
-  <title lang="en">FC Bayern München vs. Auckland City FC</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - TQL Stadium, Cincinnati</desc>
-  <date>2025-06-16</date>
-</programme>
-<programme channel="102.sports" start="20250616030000 +0800" stop="20250616050000 +0800">
-  <title lang="en">Paris Saint-Germain vs. Atlético de Madrid</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - Rose Bowl Stadium, Los Angeles</desc>
-  <date>2025-06-16</date>
-</programme>
-<programme channel="101.sports" start="20250616060000 +0800" stop="20250616080000 +0800">
-  <title lang="en">Palmeiras vs. FC Porto</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - MetLife Stadium, New York</desc>
-  <date>2025-06-16</date>
-</programme>
-<programme channel="101.sports" start="20250616100000 +0800" stop="20250616120000 +0800">
-  <title lang="en">Botafogo vs. Seattle Sounders FC</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - Lumen Field, Seattle</desc>
-  <date>2025-06-16</date>
-</programme>
-
-  <!-- 17 June 2025 -->
-<programme channel="100.sports" start="20250617030000 +0800" stop="20250617050000 +0800">
-  <title lang="en">Chelsea FC vs. LAFC</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - Mercedes-Benz Stadium, Atlanta</desc>
-  <date>2025-06-17</date>
-</programme>
-<programme channel="101.sports" start="20250617060000 +0800" stop="20250617080000 +0800">
-  <title lang="en">CA Boca Juniors vs. SL Benfica</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - Hard Rock Stadium, Miami</desc>
-  <date>2025-06-17</date>
-</programme>
-<programme channel="100.sports" start="20250617090000 +0800" stop="20250617110000 +0800">
-  <title lang="en">CR Flamengo vs. Espérance Sportive de Tunis</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - Lincoln Financial Field, Philadelphia</desc>
-  <date>2025-06-17</date>
-</programme>
-
   <!-- 18 June 2025 -->
 <programme channel="100.sports" start="20250618000000 +0800" stop="20250618020000 +0800">
   <title lang="en">Fluminense FC vs. Borussia Dortmund</title>
