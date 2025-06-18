@@ -1,10 +1,10 @@
 <tv date="20250426203000 +0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
   <channel id="100.sports">
-    <display-name lang="en">TBS</display-name>
+    <display-name lang="en">FIFA Club World Cup 2025™ Broadcast 1</display-name>
     <icon src="https://i.imgur.com/DzjoHlU.png"/>
   </channel>
   <channel id="101.sports">
-    <display-name lang="en">DAZN</display-name>
+    <display-name lang="en">FIFA Club World Cup 2025™ Broadcast 2</display-name>
     <icon src="https://i.imgur.com/DzjoHlU.png"/>
   </channel>
   <channel id="102.sports">
