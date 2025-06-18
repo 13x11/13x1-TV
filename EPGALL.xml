@@ -15,28 +15,6 @@
 
  <!-- Football -->
 
-  <!-- 18 June 2025 -->
-<programme channel="100.sports" start="20250618000000 +0800" stop="20250618020000 +0800">
-  <title lang="en">Fluminense FC vs. Borussia Dortmund</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - MetLife Stadium, New York</desc>
-  <date>2025-06-18</date>
-</programme>
-<programme channel="100.sports" start="20250618030000 +0800" stop="20250618050000 +0800">
-  <title lang="en">CA River Plate vs. Urawa Red Diamonds</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - Lumen Field, Seattle</desc>
-  <date>2025-06-18</date>
-</programme>
-<programme channel="100.sports" start="20250618060000 +0800" stop="20250618085000 +0800">
-  <title lang="en">Ulsan HD vs. Mamelodi Sundowns FC</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - InternCo Stadium, Orlando</desc>
-  <date>2025-06-18</date>
-</programme>
-<programme channel="100.sports" start="20250618090000 +0800" stop="20250618110000 +0800">
-  <title lang="en">CF Monterrey vs. FC Internazionale Milano</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - Rose Bowl Stadium, Los Angeles</desc>
-  <date>2025-06-18</date>
-</programme>
-
   <!-- 19 June 2025 -->
 <programme channel="100.sports" start="20250619000000 +0800" stop="20250619020000 +0800">
   <title lang="en">Manchester City vs. Wydad AC</title>
