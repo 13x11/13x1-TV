@@ -15,15 +15,91 @@
 
  <!-- Football -->
 
-  <!-- 19 June 2025 -->
-<programme channel="100.sports" start="20250619060000 +0800" stop="20250619080000 +0800">
-  <title lang="en">CF Pachuca vs. FC Salzburg</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - TQL Stadium, Cincinnati</desc>
-  <date>2025-06-19</date>
+  <!-- 20 June 2025 -->
+<programme channel="100.sports" start="20250620000000 +0800" stop="20250620020000 +0800">
+  <title lang="en">Palmeiras vs. Al Ahly FC</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - MetLife Stadium, New York</desc>
+  <date>2025-06-20</date>
 </programme>
-<programme channel="100.sports" start="20250619090000 +0800" stop="20250619110000 +0800">
-  <title lang="en">Al Ain FC vs. Juventus</title>
-  <desc>FIFA Club World Cup 2025™ - Matchday 1 - Audi Field, Washington D.C.</desc>
-  <date>2025-06-19</date>
+<programme channel="100.sports" start="20250620030000 +0800" stop="20250620050000 +0800">
+  <title lang="en">Inter Miami CF vs. FC Porto</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Mercedes-Benz Stadium, Atlanta</desc>
+  <date>2025-06-20</date>
+</programme>
+<programme channel="100.sports" start="20250620060000 +0800" stop="20250620080000 +0800">
+  <title lang="en">Seattle Sounders FC vs. Atlético de Madrid</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Lumen Field, Seattle</desc>
+  <date>2025-06-20</date>
+</programme>
+<programme channel="100.sports" start="20250620090000 +0800" stop="20250620110000 +0800">
+  <title lang="en">Paris Saint-Germain vs. Botafogo</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Rose Bowl Stadium, Los Angeles</desc>
+  <date>2025-06-20</date>
+</programme>
+
+    <!-- 21 June 2025 -->
+<programme channel="100.sports" start="20250621000000 +0800" stop="20250621020000 +0800">
+  <title lang="en">SL Benfica vs. Auckland City FC</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Inter&Co Stadium, Orlando</desc>
+  <date>2025-06-21</date>
+</programme>
+<programme channel="100.sports" start="20250621020000 +0800" stop="20250621040000 +0800">
+  <title lang="en">CR Flamengo vs. FC Chelsea FC</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Lincoln Financial Field, Philadelphia</desc>
+  <date>2025-06-21</date>
+</programme>
+<programme channel="100.sports" start="20250621060000 +0800" stop="20250621080000 +0800">
+  <title lang="en">LAFC vs. Espérance de Tunisie</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - GEODIS Park, Nashville</desc>
+  <date>2025-06-21</date>
+</programme>
+<programme channel="100.sports" start="20250621090000 +0800" stop="20250621110000 +0800">
+  <title lang="en">FC Bayern München vs. CA Boca Juniors</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Hard Rock Stadium, Miami</desc>
+  <date>2025-06-21</date>
+</programme>
+
+    <!-- 22 June 2025 -->
+<programme channel="100.sports" start="20250622000000 +0800" stop="20250622020000 +0800">
+  <title lang="en">Mamelodi Sundowns FC vs. Borussia Dortmund</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - TQL Stadium, Cincinnati</desc>
+  <date>2025-06-22</date>
+</programme>
+<programme channel="100.sports" start="20250622030000 +0800" stop="20250622050000 +0800">
+  <title lang="en">FC Internazionale Milano vs. Urawa Red Diamonds</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Lumen Field, Seattle</desc>
+  <date>2025-06-22</date>
+</programme>
+<programme channel="100.sports" start="20250622060000 +0800" stop="20250622080000 +0800">
+  <title lang="en">Fluminense FC vs. Ulsan HD</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - MetLife Stadium, New York</desc>
+  <date>2025-06-22</date>
+</programme>
+<programme channel="100.sports" start="20250622090000 +0800" stop="20250622110000 +0800">
+  <title lang="en">CA River Plate vs. CF Monterrey</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Rose Bowl Stadium, Los Angeles</desc>
+  <date>2025-06-22</date>
+</programme>
+
+  <!-- 23 June 2025 -->
+<programme channel="100.sports" start="20250623000000 +0800" stop="20250623020000 +0800">
+  <title lang="en">Juventus FC vs. Wydad AC</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Lincoln Financial Field, Philadelphia</desc>
+  <date>2025-06-23</date>
+</programme>
+<programme channel="100.sports" start="20250623030000 +0800" stop="20250623050000 +0800">
+  <title lang="en">Real Madrid C.F. vs. CF Pachuca</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Bank of America Stadium, Charlotte</desc>
+  <date>2025-06-23</date>
+</programme>
+<programme channel="100.sports" start="20250623060000 +0800" stop="20250623080000 +0800">
+  <title lang="en">FC Salzburg vs. Al Hilal</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Audi Field, Washington D.C.</desc>
+  <date>2025-06-23</date>
+</programme>
+<programme channel="100.sports" start="20250623090000 +0800" stop="20250623110000 +0800">
+  <title lang="en">Manchester City vs. Al Ain FC</title>
+  <desc>FIFA Club World Cup 2025™ - Matchday 2 - Mercedes-Benz Stadium, Atlanta</desc>
+  <date>2025-06-23</date>
 </programme>
 </tv>
