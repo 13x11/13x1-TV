@@ -15,45 +15,15 @@
 
  <!-- Football -->
 
-  <!-- Round 16 -->
-<programme channel="100.sports" start="20250629000000 +0800" stop="20250629020000 +0800">
-  <title lang="en">Palmeiras vs. Botafogo</title>
-  <desc>FIFA Club World Cup 2025™ - Round of 16 - Lincoln Financial Field, Philadelphia</desc>
-  <date>2025-06-29</date>
+  <!-- Quarter-final -->
+<programme channel="100.sports" start="20250706000000 +0800" stop="20250706020000 +0800">
+  <title lang="en">Paris Saint-Germain vs. FC Bayern München</title>
+  <desc>FIFA Club World Cup 2025™ - Quarter-final - Mercedes-Benz Stadium, Atlanta</desc>
+  <date>2025-07-06</date>
 </programme>
-<programme channel="100.sports" start="20250629040000 +0800" stop="20250629060000 +0800">
-  <title lang="en">SL Benfica vs. Chelsea FC</title>
-  <desc>FIFA Club World Cup 2025™ - Round of 16 - Bank of America Stadium, Charlotte</desc>
-  <date>2025-06-29</date>
-</programme>
-<programme channel="100.sports" start="20250630000000 +0800" stop="20250630020000 +0800">
-  <title lang="en">Paris Saint-Germain vs. Inter Miami CF</title>
-  <desc>FIFA Club World Cup 2025™ - Round of 16 - Mercedes-Benz Stadium, Atlanta</desc>
-  <date>2025-06-30</date>
-</programme>
-<programme channel="100.sports" start="20250630040000 +0800" stop="20250630060000 +0800">
-  <title lang="en">CR Flamengo vs. FC Bayern München</title>
-  <desc>FIFA Club World Cup 2025™ - Round of 16 - Hard Rock Stadium, Miami</desc>
-  <date>2025-06-30</date>
-</programme>
-<programme channel="100.sports" start="20250701030000 +0800" stop="20250701050000 +0800">
-  <title lang="en">FC Internazionale Milano vs. Fluminense FC</title>
-  <desc>FIFA Club World Cup 2025™ - Round of 16 - Bank of America Stadium, Charlotte</desc>
-  <date>2025-07-01</date>
-</programme>
-<programme channel="100.sports" start="20250701090000 +0800" stop="20250701110000 +0800">
-  <title lang="en">Manchester City vs. Al Hilal</title>
-  <desc>FIFA Club World Cup 2025™ - Round of 16 - Camping World Stadium, Orlando</desc>
-  <date>2025-07-01</date>
-</programme>
-<programme channel="100.sports" start="20250702030000 +0800" stop="20250702050000 +0800">
-  <title lang="en">Real Madrid C.F. vs. Juventus FC</title>
-  <desc>FIFA Club World Cup 2025™ - Round of 16 - Hard Rock Stadium, Miami</desc>
-  <date>2025-07-02</date>
-</programme>
-<programme channel="100.sports" start="20250702090000 +0800" stop="20250702110000 +0800">
-  <title lang="en">Borussia Dortmund vs. CF Monterrey</title>
-  <desc>FIFA Club World Cup 2025™ - Round of 16 - Mercedes-Benz Stadium, Atlanta</desc>
-  <date>2025-07-02</date>
+<programme channel="100.sports" start="20250706040000 +0800" stop="20250706060000 +0800">
+  <title lang="en">Real Madrid C.F. vs. Borussia Dortmund</title>
+  <desc>FIFA Club World Cup 2025™ - Quarter-final - MetLife Stadium, New York</desc>
+  <date>2025-07-06</date>
 </programme>
 </tv>
