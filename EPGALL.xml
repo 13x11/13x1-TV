@@ -1,22 +1,22 @@
-<tv date="20250426203000 +0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
+<?xml version="1.0" encoding="UTF-8"?>
+<tv date="20250426203000+0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
   <channel id="100.sports">
-    <icon src="https://brandlogo.org/wp-content/uploads/2024/09/FIFA-Club-World-Cup-2025-Logo.png.webp" />
     <icon src="https://brandlogo.org/wp-content/uploads/2024/09/FIFA-Club-World-Cup-2025-Logo.png.webp" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">FIFA Club World Cup 2025™ Broadcast 1</display-name>
   </channel>
-<programme channel="100.sports" start="20250709030000 +0800" stop="20250709050000 +0800">
+  <programme channel="100.sports" start="20250709030000+0800" stop="20250709050000+0800">
     <title lang="en">Fluminense FC vs. Chelsea FC</title>
-    <desc>FIFA Club World Cup 2025™ - Semi-final - MetLife Stadium, New York</desc>
+    <desc lang="en">FIFA Club World Cup 2025™ - Semi-final - MetLife Stadium, New York</desc>
     <category lang="en">Football</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p202925_st_h10_aa.jpg" />
     <previously-shown />
-</programme>
-<programme channel="100.sports" start="20250706110000 +0800" stop="20250706130000 +0800">
+  </programme>
+  <programme channel="100.sports" start="20250706110000+0800" stop="20250706130000+0800">
     <title lang="en">Fluminense FC vs. Chelsea FC</title>
-    <desc>FIFA Club World Cup 2025™ - Semi-final - MetLife Stadium, New York</desc>
+    <desc lang="en">FIFA Club World Cup 2025™ - Semi-final - MetLife Stadium, New York</desc>
     <category lang="en">Football</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p202925_st_h10_aa.jpg" />
     <previously-shown />
-</programme>
+  </programme>
 </tv>
