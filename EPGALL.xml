@@ -5,7 +5,14 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">FIFA Club World Cup 2025™ Broadcast 1</display-name>
   </channel>
-  <programme channel="100.sports" start="20250709030000 +0800" stop="20250709050000 +0800">
+<programme channel="100.sports" start="20250709030000 +0800" stop="20250709050000 +0800">
+    <title lang="en">Fluminense FC vs. Chelsea FC</title>
+    <desc>FIFA Club World Cup 2025™ - Semi-final - MetLife Stadium, New York</desc>
+    <category lang="en">Football</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p202925_st_h10_aa.jpg" />
+    <previously-shown />
+</programme>
+<programme channel="100.sports" start="20250706110000 +0800" stop="20250706130000 +0800">
     <title lang="en">Fluminense FC vs. Chelsea FC</title>
     <desc>FIFA Club World Cup 2025™ - Semi-final - MetLife Stadium, New York</desc>
     <category lang="en">Football</category>
