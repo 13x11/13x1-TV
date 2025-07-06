@@ -16,14 +16,13 @@
  <!-- Football -->
 
   <!-- Quarter-final -->
-<programme channel="100.sports" start="20250706000000 +0800" stop="20250706020000 +0800">
-  <title lang="en">Paris Saint-Germain vs. FC Bayern München</title>
-  <desc>FIFA Club World Cup 2025™ - Quarter-final - Mercedes-Benz Stadium, Atlanta</desc>
-  <date>2025-07-06</date>
-</programme>
-<programme channel="100.sports" start="20250706040000 +0800" stop="20250706060000 +0800">
-  <title lang="en">Real Madrid C.F. vs. Borussia Dortmund</title>
-  <desc>FIFA Club World Cup 2025™ - Quarter-final - MetLife Stadium, New York</desc>
-  <date>2025-07-06</date>
-</programme>
+<programme channel="100.sports" start="20250709030000 +0800" stop="20250709050000 +0800">
+    <title lang="en">Fluminense FC vs. Chelsea FC</title>
+    <desc>FIFA Club World Cup 2025™ - Semi-final - MetLife Stadium, New York</desc>
+    <category lang="en">Football</category>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUlr8mYExT3SwXgL0jN-uxvHZgzIY-ba3mLw&s" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
 </tv>
