@@ -6,47 +6,41 @@
     <display-name lang="en">FIFA Club World Cup 2025™ Broadcast 1</display-name>
   </channel>
   <channel id="motogp">
-    <icon src="https://brandlogo.org/wp-content/uploads/2024/09/FIFA-Club-World-Cup-2025-Logo.png.webp" />
-    <url>http://www.tvpassport.com</url>
+    <icon src="https://www.dorna.com/wp-content/uploads/2024/11/logo-white-motogp.png" />
+    <url>https://www.motogp.com/</url>
     <display-name lang="en">MotoGP™</display-name>
   </channel>
- <programme start="20250711T090000 +0800" stop="20250711T095000 +0800" channel="motogp">
-  <title>Moto3 Free Practice 1 – Germany</title>
+ <programme start="20250712T181500 +0800" stop="20250712T184500 +0800" channel="motogp">
+  <title>Factory and Team Press Conference: Ducati, Yamaha</title>
  </programme>
- <programme start="20250711T095000 +0800" stop="20250711T104000 +0800" channel="motogp">
-  <title>Moto2 Free Practice 1 – Germany</title>
+ <programme start="20250712T185000 +0800" stop="20250712T190500 +0800" channel="motogp">
+  <title>Moto3™ Qaulifying 1 - Liqui Moly Grand Prix of Germany</title>
  </programme>
- <programme start="20250711T104500 +0800" stop="20250711T113500 +0800" channel="motogp">
-  <title>MotoGP Free Practice 1 – Germany</title>
+ <programme start="20250712T191500 +0800" stop="20250712T193000 +0800" channel="motogp">
+  <title>Moto3™ Qaulifying 2 - Liqui Moly Grand Prix of Germany</title>
  </programme>
- <programme start="20250712T084000 +0800" stop="20250712T093000 +0800" channel="motogp">
-  <title>Moto3 Free Practice 2 – Germany</title>
+ <programme start="20250712T194500 +0800" stop="20250712T200000 +0800" channel="motogp">
+  <title>Moto2™ Qaulifying 1 - Liqui Moly Grand Prix of Germany</title>
  </programme>
- <programme start="20250712T092500 +0800" stop="20250712T101500 +0800" channel="motogp">
-  <title>Moto2 Free Practice 2 – Germany</title>
+ <programme start="20250712T201000 +0800" stop="20250712T202500 +0800" channel="motogp">
+  <title>Moto2™ Qaulifying 2 - Liqui Moly Grand Prix of Germany</title>
  </programme>
- <programme start="20250712T101000 +0800" stop="20250712T110000 +0800" channel="motogp">
-  <title>MotoGP Free Practice 2 – Germany</title>
+ <programme start="20250712T210000 +0800" stop="20250712T200000 +0800" channel="motogp">
+  <title>MotoGP™ Tissot Sprint (15 Laps) - Liqui Moly Grand Prix of Germany</title>
  </programme>
- <programme start="20250712T105000 +0800" stop="20250712T111500 +0800" channel="motogp">
-  <title>MotoGP Qualifying 1 – Germany</title>
+ <programme start="20250713T154000 +0800" stop="20250713T155000 +0800" channel="motogp">
+  <title>MotoGP™ Warm Up - Liqui Moly Grand Prix of Germany</title>
  </programme>
- <programme start="20250712T111500 +0800" stop="20250712T113000 +0800" channel="motogp">
-  <title>MotoGP Qualifying 2 – Germany</title>
+ <programme start="20250713T160000 +0800" stop="20250713T164000 +0800" channel="motogp">
+  <title>MotoGP™ Rider Parade - Liqui Moly Grand Prix of Germany</title>
  </programme>
- <programme start="20250712T150000 +0800" stop="20250712T153000 +0800" channel="motogp">
-  <title>MotoGP Sprint Race – Germany</title>
+ <programme start="20250713T170000 +0800" stop="20250713T180000 +0800" channel="motogp">
+  <title>Moto3™ Race - Liqui Moly Grand Prix of Germany (23 Laps)</title>
  </programme>
- <programme start="20250713T094000 +0800" stop="20250713T100000 +0800" channel="motogp">
-  <title>MotoGP Warm-Up – Germany</title>
+ <programme start="20250713T180000 +0800" stop="20250713T193000 +0800" channel="motogp">
+  <title>Moto2™ Race - Liqui Moly Grand Prix of Germany (25 Laps)</title>
  </programme>
- <programme start="20250713T110000 +0800" stop="20250713T121500 +0800" channel="motogp">
-  <title>Moto3 Race – Germany</title>
- </programme>
- <programme start="20250713T121500 +0800" stop="20250713T135000 +0800" channel="motogp">
-  <title>Moto2 Race – Germany</title>
- </programme>
- <programme start="20250713T140000 +0800" stop="20250713T150000 +0800" channel="motogp">
-  <title>MotoGP Race – Germany</title>
+ <programme start="20250713T200000 +0800" stop="20250713T210500 +0800" channel="motogp">
+  <title>MotoGP™ Race - Liqui Moly Grand Prix of Germany (30 Laps)</title>
  </programme>
 </tv> 
