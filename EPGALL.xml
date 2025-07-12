@@ -5,18 +5,830 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">FIFA Club World Cup 2025™ Broadcast 1</display-name>
   </channel>
-  <programme channel="100.sports" start="20250709030000+0800" stop="20250709050000+0800">
-    <title lang="en">Fluminense FC vs. Chelsea FC</title>
-    <desc lang="en">FIFA Club World Cup 2025™ - Semi-final - MetLife Stadium, New York</desc>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p202925_st_h10_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme channel="100.sports" start="20250706110000+0800" stop="20250706130000+0800">
-    <title lang="en">Fluminense FC vs. Chelsea FC</title>
-    <desc lang="en">FIFA Club World Cup 2025™ - Semi-final - MetLife Stadium, New York</desc>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p202925_st_h10_aa.jpg" />
-    <previously-shown />
-  </programme>
+  <channel id="motogp">
+    <icon src="https://brandlogo.org/wp-content/uploads/2024/09/FIFA-Club-World-Cup-2025-Logo.png.webp" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">MotoGP™</display-name>
+  </channel>
+<programme start="20250307T090000 +0800" stop="20250307T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Qatar</title>
+</programme>
+<programme start="20250307T095000 +0800" stop="20250307T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Qatar</title>
+</programme>
+<programme start="20250307T104500 +0800" stop="20250307T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Qatar</title>
+</programme>
+<programme start="20250308T084000 +0800" stop="20250308T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Qatar</title>
+</programme>
+<programme start="20250308T092500 +0800" stop="20250308T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Qatar</title>
+</programme>
+<programme start="20250308T101000 +0800" stop="20250308T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Qatar</title>
+</programme>
+<programme start="20250308T105000 +0800" stop="20250308T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Qatar</title>
+</programme>
+<programme start="20250308T111500 +0800" stop="20250308T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Qatar</title>
+</programme>
+<programme start="20250308T150000 +0800" stop="20250308T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Qatar</title>
+</programme>
+<programme start="20250309T094000 +0800" stop="20250309T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Qatar</title>
+</programme>
+<programme start="20250309T110000 +0800" stop="20250309T121500 +0800" channel="motogp">
+<title>Moto3 Race – Qatar</title>
+</programme>
+<programme start="20250309T121500 +0800" stop="20250309T135000 +0800" channel="motogp">
+<title>Moto2 Race – Qatar</title>
+</programme>
+<programme start="20250309T140000 +0800" stop="20250309T150000 +0800" channel="motogp">
+<title>MotoGP Race – Qatar</title>
+</programme>
+<programme start="20250321T090000 +0800" stop="20250321T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Portugal</title>
+</programme>
+<programme start="20250321T095000 +0800" stop="20250321T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Portugal</title>
+</programme>
+<programme start="20250321T104500 +0800" stop="20250321T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Portugal</title>
+</programme>
+<programme start="20250322T084000 +0800" stop="20250322T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Portugal</title>
+</programme>
+<programme start="20250322T092500 +0800" stop="20250322T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Portugal</title>
+</programme>
+<programme start="20250322T101000 +0800" stop="20250322T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Portugal</title>
+</programme>
+<programme start="20250322T105000 +0800" stop="20250322T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Portugal</title>
+</programme>
+<programme start="20250322T111500 +0800" stop="20250322T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Portugal</title>
+</programme>
+<programme start="20250322T150000 +0800" stop="20250322T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Portugal</title>
+</programme>
+<programme start="20250323T094000 +0800" stop="20250323T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Portugal</title>
+</programme>
+<programme start="20250323T110000 +0800" stop="20250323T121500 +0800" channel="motogp">
+<title>Moto3 Race – Portugal</title>
+</programme>
+<programme start="20250323T121500 +0800" stop="20250323T135000 +0800" channel="motogp">
+<title>Moto2 Race – Portugal</title>
+</programme>
+<programme start="20250323T140000 +0800" stop="20250323T150000 +0800" channel="motogp">
+<title>MotoGP Race – Portugal</title>
+</programme>
+<programme start="20250404T090000 +0800" stop="20250404T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Argentina</title>
+</programme>
+<programme start="20250404T095000 +0800" stop="20250404T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Argentina</title>
+</programme>
+<programme start="20250404T104500 +0800" stop="20250404T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Argentina</title>
+</programme>
+<programme start="20250405T084000 +0800" stop="20250405T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Argentina</title>
+</programme>
+<programme start="20250405T092500 +0800" stop="20250405T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Argentina</title>
+</programme>
+<programme start="20250405T101000 +0800" stop="20250405T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Argentina</title>
+</programme>
+<programme start="20250405T105000 +0800" stop="20250405T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Argentina</title>
+</programme>
+<programme start="20250405T111500 +0800" stop="20250405T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Argentina</title>
+</programme>
+<programme start="20250405T150000 +0800" stop="20250405T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Argentina</title>
+</programme>
+<programme start="20250406T094000 +0800" stop="20250406T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Argentina</title>
+</programme>
+<programme start="20250406T110000 +0800" stop="20250406T121500 +0800" channel="motogp">
+<title>Moto3 Race – Argentina</title>
+</programme>
+<programme start="20250406T121500 +0800" stop="20250406T135000 +0800" channel="motogp">
+<title>Moto2 Race – Argentina</title>
+</programme>
+<programme start="20250406T140000 +0800" stop="20250406T150000 +0800" channel="motogp">
+<title>MotoGP Race – Argentina</title>
+</programme>
+<programme start="20250411T090000 +0800" stop="20250411T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Americas</title>
+</programme>
+<programme start="20250411T095000 +0800" stop="20250411T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Americas</title>
+</programme>
+<programme start="20250411T104500 +0800" stop="20250411T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Americas</title>
+</programme>
+<programme start="20250412T084000 +0800" stop="20250412T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Americas</title>
+</programme>
+<programme start="20250412T092500 +0800" stop="20250412T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Americas</title>
+</programme>
+<programme start="20250412T101000 +0800" stop="20250412T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Americas</title>
+</programme>
+<programme start="20250412T105000 +0800" stop="20250412T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Americas</title>
+</programme>
+<programme start="20250412T111500 +0800" stop="20250412T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Americas</title>
+</programme>
+<programme start="20250412T150000 +0800" stop="20250412T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Americas</title>
+</programme>
+<programme start="20250413T094000 +0800" stop="20250413T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Americas</title>
+</programme>
+<programme start="20250413T110000 +0800" stop="20250413T121500 +0800" channel="motogp">
+<title>Moto3 Race – Americas</title>
+</programme>
+<programme start="20250413T121500 +0800" stop="20250413T135000 +0800" channel="motogp">
+<title>Moto2 Race – Americas</title>
+</programme>
+<programme start="20250413T140000 +0800" stop="20250413T150000 +0800" channel="motogp">
+<title>MotoGP Race – Americas</title>
+</programme>
+<programme start="20250425T090000 +0800" stop="20250425T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Spain</title>
+</programme>
+<programme start="20250425T095000 +0800" stop="20250425T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Spain</title>
+</programme>
+<programme start="20250425T104500 +0800" stop="20250425T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Spain</title>
+</programme>
+<programme start="20250426T084000 +0800" stop="20250426T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Spain</title>
+</programme>
+<programme start="20250426T092500 +0800" stop="20250426T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Spain</title>
+</programme>
+<programme start="20250426T101000 +0800" stop="20250426T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Spain</title>
+</programme>
+<programme start="20250426T105000 +0800" stop="20250426T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Spain</title>
+</programme>
+<programme start="20250426T111500 +0800" stop="20250426T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Spain</title>
+</programme>
+<programme start="20250426T150000 +0800" stop="20250426T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Spain</title>
+</programme>
+<programme start="20250427T094000 +0800" stop="20250427T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Spain</title>
+</programme>
+<programme start="20250427T110000 +0800" stop="20250427T121500 +0800" channel="motogp">
+<title>Moto3 Race – Spain</title>
+</programme>
+<programme start="20250427T121500 +0800" stop="20250427T135000 +0800" channel="motogp">
+<title>Moto2 Race – Spain</title>
+</programme>
+<programme start="20250427T140000 +0800" stop="20250427T150000 +0800" channel="motogp">
+<title>MotoGP Race – Spain</title>
+</programme>
+<programme start="20250509T090000 +0800" stop="20250509T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – France</title>
+</programme>
+<programme start="20250509T095000 +0800" stop="20250509T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – France</title>
+</programme>
+<programme start="20250509T104500 +0800" stop="20250509T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – France</title>
+</programme>
+<programme start="20250510T084000 +0800" stop="20250510T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – France</title>
+</programme>
+<programme start="20250510T092500 +0800" stop="20250510T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – France</title>
+</programme>
+<programme start="20250510T101000 +0800" stop="20250510T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – France</title>
+</programme>
+<programme start="20250510T105000 +0800" stop="20250510T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – France</title>
+</programme>
+<programme start="20250510T111500 +0800" stop="20250510T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – France</title>
+</programme>
+<programme start="20250510T150000 +0800" stop="20250510T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – France</title>
+</programme>
+<programme start="20250511T094000 +0800" stop="20250511T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – France</title>
+</programme>
+<programme start="20250511T110000 +0800" stop="20250511T121500 +0800" channel="motogp">
+<title>Moto3 Race – France</title>
+</programme>
+<programme start="20250511T121500 +0800" stop="20250511T135000 +0800" channel="motogp">
+<title>Moto2 Race – France</title>
+</programme>
+<programme start="20250511T140000 +0800" stop="20250511T150000 +0800" channel="motogp">
+<title>MotoGP Race – France</title>
+</programme>
+<programme start="20250530T090000 +0800" stop="20250530T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Italy</title>
+</programme>
+<programme start="20250530T095000 +0800" stop="20250530T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Italy</title>
+</programme>
+<programme start="20250530T104500 +0800" stop="20250530T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Italy</title>
+</programme>
+<programme start="20250531T084000 +0800" stop="20250531T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Italy</title>
+</programme>
+<programme start="20250531T092500 +0800" stop="20250531T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Italy</title>
+</programme>
+<programme start="20250531T101000 +0800" stop="20250531T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Italy</title>
+</programme>
+<programme start="20250531T105000 +0800" stop="20250531T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Italy</title>
+</programme>
+<programme start="20250531T111500 +0800" stop="20250531T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Italy</title>
+</programme>
+<programme start="20250531T150000 +0800" stop="20250531T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Italy</title>
+</programme>
+<programme start="20250601T094000 +0800" stop="20250601T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Italy</title>
+</programme>
+<programme start="20250601T110000 +0800" stop="20250601T121500 +0800" channel="motogp">
+<title>Moto3 Race – Italy</title>
+</programme>
+<programme start="20250601T121500 +0800" stop="20250601T135000 +0800" channel="motogp">
+<title>Moto2 Race – Italy</title>
+</programme>
+<programme start="20250601T140000 +0800" stop="20250601T150000 +0800" channel="motogp">
+<title>MotoGP Race – Italy</title>
+</programme>
+<programme start="20250606T090000 +0800" stop="20250606T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Catalunya</title>
+</programme>
+<programme start="20250606T095000 +0800" stop="20250606T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Catalunya</title>
+</programme>
+<programme start="20250606T104500 +0800" stop="20250606T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Catalunya</title>
+</programme>
+<programme start="20250607T084000 +0800" stop="20250607T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Catalunya</title>
+</programme>
+<programme start="20250607T092500 +0800" stop="20250607T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Catalunya</title>
+</programme>
+<programme start="20250607T101000 +0800" stop="20250607T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Catalunya</title>
+</programme>
+<programme start="20250607T105000 +0800" stop="20250607T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Catalunya</title>
+</programme>
+<programme start="20250607T111500 +0800" stop="20250607T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Catalunya</title>
+</programme>
+<programme start="20250607T150000 +0800" stop="20250607T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Catalunya</title>
+</programme>
+<programme start="20250608T094000 +0800" stop="20250608T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Catalunya</title>
+</programme>
+<programme start="20250608T110000 +0800" stop="20250608T121500 +0800" channel="motogp">
+<title>Moto3 Race – Catalunya</title>
+</programme>
+<programme start="20250608T121500 +0800" stop="20250608T135000 +0800" channel="motogp">
+<title>Moto2 Race – Catalunya</title>
+</programme>
+<programme start="20250608T140000 +0800" stop="20250608T150000 +0800" channel="motogp">
+<title>MotoGP Race – Catalunya</title>
+</programme>
+<programme start="20250627T090000 +0800" stop="20250627T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Netherlands</title>
+</programme>
+<programme start="20250627T095000 +0800" stop="20250627T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Netherlands</title>
+</programme>
+<programme start="20250627T104500 +0800" stop="20250627T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Netherlands</title>
+</programme>
+<programme start="20250628T084000 +0800" stop="20250628T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Netherlands</title>
+</programme>
+<programme start="20250628T092500 +0800" stop="20250628T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Netherlands</title>
+</programme>
+<programme start="20250628T101000 +0800" stop="20250628T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Netherlands</title>
+</programme>
+<programme start="20250628T105000 +0800" stop="20250628T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Netherlands</title>
+</programme>
+<programme start="20250628T111500 +0800" stop="20250628T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Netherlands</title>
+</programme>
+<programme start="20250628T150000 +0800" stop="20250628T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Netherlands</title>
+</programme>
+<programme start="20250629T094000 +0800" stop="20250629T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Netherlands</title>
+</programme>
+<programme start="20250629T110000 +0800" stop="20250629T121500 +0800" channel="motogp">
+<title>Moto3 Race – Netherlands</title>
+</programme>
+<programme start="20250629T121500 +0800" stop="20250629T135000 +0800" channel="motogp">
+<title>Moto2 Race – Netherlands</title>
+</programme>
+<programme start="20250629T140000 +0800" stop="20250629T150000 +0800" channel="motogp">
+<title>MotoGP Race – Netherlands</title>
+</programme>
+<programme start="20250711T090000 +0800" stop="20250711T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Germany</title>
+</programme>
+<programme start="20250711T095000 +0800" stop="20250711T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Germany</title>
+</programme>
+<programme start="20250711T104500 +0800" stop="20250711T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Germany</title>
+</programme>
+<programme start="20250712T084000 +0800" stop="20250712T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Germany</title>
+</programme>
+<programme start="20250712T092500 +0800" stop="20250712T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Germany</title>
+</programme>
+<programme start="20250712T101000 +0800" stop="20250712T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Germany</title>
+</programme>
+<programme start="20250712T105000 +0800" stop="20250712T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Germany</title>
+</programme>
+<programme start="20250712T111500 +0800" stop="20250712T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Germany</title>
+</programme>
+<programme start="20250712T150000 +0800" stop="20250712T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Germany</title>
+</programme>
+<programme start="20250713T094000 +0800" stop="20250713T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Germany</title>
+</programme>
+<programme start="20250713T110000 +0800" stop="20250713T121500 +0800" channel="motogp">
+<title>Moto3 Race – Germany</title>
+</programme>
+<programme start="20250713T121500 +0800" stop="20250713T135000 +0800" channel="motogp">
+<title>Moto2 Race – Germany</title>
+</programme>
+<programme start="20250713T140000 +0800" stop="20250713T150000 +0800" channel="motogp">
+<title>MotoGP Race – Germany</title>
+</programme>
+<programme start="20250718T090000 +0800" stop="20250718T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Czechia</title>
+</programme>
+<programme start="20250718T095000 +0800" stop="20250718T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Czechia</title>
+</programme>
+<programme start="20250718T104500 +0800" stop="20250718T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Czechia</title>
+</programme>
+<programme start="20250719T084000 +0800" stop="20250719T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Czechia</title>
+</programme>
+<programme start="20250719T092500 +0800" stop="20250719T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Czechia</title>
+</programme>
+<programme start="20250719T101000 +0800" stop="20250719T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Czechia</title>
+</programme>
+<programme start="20250719T105000 +0800" stop="20250719T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Czechia</title>
+</programme>
+<programme start="20250719T111500 +0800" stop="20250719T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Czechia</title>
+</programme>
+<programme start="20250719T150000 +0800" stop="20250719T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Czechia</title>
+</programme>
+<programme start="20250720T094000 +0800" stop="20250720T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Czechia</title>
+</programme>
+<programme start="20250720T110000 +0800" stop="20250720T121500 +0800" channel="motogp">
+<title>Moto3 Race – Czechia</title>
+</programme>
+<programme start="20250720T121500 +0800" stop="20250720T135000 +0800" channel="motogp">
+<title>Moto2 Race – Czechia</title>
+</programme>
+<programme start="20250720T140000 +0800" stop="20250720T150000 +0800" channel="motogp">
+<title>MotoGP Race – Czechia</title>
+</programme>
+<programme start="20250815T090000 +0800" stop="20250815T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Austria</title>
+</programme>
+<programme start="20250815T095000 +0800" stop="20250815T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Austria</title>
+</programme>
+<programme start="20250815T104500 +0800" stop="20250815T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Austria</title>
+</programme>
+<programme start="20250816T084000 +0800" stop="20250816T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Austria</title>
+</programme>
+<programme start="20250816T092500 +0800" stop="20250816T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Austria</title>
+</programme>
+<programme start="20250816T101000 +0800" stop="20250816T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Austria</title>
+</programme>
+<programme start="20250816T105000 +0800" stop="20250816T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Austria</title>
+</programme>
+<programme start="20250816T111500 +0800" stop="20250816T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Austria</title>
+</programme>
+<programme start="20250816T150000 +0800" stop="20250816T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Austria</title>
+</programme>
+<programme start="20250817T094000 +0800" stop="20250817T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Austria</title>
+</programme>
+<programme start="20250817T110000 +0800" stop="20250817T121500 +0800" channel="motogp">
+<title>Moto3 Race – Austria</title>
+</programme>
+<programme start="20250817T121500 +0800" stop="20250817T135000 +0800" channel="motogp">
+<title>Moto2 Race – Austria</title>
+</programme>
+<programme start="20250817T140000 +0800" stop="20250817T150000 +0800" channel="motogp">
+<title>MotoGP Race – Austria</title>
+</programme>
+<programme start="20250829T090000 +0800" stop="20250829T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Great Britain</title>
+</programme>
+<programme start="20250829T095000 +0800" stop="20250829T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Great Britain</title>
+</programme>
+<programme start="20250829T104500 +0800" stop="20250829T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Great Britain</title>
+</programme>
+<programme start="20250830T084000 +0800" stop="20250830T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Great Britain</title>
+</programme>
+<programme start="20250830T092500 +0800" stop="20250830T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Great Britain</title>
+</programme>
+<programme start="20250830T101000 +0800" stop="20250830T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Great Britain</title>
+</programme>
+<programme start="20250830T105000 +0800" stop="20250830T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Great Britain</title>
+</programme>
+<programme start="20250830T111500 +0800" stop="20250830T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Great Britain</title>
+</programme>
+<programme start="20250830T150000 +0800" stop="20250830T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Great Britain</title>
+</programme>
+<programme start="20250831T094000 +0800" stop="20250831T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Great Britain</title>
+</programme>
+<programme start="20250831T110000 +0800" stop="20250831T121500 +0800" channel="motogp">
+<title>Moto3 Race – Great Britain</title>
+</programme>
+<programme start="20250831T121500 +0800" stop="20250831T135000 +0800" channel="motogp">
+<title>Moto2 Race – Great Britain</title>
+</programme>
+<programme start="20250831T140000 +0800" stop="20250831T150000 +0800" channel="motogp">
+<title>MotoGP Race – Great Britain</title>
+</programme>
+<programme start="20250912T090000 +0800" stop="20250912T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Aragon</title>
+</programme>
+<programme start="20250912T095000 +0800" stop="20250912T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Aragon</title>
+</programme>
+<programme start="20250912T104500 +0800" stop="20250912T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Aragon</title>
+</programme>
+<programme start="20250913T084000 +0800" stop="20250913T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Aragon</title>
+</programme>
+<programme start="20250913T092500 +0800" stop="20250913T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Aragon</title>
+</programme>
+<programme start="20250913T101000 +0800" stop="20250913T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Aragon</title>
+</programme>
+<programme start="20250913T105000 +0800" stop="20250913T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Aragon</title>
+</programme>
+<programme start="20250913T111500 +0800" stop="20250913T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Aragon</title>
+</programme>
+<programme start="20250913T150000 +0800" stop="20250913T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Aragon</title>
+</programme>
+<programme start="20250914T094000 +0800" stop="20250914T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Aragon</title>
+</programme>
+<programme start="20250914T110000 +0800" stop="20250914T121500 +0800" channel="motogp">
+<title>Moto3 Race – Aragon</title>
+</programme>
+<programme start="20250914T121500 +0800" stop="20250914T135000 +0800" channel="motogp">
+<title>Moto2 Race – Aragon</title>
+</programme>
+<programme start="20250914T140000 +0800" stop="20250914T150000 +0800" channel="motogp">
+<title>MotoGP Race – Aragon</title>
+</programme>
+<programme start="20250919T090000 +0800" stop="20250919T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – San Marino</title>
+</programme>
+<programme start="20250919T095000 +0800" stop="20250919T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – San Marino</title>
+</programme>
+<programme start="20250919T104500 +0800" stop="20250919T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – San Marino</title>
+</programme>
+<programme start="20250920T084000 +0800" stop="20250920T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – San Marino</title>
+</programme>
+<programme start="20250920T092500 +0800" stop="20250920T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – San Marino</title>
+</programme>
+<programme start="20250920T101000 +0800" stop="20250920T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – San Marino</title>
+</programme>
+<programme start="20250920T105000 +0800" stop="20250920T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – San Marino</title>
+</programme>
+<programme start="20250920T111500 +0800" stop="20250920T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – San Marino</title>
+</programme>
+<programme start="20250920T150000 +0800" stop="20250920T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – San Marino</title>
+</programme>
+<programme start="20250921T094000 +0800" stop="20250921T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – San Marino</title>
+</programme>
+<programme start="20250921T110000 +0800" stop="20250921T121500 +0800" channel="motogp">
+<title>Moto3 Race – San Marino</title>
+</programme>
+<programme start="20250921T121500 +0800" stop="20250921T135000 +0800" channel="motogp">
+<title>Moto2 Race – San Marino</title>
+</programme>
+<programme start="20250921T140000 +0800" stop="20250921T150000 +0800" channel="motogp">
+<title>MotoGP Race – San Marino</title>
+</programme>
+<programme start="20251003T090000 +0800" stop="20251003T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – India</title>
+</programme>
+<programme start="20251003T095000 +0800" stop="20251003T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – India</title>
+</programme>
+<programme start="20251003T104500 +0800" stop="20251003T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – India</title>
+</programme>
+<programme start="20251004T084000 +0800" stop="20251004T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – India</title>
+</programme>
+<programme start="20251004T092500 +0800" stop="20251004T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – India</title>
+</programme>
+<programme start="20251004T101000 +0800" stop="20251004T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – India</title>
+</programme>
+<programme start="20251004T105000 +0800" stop="20251004T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – India</title>
+</programme>
+<programme start="20251004T111500 +0800" stop="20251004T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – India</title>
+</programme>
+<programme start="20251004T150000 +0800" stop="20251004T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – India</title>
+</programme>
+<programme start="20251005T094000 +0800" stop="20251005T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – India</title>
+</programme>
+<programme start="20251005T110000 +0800" stop="20251005T121500 +0800" channel="motogp">
+<title>Moto3 Race – India</title>
+</programme>
+<programme start="20251005T121500 +0800" stop="20251005T135000 +0800" channel="motogp">
+<title>Moto2 Race – India</title>
+</programme>
+<programme start="20251005T140000 +0800" stop="20251005T150000 +0800" channel="motogp">
+<title>MotoGP Race – India</title>
+</programme>
+<programme start="20251017T090000 +0800" stop="20251017T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Indonesia</title>
+</programme>
+<programme start="20251017T095000 +0800" stop="20251017T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Indonesia</title>
+</programme>
+<programme start="20251017T104500 +0800" stop="20251017T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Indonesia</title>
+</programme>
+<programme start="20251018T084000 +0800" stop="20251018T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Indonesia</title>
+</programme>
+<programme start="20251018T092500 +0800" stop="20251018T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Indonesia</title>
+</programme>
+<programme start="20251018T101000 +0800" stop="20251018T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Indonesia</title>
+</programme>
+<programme start="20251018T105000 +0800" stop="20251018T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Indonesia</title>
+</programme>
+<programme start="20251018T111500 +0800" stop="20251018T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Indonesia</title>
+</programme>
+<programme start="20251018T150000 +0800" stop="20251018T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Indonesia</title>
+</programme>
+<programme start="20251019T094000 +0800" stop="20251019T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Indonesia</title>
+</programme>
+<programme start="20251019T110000 +0800" stop="20251019T121500 +0800" channel="motogp">
+<title>Moto3 Race – Indonesia</title>
+</programme>
+<programme start="20251019T121500 +0800" stop="20251019T135000 +0800" channel="motogp">
+<title>Moto2 Race – Indonesia</title>
+</programme>
+<programme start="20251019T140000 +0800" stop="20251019T150000 +0800" channel="motogp">
+<title>MotoGP Race – Indonesia</title>
+</programme>
+<programme start="20251024T090000 +0800" stop="20251024T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Australia</title>
+</programme>
+<programme start="20251024T095000 +0800" stop="20251024T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Australia</title>
+</programme>
+<programme start="20251024T104500 +0800" stop="20251024T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Australia</title>
+</programme>
+<programme start="20251025T084000 +0800" stop="20251025T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Australia</title>
+</programme>
+<programme start="20251025T092500 +0800" stop="20251025T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Australia</title>
+</programme>
+<programme start="20251025T101000 +0800" stop="20251025T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Australia</title>
+</programme>
+<programme start="20251025T105000 +0800" stop="20251025T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Australia</title>
+</programme>
+<programme start="20251025T111500 +0800" stop="20251025T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Australia</title>
+</programme>
+<programme start="20251025T150000 +0800" stop="20251025T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Australia</title>
+</programme>
+<programme start="20251026T094000 +0800" stop="20251026T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Australia</title>
+</programme>
+<programme start="20251026T110000 +0800" stop="20251026T121500 +0800" channel="motogp">
+<title>Moto3 Race – Australia</title>
+</programme>
+<programme start="20251026T121500 +0800" stop="20251026T135000 +0800" channel="motogp">
+<title>Moto2 Race – Australia</title>
+</programme>
+<programme start="20251026T140000 +0800" stop="20251026T150000 +0800" channel="motogp">
+<title>MotoGP Race – Australia</title>
+</programme>
+<programme start="20251107T090000 +0800" stop="20251107T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Thailand</title>
+</programme>
+<programme start="20251107T095000 +0800" stop="20251107T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Thailand</title>
+</programme>
+<programme start="20251107T104500 +0800" stop="20251107T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Thailand</title>
+</programme>
+<programme start="20251108T084000 +0800" stop="20251108T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Thailand</title>
+</programme>
+<programme start="20251108T092500 +0800" stop="20251108T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Thailand</title>
+</programme>
+<programme start="20251108T101000 +0800" stop="20251108T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Thailand</title>
+</programme>
+<programme start="20251108T105000 +0800" stop="20251108T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Thailand</title>
+</programme>
+<programme start="20251108T111500 +0800" stop="20251108T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Thailand</title>
+</programme>
+<programme start="20251108T150000 +0800" stop="20251108T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Thailand</title>
+</programme>
+<programme start="20251109T094000 +0800" stop="20251109T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Thailand</title>
+</programme>
+<programme start="20251109T110000 +0800" stop="20251109T121500 +0800" channel="motogp">
+<title>Moto3 Race – Thailand</title>
+</programme>
+<programme start="20251109T121500 +0800" stop="20251109T135000 +0800" channel="motogp">
+<title>Moto2 Race – Thailand</title>
+</programme>
+<programme start="20251109T140000 +0800" stop="20251109T150000 +0800" channel="motogp">
+<title>MotoGP Race – Thailand</title>
+</programme>
+<programme start="20251114T090000 +0800" stop="20251114T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Malaysia</title>
+</programme>
+<programme start="20251114T095000 +0800" stop="20251114T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Malaysia</title>
+</programme>
+<programme start="20251114T104500 +0800" stop="20251114T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Malaysia</title>
+</programme>
+<programme start="20251115T084000 +0800" stop="20251115T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Malaysia</title>
+</programme>
+<programme start="20251115T092500 +0800" stop="20251115T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Malaysia</title>
+</programme>
+<programme start="20251115T101000 +0800" stop="20251115T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Malaysia</title>
+</programme>
+<programme start="20251115T105000 +0800" stop="20251115T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Malaysia</title>
+</programme>
+<programme start="20251115T111500 +0800" stop="20251115T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Malaysia</title>
+</programme>
+<programme start="20251115T150000 +0800" stop="20251115T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Malaysia</title>
+</programme>
+<programme start="20251116T094000 +0800" stop="20251116T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Malaysia</title>
+</programme>
+<programme start="20251116T110000 +0800" stop="20251116T121500 +0800" channel="motogp">
+<title>Moto3 Race – Malaysia</title>
+</programme>
+<programme start="20251116T121500 +0800" stop="20251116T135000 +0800" channel="motogp">
+<title>Moto2 Race – Malaysia</title>
+</programme>
+<programme start="20251116T140000 +0800" stop="20251116T150000 +0800" channel="motogp">
+<title>MotoGP Race – Malaysia</title>
+</programme>
+<programme start="20251128T090000 +0800" stop="20251128T095000 +0800" channel="motogp">
+<title>Moto3 Free Practice 1 – Valencia</title>
+</programme>
+<programme start="20251128T095000 +0800" stop="20251128T104000 +0800" channel="motogp">
+<title>Moto2 Free Practice 1 – Valencia</title>
+</programme>
+<programme start="20251128T104500 +0800" stop="20251128T113500 +0800" channel="motogp">
+<title>MotoGP Free Practice 1 – Valencia</title>
+</programme>
+<programme start="20251129T084000 +0800" stop="20251129T093000 +0800" channel="motogp">
+<title>Moto3 Free Practice 2 – Valencia</title>
+</programme>
+<programme start="20251129T092500 +0800" stop="20251129T101500 +0800" channel="motogp">
+<title>Moto2 Free Practice 2 – Valencia</title>
+</programme>
+<programme start="20251129T101000 +0800" stop="20251129T110000 +0800" channel="motogp">
+<title>MotoGP Free Practice 2 – Valencia</title>
+</programme>
+<programme start="20251129T105000 +0800" stop="20251129T111500 +0800" channel="motogp">
+<title>MotoGP Qualifying 1 – Valencia</title>
+</programme>
+<programme start="20251129T111500 +0800" stop="20251129T113000 +0800" channel="motogp">
+<title>MotoGP Qualifying 2 – Valencia</title>
+</programme>
+<programme start="20251129T150000 +0800" stop="20251129T153000 +0800" channel="motogp">
+<title>MotoGP Sprint Race – Valencia</title>
+</programme>
+<programme start="20251130T094000 +0800" stop="20251130T100000 +0800" channel="motogp">
+<title>MotoGP Warm-Up – Valencia</title>
+</programme>
+<programme start="20251130T110000 +0800" stop="20251130T121500 +0800" channel="motogp">
+<title>Moto3 Race – Valencia</title>
+</programme>
+<programme start="20251130T121500 +0800" stop="20251130T135000 +0800" channel="motogp">
+<title>Moto2 Race – Valencia</title>
+</programme>
+<programme start="20251130T140000 +0800" stop="20251130T150000 +0800" channel="motogp">
+<title>MotoGP Race – Valencia</title>
+</programme>
+</tv>
+
 </tv>
