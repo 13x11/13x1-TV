@@ -10,7 +10,17 @@
     <url>https://www.motogp.com/</url>
     <display-name lang="en">MotoGP™</display-name>
   </channel>
+  <channel id="fwc.1">
+    <icon src="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg" />
+    <url>https://www.dazn.com/</url>
+    <display-name lang="en">FIFA Club World Cup 2025™</display-name>
+  </channel>
   
+ <programme channel="fwc.1" start="20250713030000 +0800" stop="20250713050000 +0800">
+  <title lang="en">Chelsea FC vs. Paris Saint-Germain</title>
+  <desc>FIFA Club World Cup 2025™ - Final - MetLife Stadium, New York</desc>
+  <date>2025-07-13</date>
+ </programme>
  <programme start="20250712181500 +0800" stop="20250712184500 +0800" channel="motogp">
   <title>Factory and Team Press Conference: Ducati, Yamaha</title>
  </programme>
