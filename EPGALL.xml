@@ -1,57 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20250426203000+0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
-  <channel id="100.sports">
-    <icon src="https://brandlogo.org/wp-content/uploads/2024/09/FIFA-Club-World-Cup-2025-Logo.png.webp" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">FIFA Club World Cup 2025™ Broadcast 1</display-name>
+  <channel id="mandiri.1">
+    <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
+    <url>https://aseanutdfc.com</url>
+    <display-name lang="en">ASEAN U-23 MANDIRI CUP™ 2025 Broadcast 1</display-name>
   </channel>
-  <channel id="motogp">
-    <icon src="https://www.dorna.com/wp-content/uploads/2024/11/logo-white-motogp.png" />
-    <url>https://www.motogp.com/</url>
-    <display-name lang="en">MotoGP™</display-name>
+  <channel id="mandiri.2">
+    <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
+    <url>https://aseanutdfc.com</url>
+    <display-name lang="en">ASEAN U-23 MANDIRI CUP™ 2025 Broadcast 1</display-name>
   </channel>
-  <channel id="fwc.1">
-    <icon src="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg" />
-    <url>https://www.dazn.com/</url>
-    <display-name lang="en">FIFA Club World Cup 2025™</display-name>
+  <channel id="mandiri.3">
+    <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
+    <url>https://aseanutdfc.com</url>
+    <display-name lang="en">ASEAN U-23 MANDIRI CUP™ 2025 Broadcast 1</display-name>
   </channel>
+  <channel id="mandiri.4">
+    <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
+    <url>https://aseanutdfc.com</url>
+    <display-name lang="en">ASEAN U-23 MANDIRI CUP™ 2025 Broadcast 1</display-name>
+  </channel>
+
   
- <programme channel="fwc.1" start="20250714030000 +0800" stop="20250714050000 +0800">
-  <title lang="en">Chelsea FC vs. Paris Saint-Germain</title>
-  <desc>FIFA Club World Cup 2025™ - Final - MetLife Stadium, New York</desc>
-  <date>2025-07-13</date>
+ <programme channel="mandiri.1" start="20250715180000 +0800" stop="20250715200000 +0800">
+  <title lang="en">Malaysia U23 vs. Philippines U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Gelora Bung Karno Main Stadium, Jakarta</desc>
+  <date>2025-07-15</date>
  </programme>
- <programme start="20250712181500 +0800" stop="20250712184500 +0800" channel="motogp">
-  <title>Factory and Team Press Conference: Ducati, Yamaha</title>
+ <programme channel="mandiri.1" start="20250715210000 +0800" stop="20250715230000 +0800">
+  <title lang="en">Indonesia U23 vs. Brunei Darussalam U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Gelora Bung Karno Main Stadium, Jakarta</desc>
+  <date>2025-07-15</date>
  </programme>
- <programme start="20250712185000 +0800" stop="20250712190500 +0800" channel="motogp">
-  <title>Moto3™ Qaulifying 1 - Liqui Moly Grand Prix of Germany</title>
+ <programme channel="mandiri.1" start="20250716180000 +0800" stop="20250716200000 +0800">
+  <title lang="en">Cambodia U23 vs. Laos U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Patriot Stadium, Bekasi</desc>
+  <date>2025-07-16</date>
  </programme>
- <programme start="20250712191500 +0800" stop="20250712193000 +0800" channel="motogp">
-  <title>Moto3™ Qaulifying 2 - Liqui Moly Grand Prix of Germany</title>
+ <programme channel="mandiri.1" start="20250716210000 +0800" stop="20250716230000 +0800">
+  <title lang="en">Myanmar U23 vs. Timor Leste U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Patriot Stadium, Bekasi</desc>
+  <date>2025-07-16</date>
  </programme>
- <programme start="20250712194500 +0800" stop="20250712200000 +0800" channel="motogp">
-  <title>Moto2™ Qaulifying 1 - Liqui Moly Grand Prix of Germany</title>
+ <programme channel="mandiri.1" start="20250718180000 +0800" stop="20250718200000 +0800">
+  <title lang="en">Brunei Darussalam U23 vs. Malaysia U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Gelora Bung Karno Main Stadium, Jakarta</desc>
+  <date>2025-07-18</date>
  </programme>
- <programme start="20250712201000 +0800" stop="20250712202500 +0800" channel="motogp">
-  <title>Moto2™ Qaulifying 2 - Liqui Moly Grand Prix of Germany</title>
+ <programme channel="mandiri.1" start="20250718210000 +0800" stop="20250718230000 +0800">
+  <title lang="en">Philippines U23 vs. Indonesia U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Gelora Bung Karno Main Stadium, Jakarta</desc>
+  <date>2025-07-18</date>
  </programme>
- <programme start="20250712211000 +0800" stop="20250712214000 +0800" channel="motogp">
-  <title>MotoGP™ Tissot Sprint (15 Laps) - Liqui Moly Grand Prix of Germany</title>
+ <programme channel="mandiri.1" start="20250719180000 +0800" stop="20250719200000 +0800">
+  <title lang="en">Laos U23 vs. Vietnam U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Patriot Stadium, Bekasi</desc>
+  <date>2025-07-19</date>
  </programme>
- <programme start="20250713154000 +0800" stop="20250713155000 +0800" channel="motogp">
-  <title>MotoGP™ Warm Up - Liqui Moly Grand Prix of Germany</title>
+ <programme channel="mandiri.1" start="20250719210000 +0800" stop="20250719230000 +0800">
+  <title lang="en">Timor Leste U23 vs. Thailand U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Patriot Stadium, Bekasi</desc>
+  <date>2025-07-19</date>
  </programme>
- <programme start="20250713160000 +0800" stop="20250713164000 +0800" channel="motogp">
-  <title>MotoGP™ Rider Parade - Liqui Moly Grand Prix of Germany</title>
+  
+ <programme channel="mandiri.1" start="20250721210000 +0800" stop="20250721230000 +0800">
+  <title lang="en">Indonesia U23 vs. Malaysia U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Gelora Bung Karno Main Stadium, Jakarta</desc>
+  <date>2025-07-21</date>
  </programme>
- <programme start="20250713170000 +0800" stop="20250713180000 +0800" channel="motogp">
-  <title>Moto3™ Race - Liqui Moly Grand Prix of Germany (23 Laps)</title>
+ <programme channel="mandiri.2" start="20250721210000 +0800" stop="20250721230000 +0800">
+  <title lang="en">Philippines U23 vs. Brunei Darussalam U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Patriot Stadium, Bekasi</desc>
+  <date>2025-07-21</date>
  </programme>
- <programme start="20250713180000 +0800" stop="20250713193000 +0800" channel="motogp">
-  <title>Moto2™ Race - Liqui Moly Grand Prix of Germany (25 Laps)</title>
+ <programme channel="mandiri.3" start="20250721210000 +0800" stop="20250721230000 +0800">
+  <title lang="en">Thailand U23 vs. Myanmar U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Patriot Stadium, Bekasi</desc>
+  <date>2025-07-21</date>
  </programme>
- <programme start="20250713200000 +0800" stop="20250713210500 +0800" channel="motogp">
-  <title>MotoGP™ Race - Liqui Moly Grand Prix of Germany (30 Laps)</title>
+ <programme channel="mandiri.4" start="20250721210000 +0800" stop="20250721230000 +0800">
+  <title lang="en">Vietnam U23 vs. Cambodia U23</title>
+  <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Gelora Bung Karno Main Stadium, Jakarta</desc>
+  <date>2025-07-21</date>
  </programme>
 </tv> 
