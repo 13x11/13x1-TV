@@ -42,9 +42,19 @@
   <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Patriot Stadium, Bekasi</desc>
   <date>2025-07-16</date>
  </programme>
+ <programme channel="mandiri.1" start="20250717114000 +0800" stop="202507181175900 +0800">
+  <title lang="en">No Programme available now</title>
+  <desc>LIVE 5 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Brunei vs Malaysia on 18th July, Friday 6pm. Please stay tuned!</desc>
+  <date>2025-07-18</date>
+ </programme>
  <programme channel="mandiri.1" start="20250718180000 +0800" stop="20250718200000 +0800">
   <title lang="en">Brunei Darussalam U23 vs. Malaysia U23</title>
   <desc>ASEAN U-23 MANDIRI CUP™ 2025 - Group Stage - Gelora Bung Karno Main Stadium, Jakarta</desc>
+  <date>2025-07-18</date>
+ </programme>
+ <programme channel="mandiri.1" start="20250718200100 +0800" stop="20250718205900 +0800">
+  <title lang="en">No Programme available now</title>
+  <desc>LIVE 5 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Philipines vs. Indonesia on 18th July, Friday 9pm. Please stay tuned!</desc>
   <date>2025-07-18</date>
  </programme>
  <programme channel="mandiri.1" start="20250718210000 +0800" stop="20250718230000 +0800">
