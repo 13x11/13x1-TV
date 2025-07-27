@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20250426203000+0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
-  <channel id="mandiri.1">
+  <channel id="Fone">
     <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
     <url>https://aseanutdfc.com</url>
-    <display-name lang="en">ASEAN U-23 MANDIRI CUP™ 2025 Broadcast 1</display-name>
+    <display-name lang="en">F1</display-name>
   </channel>
   <channel id="mandiri.2">
     <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
@@ -22,85 +22,9 @@
   </channel>
 
   
- <programme channel="mandiri.1" start="20250715180000 +0800" stop="20250715200000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Malaysia U23 vs. Philippines U23</title>
-  <desc>From Gelora Bung Karno Main Stadium, Jakarta</desc>
-  <date>2025-07-15</date>
- </programme>
- <programme channel="mandiri.1" start="20250715210000 +0800" stop="20250715230000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Indonesia U23 vs. Brunei Darussalam U23</title>
-  <desc>From Gelora Bung Karno Main Stadium, Jakarta</desc>
-  <date>2025-07-15</date>
- </programme>
- <programme channel="mandiri.1" start="20250716180000 +0800" stop="20250716200000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Cambodia U23 vs. Laos U23</title>
-  <desc>From Patriot Stadium, Bekasi</desc>
-  <date>2025-07-16</date>
- </programme>
- <programme channel="mandiri.1" start="20250716210000 +0800" stop="20250716230000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Myanmar U23 vs. Timor Leste U23</title>
-  <desc>From Patriot Stadium, Bekasi</desc>
-  <date>2025-07-16</date>
- </programme>
- <programme channel="mandiri.1" start="20250717114000 +0800" stop="202507181175900 +0800">
-  <title lang="en">No Programme available now</title>
-  <desc>Broadcast Channel will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Brunei vs Malaysia on 18th July, Friday 6pm. Please stay tuned!</desc>
-  <date>2025-07-18</date>
- </programme>
- <programme channel="mandiri.1" start="20250718180000 +0800" stop="20250718200000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Brunei Darussalam U23 vs. Malaysia U23</title>
-  <desc>From Gelora Bung Karno Main Stadium, Jakarta</desc>
-  <date>2025-07-18</date>
- </programme>
- <programme channel="mandiri.1" start="20250718200100 +0800" stop="20250718205900 +0800">
-  <title lang="en">No Programme available now</title>
-  <desc>Broadcast Channel will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Philipines vs. Indonesia on 18th July, Friday 9pm. Please stay tuned!</desc>
-  <date>2025-07-18</date>
- </programme>
- <programme channel="mandiri.1" start="20250718210000 +0800" stop="20250718230000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Philippines U23 vs. Indonesia U23</title>
-  <desc>From Gelora Bung Karno Main Stadium, Jakarta</desc>
-  <date>2025-07-18</date>
- </programme>
- <programme channel="mandiri.1" start="20250718230100 +0800" stop="20250719175900 +0800">
-  <title lang="en">No Programme available now</title>
-  <desc>Broadcast Channel will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Laos vs. Vietnam on 19th July, Saturday 6pm. Please stay tuned!</desc>
-  <date>2025-07-19</date>
- </programme>
- <programme channel="mandiri.1" start="20250719180000 +0800" stop="20250719200000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Laos U23 vs. Vietnam U23</title>
-  <desc>From Patriot Stadium, Bekasi</desc>
-  <date>2025-07-19</date>
- </programme>
- <programme channel="mandiri.1" start="20250719200100 +0800" stop="20250719205900 +0800">
-  <title lang="en">No Programme available now</title>
-  <desc>Broadcast Channel will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Timor Leste vs. Thailand on 19th July, Saturday 9pm. Please stay tuned!</desc>
-  <date>2025-07-19</date>
- </programme>
- <programme channel="mandiri.1" start="20250719210000 +0800" stop="20250719230000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Timor Leste U23 vs. Thailand U23</title>
-  <desc>From Patriot Stadium, Bekasi</desc>
-  <date>2025-07-19</date>
- </programme>
-  
- <programme channel="mandiri.1" start="20250721210000 +0800" stop="20250721230000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Indonesia U23 vs. Malaysia U23</title>
-  <desc> rom Gelora Bung Karno Main Stadium, Jakarta</desc>
-  <date>2025-07-21</date>
- </programme>
- <programme channel="mandiri.2" start="20250721210000 +0800" stop="20250721230000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Philippines U23 vs. Brunei Darussalam U23</title>
-  <desc>From Patriot Stadium, Bekasi</desc>
-  <date>2025-07-21</date>
- </programme>
- <programme channel="mandiri.1" start="20250722210000 +0800" stop="20250722230000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Thailand U23 vs. Myanmar U23</title>
-  <desc>From Patriot Stadium, Bekasi</desc>
-  <date>2025-07-21</date>
- </programme>
- <programme channel="mandiri.2" start="20250722210000 +0800" stop="20250722230000 +0800">
-  <title lang="en">LIVE: ASEAN U-23 MANDIRI CUP™ 2025: Vietnam U23 vs. Cambodia U23</title>
-  <desc>From Gelora Bung Karno Main Stadium, Jakarta</desc>
-  <date>2025-07-21</date>
+ <programme channel="Fone" start="20250727210000 +0800" stop="202507272300000 +0800">
+  <title lang="en">LIVE: FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2025FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2025</title>
+  <desc>From CIRCUIT DE SPA-FRANCORCHAMPS</desc>
+  <date>2025-07-27</date>
  </programme>
 </tv> 
