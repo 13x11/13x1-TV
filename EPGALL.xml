@@ -1,30 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20250426203000+0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
-  <channel id="Fone">
-    <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
+  <channel id="football.1">
+    <icon src="https://dpoint.docomo.ne.jp/cp_6/sports/jwc/img/en/kv_PC.jpg" />
     <url>https://aseanutdfc.com</url>
-    <display-name lang="en">F1</display-name>
+    <display-name lang="en">football1</display-name>
   </channel>
-  <channel id="mandiri.2">
-    <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
+  <channel id="football.2">
+    <icon src="hhttps://cdn.whufc.com/sites/default/files/2025-03/plsummerseriesheader.jpg" />
     <url>https://aseanutdfc.com</url>
-    <display-name lang="en">ASEAN U-23 MANDIRI CUP™ 2025 Broadcast 1</display-name>
+    <display-name lang="en">football2</display-name>
   </channel>
-  <channel id="mandiri.3">
-    <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
+  <channel id="football.3">
+    <icon src="https://cdn.whufc.com/sites/default/files/2025-03/plsummerseriesheader.jpg" />
     <url>https://aseanutdfc.com</url>
-    <display-name lang="en">ASEAN U-23 MANDIRI CUP™ 2025 Broadcast 1</display-name>
+    <display-name lang="en">football3</display-name>
   </channel>
-  <channel id="mandiri.4">
+  <channel id="football.4">
     <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
     <url>https://aseanutdfc.com</url>
-    <display-name lang="en">ASEAN U-23 MANDIRI CUP™ 2025 Broadcast 1</display-name>
+    <display-name lang="en">football4</display-name>
   </channel>
 
   
- <programme channel="Fone" start="20250727210000 +0800" stop="202507272300000 +0800">
-  <title lang="en">LIVE: FORMULA 1 MOET & CHANDON BELGIAN GRAND PRIX 2025</title>
-  <desc>From Circuit of Spa-Francorchamps, Stavelot, Belgium</desc>
-  <date>2025-07-27</date>
+ <programme channel="football.1" start="20250730173000 +0800" stop="202507301930000 +0800">
+  <title lang="en">LIVE: MEIJI YASUDA J.LEAGUE WORLD CHALLENGE 2025 presented by The Nippon Foundation: Yokohama F･Marinos vs. Liverpool FC</title>
+  <desc>From Nissan Stadium, Yokohama, Kanagawa Prefecture, Japan</desc>
+  <date>2025-07-30</date>
+ </programme>
+ <programme channel="football.2" start="20250731053000 +0800" stop="202507310730000 +0800">
+  <title lang="en">LIVE: 2025 Premier League Summer Series: West Ham United vs. Everton</title>
+  <desc>From Soldier Field, Chicago, Illinois, United States</desc>
+  <date>2025-07-31</date>
+ </programme>
+ <programme channel="football.2" start="20250731083000 +0800" stop="202507311030000 +0800">
+  <title lang="en">LIVE: 2025 Premier League Summer Series: Manchester United vs. Bournemouth</title>
+  <desc>From Soldier Field, Chicago, United States</desc>
+  <date>2025-07-31</date>
+ </programme>
+ <programme channel="football.2" start="20250804010000 +0800" stop="202508040300000 +0800">
+  <title lang="en">LIVE: 2025 Premier League Summer Series: Bournemouth vs. West Ham United</title>
+  <desc>From Mercedes-Benz Stadium, Atlanta, United States</desc>
+  <date>2025-08-04</date>
+ </programme>
+ <programme channel="football.2" start="20250804040000 +0800" stop="202508040600000 +0800">
+  <title lang="en">LIVE: 2025 Premier League Summer Series: Manchester United vs. Everton</title>
+  <desc>From Mercedes-Benz Stadium, Atlanta, United States</desc>
+  <date>2025-08-04</date>
  </programme>
 </tv> 
