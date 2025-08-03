@@ -20,6 +20,12 @@
     <url>https://aseanutdfc.com</url>
     <display-name lang="en">football4</display-name>
   </channel>
+  <channel id="F1ONE">
+    <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
+    <url>https://aseanutdfc.com</url>
+    <display-name lang="en">F1</display-name>
+  </channel>
+
 
   
  <programme channel="football.1" start="20250730183000 +0800" stop="202507302030000 +0800">
@@ -46,5 +52,10 @@
   <title lang="en">LIVE: 2025 Premier League Summer Series: Manchester United vs. Everton</title>
   <desc>From Mercedes-Benz Stadium, Atlanta, United States</desc>
   <date>2025-08-04</date>
+ </programme>
+ <programme channel="F1ONE" start="20250803210000 +0800" stop="202508032300000 +0800">
+  <title lang="en">LIVE: Formula 1 Lenovo Hungarian Grand Prix 2025</title>
+  <desc>From Hungarorin Circuit, Budapest</desc>
+  <date>2025-08-03</date>
  </programme>
 </tv> 
