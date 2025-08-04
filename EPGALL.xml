@@ -28,34 +28,14 @@
 
 
   
- <programme channel="football.1" start="20250730183000 +0800" stop="202507302030000 +0800">
-  <title lang="en">LIVE: MEIJI YASUDA J.LEAGUE WORLD CHALLENGE 2025 presented by The Nippon Foundation: Yokohama F･Marinos vs. Liverpool FC</title>
-  <desc>From Nissan Stadium, Yokohama, Kanagawa Prefecture, Japan</desc>
-  <date>2025-07-30</date>
+ <programme channel="football.1" start="20250804235000 +0800" stop="20250805020000 +0800">
+  <title lang="en">(L) Friendlies: Liverpool A vs Athletic Bilbao A</title>
+  <desc>LIVE: Football Pre-Season Friendlies 2025: Liverpool A vs Athletic Bilbao A, from Anfield, Liverpool, England.</desc>
+  <date>2025-08-05</date>
  </programme>
- <programme channel="football.2" start="20250731053000 +0800" stop="202507310730000 +0800">
-  <title lang="en">LIVE: 2025 Premier League Summer Series: West Ham United vs. Everton</title>
-  <desc>From Soldier Field, Chicago, Illinois, United States</desc>
-  <date>2025-07-31</date>
- </programme>
- <programme channel="football.2" start="20250731083000 +0800" stop="202507311030000 +0800">
-  <title lang="en">LIVE: 2025 Premier League Summer Series: Manchester United vs. Bournemouth</title>
-  <desc>From Soldier Field, Chicago, United States</desc>
-  <date>2025-07-31</date>
- </programme>
- <programme channel="football.2" start="20250804010000 +0800" stop="202508040300000 +0800">
-  <title lang="en">LIVE: 2025 Premier League Summer Series: Bournemouth vs. West Ham United</title>
-  <desc>From Mercedes-Benz Stadium, Atlanta, United States</desc>
-  <date>2025-08-04</date>
- </programme>
- <programme channel="football.2" start="20250804040000 +0800" stop="202508040600000 +0800">
-  <title lang="en">LIVE: 2025 Premier League Summer Series: Manchester United vs. Everton</title>
-  <desc>From Mercedes-Benz Stadium, Atlanta, United States</desc>
-  <date>2025-08-04</date>
- </programme>
- <programme channel="F1ONE" start="20250803210000 +0800" stop="202508032300000 +0800">
-  <title lang="en">LIVE: Formula 1 Lenovo Hungarian Grand Prix 2025</title>
-  <desc>From Hungarorin Circuit, Budapest</desc>
-  <date>2025-08-03</date>
+ <programme channel="football.1" start="20250805025000 +0800" stop="20250805050000 +0800">
+  <title lang="en">(L) Friendlies: Liverpool B vs Athletic Bilbao B</title>
+  <desc>LIVE: Football Pre-Season Friendlies 2025: Liverpool B vs Athletic Bilbao B, from Anfield, Liverpool, England</desc>
+  <date>2025-08-05</date>
  </programme>
 </tv> 
