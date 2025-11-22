@@ -1,41 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20250426203000+0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
-  <channel id="football.1">
-    <icon src="https://dpoint.docomo.ne.jp/cp_6/sports/jwc/img/en/kv_PC.jpg" />
-    <url>https://aseanutdfc.com</url>
-    <display-name lang="en">football1</display-name>
-  </channel>
-  <channel id="football.2">
-    <icon src="hhttps://cdn.whufc.com/sites/default/files/2025-03/plsummerseriesheader.jpg" />
-    <url>https://aseanutdfc.com</url>
-    <display-name lang="en">football2</display-name>
-  </channel>
-  <channel id="football.3">
-    <icon src="https://cdn.whufc.com/sites/default/files/2025-03/plsummerseriesheader.jpg" />
-    <url>https://aseanutdfc.com</url>
-    <display-name lang="en">football3</display-name>
-  </channel>
-  <channel id="football.4">
-    <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
-    <url>https://aseanutdfc.com</url>
-    <display-name lang="en">football4</display-name>
-  </channel>
   <channel id="F1ONE">
-    <icon src="https://i.imgur.com/qg7Tfxa.jpeg" />
-    <url>https://aseanutdfc.com</url>
+    <icon src="https://file.garden/aFQjU_LpHi9tgPMM/IMG/SERIE%20A%20THUMBNAIL/F1LOGO25" />
+    <url>https://formula1.com</url>
     <display-name lang="en">F1</display-name>
   </channel>
 
 
   
- <programme channel="football.1" start="20250804235000 +0800" stop="20250805020000 +0800">
-  <title lang="en">(L) Friendlies: Liverpool A vs Athletic Bilbao A</title>
-  <desc>LIVE: Football Pre-Season Friendlies 2025: Liverpool A vs Athletic Bilbao A, from Anfield, Liverpool, England.</desc>
-  <date>2025-08-05</date>
- </programme>
- <programme channel="football.1" start="20250805025000 +0800" stop="20250805050000 +0800">
-  <title lang="en">(L) Friendlies: Liverpool B vs Athletic Bilbao B</title>
-  <desc>LIVE: Football Pre-Season Friendlies 2025: Liverpool B vs Athletic Bilbao B, from Anfield, Liverpool, England</desc>
-  <date>2025-08-05</date>
+ <programme channel="F1ONE" start="20251123115500 +0800" stop="20251123143600 +0800">
+  <title lang="en">FIA F1: Las Vegas GP</title>
+  <desc>LIVE coverage of the FIA Formula 1, Las Vegas Grand Prix. From Las Vegas Strip Circuit®, Nevada, United States.</desc>
+  <date>2025-11-23</date>
  </programme>
 </tv> 
