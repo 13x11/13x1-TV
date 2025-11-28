@@ -30,14 +30,38 @@
   <channel id="EPL10">
     <display-name>EPL</display-name>
   </channel>
+  <channel id="LALIGA1">
+    <display-name>LALIGA</display-name>
+  </channel>
+  <channel id="LALIGA2">
+    <display-name>LALIGA</display-name>
+  </channel>
+  <channel id="LALIGA3">
+    <display-name>LALIGA</display-name>
+  </channel>
+  <channel id="LALIGA4">
+    <display-name>LALIGA</display-name>
+  </channel>
+  <channel id="LALIGA5">
+    <display-name>LALIGA</display-name>
+  </channel>
+  <channel id="LALIGA6">
+    <display-name>LALIGA</display-name>
+  </channel>
+  <channel id="LALIGA7">
+    <display-name>LALIGA</display-name>
+  </channel>
+  <channel id="LALIGA8">
+    <display-name>LALIGA</display-name>
+  </channel>
+  <channel id="LALIGA9">
+    <display-name>LALIGA</display-name>
+  </channel>
+  <channel id="LALIGA10">
+    <display-name>LALIGA</display-name>
+  </channel>
 
 
-
- <programme channel="EPL1" start="20251128140000 +0800" stop="20251128150000 +0800">
-  <title lang="en">TEST</title>
-  <desc>TEST</desc>
-</programme>
-  
  <programme channel="EPL1" start="20251129230000 +0800" stop="20251130013000 +0800">
   <title lang="en">Premier League (M13): Brentford vs. Burnley</title>
   <desc>Matchday 13: Brentford host Burnley at the Gtech Community Stadium looking to secure crucial points at home.</desc>
@@ -87,4 +111,54 @@
   <title lang="en">Premier League (M13): Chelsea vs. Arsenal</title>
   <desc>Matchday 13: The main event! Chelsea battles London rivals Arsenal in a massive derby at Stamford Bridge. A must-watch clash.</desc>
 </programme>
+
+<programme channel="LALIGA1" start="20251129040000 +0800" stop="20251129063000 +0800">
+  <title lang="en">LaLiga (M14): Getafe vs. Elche</title>
+  <desc>Matchday 14: Getafe host Elche at the Coliseum Alfonso Pérez in a crucial LaLiga fixture.</desc>
+</programme>
+
+<programme channel="LALIGA2" start="20251129210000 +0800" stop="20251129233000 +0800">
+  <title lang="en">LaLiga (M14): Mallorca vs. Osasuna</title>
+  <desc>Matchday 14: Mallorca welcomes Osasuna to the Estadi Mallorca Son Moix. Can the home side secure a win?</desc>
+</programme>
+
+<programme channel="LALIGA3" start="20251129231500 +0800" stop="20251130014500 +0800">
+  <title lang="en">LaLiga (M14): Barcelona vs. Alaves</title>
+  <desc>Matchday 14: Barcelona takes on Alaves at the Spotify Camp Nou. The hosts look to dominate this evening match.</desc>
+</programme>
+
+<programme channel="LALIGA4" start="20251130013000 +0800" stop="20251130040000 +0800">
+  <title lang="en">LaLiga (M14): Levante vs. Ath Bilbao</title>
+  <desc>Matchday 14: Levante faces Athletic Bilbao at Estadi Ciutat de València in a tough mid-week contest.</desc>
+</programme>
+
+<programme channel="LALIGA5" start="20251130040000 +0800" stop="20251130063000 +0800">
+  <title lang="en">LaLiga (M14): Atl. Madrid vs. Oviedo</title>
+  <desc>Matchday 14: Atlético Madrid hosts Real Oviedo at the Cívitas Metropolitano. Diego Simeone's men aim for three points.</desc>
+</programme>
+
+<programme channel="LALIGA6" start="20251130210000 +0800" stop="20251130233000 +0800">
+  <title lang="en">LaLiga (M14): Real Sociedad vs. Villarreal</title>
+  <desc>Matchday 14: Real Sociedad meets Villarreal at the Reale Arena. A key fixture for European qualification hopes.</desc>
+</programme>
+
+<programme channel="LALIGA7" start="20251130231500 +0800" stop="20251201014500 +0800">
+  <title lang="en">LaLiga (M14): Sevilla vs. Betis</title>
+  <desc>Matchday 14: The explosive El Gran Derbi! Sevilla battles rivals Real Betis at the Ramón Sánchez Pizjuán. Must-watch action!</desc>
+</programme>
+
+<programme channel="LALIGA8" start="20251201013000 +0800" stop="20251201040000 +0800">
+  <title lang="en">LaLiga (M14): Celta Vigo vs. Espanyol</title>
+  <desc>Matchday 14: Celta Vigo hosts Espanyol at the Balaídos Stadium. Both teams need a win to climb the table.</desc>
+</programme>
+
+<programme channel="LALIGA9" start="20251201040000 +0800" stop="20251201063000 +0800">
+  <title lang="en">LaLiga (M14): Girona vs. Real Madrid</title>
+  <desc>Matchday 14: Giants Real Madrid travel to Girona. A tough challenge for the home side at Estadi Montilivi.</desc>
+</programme>
+
+<programme channel="LALIGA10" start="20251202040000 +0800" stop="20251202063000 +0800">
+  <title lang="en">LaLiga (M14): Rayo Vallecano vs. Valencia</title>
+  <desc>Matchday 14: Rayo Vallecano takes on Valencia at the Campo de Fútbol de Vallecas in the final match of the round.</desc>
+</programme>  
 </tv> 
