@@ -1,16 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20250426203000+0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
-  <channel id="F1ONE">
-    <icon src="https://file.garden/aFQjU_LpHi9tgPMM/IMG/SERIE%20A%20THUMBNAIL/F1LOGO25" />
-    <url>https://formula1.com</url>
-    <display-name lang="en">F1</display-name>
+  <channel id="EPL1">
+    <display-name>EPL</display-name>
+  </channel>
+  <channel id="EPL2">
+    <display-name>EPL</display-name>
+  </channel>
+  <channel id="EPL3">
+    <display-name>EPL</display-name>
+  </channel>
+  <channel id="EPL4">
+    <display-name>EPL</display-name>
+  </channel>
+  <channel id="EPL5">
+    <display-name>EPL</display-name>
+  </channel>
+  <channel id="EPL6">
+    <display-name>EPL</display-name>
+  </channel>
+  <channel id="EPL7">
+    <display-name>EPL</display-name>
+  </channel>
+  <channel id="EPL8">
+    <display-name>EPL</display-name>
+  </channel>
+  <channel id="EPL9">
+    <display-name>EPL</display-name>
+  </channel>
+  <channel id="EPL10">
+    <display-name>EPL</display-name>
   </channel>
 
 
+
+ <programme channel="EPL1" start="20251128140000 +0800" stop="20251128150000 +0800">
+  <title lang="en">TEST</title>
+  <desc>TEST</desc>
+</programme>
   
- <programme channel="F1ONE" start="20251123115500 +0800" stop="20251123143600 +0800">
-  <title lang="en">FIA F1: Las Vegas GP</title>
-  <desc>LIVE coverage of the FIA Formula 1, Las Vegas Grand Prix. From Las Vegas Strip Circuit®, Nevada, United States.</desc>
-  <date>2025-11-23</date>
- </programme>
+ <programme channel="EPL1" start="20251129230000 +0800" stop="20251130013000 +0800">
+  <title lang="en">Premier League (M13): Brentford vs. Burnley</title>
+  <desc>Matchday 13: Brentford host Burnley at the Gtech Community Stadium looking to secure crucial points at home.</desc>
+</programme>
+
+<programme channel="EPL2" start="20251129230000 +0800" stop="20251130013000 +0800">
+  <title lang="en">Premier League (M13): Man City vs. Leeds</title>
+  <desc>Matchday 13: Title hopefuls Manchester City welcome Leeds United to the Etihad Stadium. Can the visitors cause an upset?</desc>
+</programme>
+
+<programme channel="EPL3" start="20251129230000 +0800" stop="20251130013000 +0800">
+  <title lang="en">Premier League (M13): Sunderland vs. Bournemouth</title>
+  <desc>Matchday 13: Sunderland faces Bournemouth at the iconic Stadium of Light. A vital battle in the mid-table.</desc>
+</programme>
+
+<programme channel="EPL4" start="20251130013000 +0800" stop="20251130040000 +0800">
+  <title lang="en">Premier League (M13): Everton vs. Newcastle</title>
+  <desc>Matchday 13: Everton takes on Newcastle United at Goodison Park. A heated contest expected in front of the home fans.</desc>
+</programme>
+
+<programme channel="EPL5" start="20251130040000 +0800" stop="20251130063000 +0800">
+  <title lang="en">Premier League (M13): Spurs vs. Fulham</title>
+  <desc>Matchday 13: Tottenham Hotspur plays Fulham in a London derby at the magnificent Tottenham Hotspur Stadium.</desc>
+</programme>
+
+<programme channel="EPL6" start="20251130200000 +0800" stop="20251130223000 +0800">
+  <title lang="en">Premier League (M13): Crystal Palace vs. Man Utd</title>
+  <desc>Matchday 13: Crystal Palace hosts Manchester United at Selhurst Park. The Eagles look to ground the Red Devils in this tough fixture.</desc>
+</programme>
+
+<programme channel="EPL7" start="20251130220500 +0800" stop="20251201003500 +0800">
+  <title lang="en">Premier League (M13): Aston Villa vs. Wolves</title>
+  <desc>Matchday 13: The highly anticipated Midlands derby! Aston Villa meets rivals Wolverhampton Wanderers at Villa Park.</desc>
+</programme>
+
+<programme channel="EPL8" start="20251130220500 +0800" stop="20251201003500 +0800">
+  <title lang="en">Premier League (M13): Nott'm Forest vs. Brighton</title>
+  <desc>Matchday 13: Nottingham Forest welcomes Brighton &amp; Hove Albion to The City Ground. A tight encounter against a strong tactical side.</desc>
+</programme>
+
+<programme channel="EPL9" start="20251130220500 +0800" stop="20251201003500 +0800">
+  <title lang="en">Premier League (M13): West Ham vs. Liverpool</title>
+  <desc>Matchday 13: West Ham United hosts high-flying Liverpool at the London Stadium. Can the Hammers defy the odds?</desc>
+</programme>
+
+<programme channel="EPL10" start="20251201003000 +0800" stop="20251201030000 +0800">
+  <title lang="en">Premier League (M13): Chelsea vs. Arsenal</title>
+  <desc>Matchday 13: The main event! Chelsea battles London rivals Arsenal in a massive derby at Stamford Bridge. A must-watch clash.</desc>
+</programme>
 </tv> 
