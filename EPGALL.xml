@@ -60,6 +60,36 @@
   <channel id="LALIGA10">
     <display-name>LALIGA</display-name>
   </channel>
+  <channel id="SERIEA1">
+    <display-name>SERIEA</display-name>
+  </channel>
+  <channel id="SERIEA2">
+    <display-name>SERIEA</display-name>
+  </channel>
+  <channel id="SERIEA3">
+    <display-name>SERIEA</display-name>
+  </channel>
+  <channel id="SERIEA4">
+    <display-name>SERIEA</display-name>
+  </channel>
+  <channel id="SERIEA5">
+    <display-name>SERIEA</display-name>
+  </channel>
+  <channel id="SERIEA6">
+    <display-name>SERIEA</display-name>
+  </channel>
+  <channel id="SERIEA7">
+    <display-name>SERIEA</display-name>
+  </channel>
+  <channel id="SERIEA8">
+    <display-name>SERIEA</display-name>
+  </channel>
+  <channel id="SERIEA9">
+    <display-name>SERIEA</display-name>
+  </channel>
+  <channel id="SERIEA10">
+    <display-name>SERIEA</display-name>
+  </channel>
 
 
  <programme channel="EPL1" start="20251129230000 +0800" stop="20251130013000 +0800">
@@ -160,5 +190,55 @@
 <programme channel="LALIGA10" start="20251202040000 +0800" stop="20251202063000 +0800">
   <title lang="en">LaLiga (M14): Rayo Vallecano vs. Valencia</title>
   <desc>Matchday 14: Rayo Vallecano takes on Valencia at the Campo de Fútbol de Vallecas in the final match of the round.</desc>
-</programme>  
+</programme>
+
+<programme channel="SERIEA1" start="20251129034500 +0800" stop="20251129061500 +0800">
+  <title lang="en">Serie A (M13): Como vs. Sassuolo</title>
+  <desc>Round 13: Como hosts Sassuolo at the Stadio Giuseppe Sinigaglia. A crucial clash in the Italian top flight.</desc>
+</programme>
+
+<programme channel="SERIEA2" start="20251129220000 +0800" stop="20251130003000 +0800">
+  <title lang="en">Serie A (M13): Genoa vs. Verona</title>
+  <desc>Round 13: Genoa welcomes Hellas Verona to the Stadio Luigi Ferraris. Both teams seek three points in this evening match.</desc>
+</programme>
+
+<programme channel="SERIEA3" start="20251129220000 +0800" stop="20251130003000 +0800">
+  <title lang="en">Serie A (M13): Parma vs. Udinese</title>
+  <desc>Round 13: Parma faces Udinese at the Stadio Ennio Tardini. A tough competition in the middle of the table.</desc>
+</programme>
+
+<programme channel="SERIEA4" start="20251130010000 +0800" stop="20251130033000 +0800">
+  <title lang="en">Serie A (M13): Juventus vs. Cagliari</title>
+  <desc>Round 13: Juventus hosts Cagliari at the Allianz Stadium. The Old Lady aims for a dominant home victory.</desc>
+</programme>
+
+<programme channel="SERIEA5" start="20251130034500 +0800" stop="20251130061500 +0800">
+  <title lang="en">Serie A (M13): AC Milan vs. Lazio</title>
+  <desc>Round 13: AC Milan takes on Lazio at the San Siro (Stadio Giuseppe Meazza). A massive match that could impact the title race.</desc>
+</programme>
+
+<programme channel="SERIEA6" start="20251130193000 +0800" stop="20251130220000 +0800">
+  <title lang="en">Serie A (M13): Lecce vs. Torino</title>
+  <desc>Round 13: Lecce battles Torino at the Stadio Via del Mare. A crucial early fixture in this round.</desc>
+</programme>
+
+<programme channel="SERIEA7" start="20251130220000 +0800" stop="20251201003000 +0800">
+  <title lang="en">Serie A (M13): Pisa vs. Inter</title>
+  <desc>Round 13: Pisa hosts giants Inter Milan at the Arena Garibaldi. Can the home side pull off an unexpected result?</desc>
+</programme>
+
+<programme channel="SERIEA8" start="20251201010000 +0800" stop="20251201033000 +0800">
+  <title lang="en">Serie A (M13): Atalanta vs. Fiorentina</title>
+  <desc>Round 13: Atalanta faces Fiorentina at the Gewiss Stadium. A high-scoring and entertaining affair is expected.</desc>
+</programme>
+
+<programme channel="SERIEA9" start="20251201034500 +0800" stop="20251201061500 +0800">
+  <title lang="en">Serie A (M13): AS Roma vs. Napoli</title>
+  <desc>Round 13: The Derby del Sole! AS Roma meets rivals Napoli at the Stadio Olimpico. A historic and intense derby match.</desc>
+</programme>
+
+<programme channel="SERIEA10" start="20251202034500 +0800" stop="20251202061500 +0800">
+  <title lang="en">Serie A (M13): Bologna vs. Cremonese</title>
+  <desc>Round 13: Bologna hosts Cremonese at the Stadio Renato Dall'Ara in the final fixture of the round.</desc>
+</programme>
 </tv> 
