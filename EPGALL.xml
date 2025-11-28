@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv date="20250426203000+0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
+  <channel id="F1">
+    <display-name>F1</display-name>
+  </channel>
   <channel id="EPL1">
     <display-name>EPL</display-name>
   </channel>
@@ -240,5 +243,25 @@
 <programme channel="SERIEA10" start="20251202034500 +0800" stop="20251202061500 +0800">
   <title lang="en">Serie A (M13): Bologna vs. Cremonese</title>
   <desc>Round 13: Bologna hosts Cremonese at the Stadio Renato Dall'Ara in the final fixture of the round.</desc>
+</programme>
+
+  <programme channel="F1" start="20251129013000 +0800" stop="20251129021400 +0800">
+  <title lang="en">F1 Qatar 2025: Sprint Qualifying</title>
+  <desc>Coverage of the Sprint Qualifying session for the 2025 Formula 1 Qatar Grand Prix.</desc>
+</programme>
+
+<programme channel="F1" start="20251129220000 +0800" stop="20251129230000 +0800">
+  <title lang="en">F1 Qatar 2025: Sprint</title>
+  <desc>The main Sprint race event for the Qatar Grand Prix weekend.</desc>
+</programme>
+
+<programme channel="F1" start="20251130020000 +0800" stop="20251130030000 +0800">
+  <title lang="en">F1 Qatar 2025: Qualifying</title>
+  <desc>Qualifying session to determine the starting grid for the main Grand Prix race.</desc>
+</programme>
+
+<programme channel="F1" start="20251201000000 +0800" stop="20251201020000 +0800">
+  <title lang="en">F1 Qatar 2025: Race</title>
+  <desc>Live coverage of the main Formula 1 Grand Prix race from the Lusail International Circuit.</desc>
 </programme>
 </tv> 
