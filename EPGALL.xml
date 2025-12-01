@@ -95,173 +95,63 @@
   </channel>
 
 
- <programme channel="EPL1" start="20251129230000 +0800" stop="20251130013000 +0800">
-  <title lang="en">Premier League (M13): Brentford vs. Burnley</title>
-  <desc>Matchday 13: Brentford host Burnley at the Gtech Community Stadium looking to secure crucial points at home.</desc>
+<programme channel="EPL1" start="20251203033000 +0800" stop="20251203060000 +0800">
+  <title lang="en">Premier League (MW14): Bournemouth vs. Everton</title>
+  <desc>Matchweek 14: AFC Bournemouth hosts Everton at the Vitality Stadium. A fixture vital for securing points outside the relegation zone.</desc>
 </programme>
 
-<programme channel="EPL2" start="20251129230000 +0800" stop="20251130013000 +0800">
-  <title lang="en">Premier League (M13): Man City vs. Leeds</title>
-  <desc>Matchday 13: Title hopefuls Manchester City welcome Leeds United to the Etihad Stadium. Can the visitors cause an upset?</desc>
+<programme channel="EPL2" start="20251203033000 +0800" stop="20251203060000 +0800">
+  <title lang="en">Premier League (MW14): Fulham vs. Man City</title>
+  <desc>Matchweek 14: Fulham takes on champions Manchester City at Craven Cottage. Can the home side pull off a major upset?</desc>
 </programme>
 
-<programme channel="EPL3" start="20251129230000 +0800" stop="20251130013000 +0800">
-  <title lang="en">Premier League (M13): Sunderland vs. Bournemouth</title>
-  <desc>Matchday 13: Sunderland faces Bournemouth at the iconic Stadium of Light. A vital battle in the mid-table.</desc>
+<programme channel="EPL3" start="20251203041500 +0800" stop="20251203064500 +0800">
+  <title lang="en">Premier League (MW14): Newcastle vs. Tottenham</title>
+  <desc>Matchweek 14: Newcastle United hosts Tottenham Hotspur at St James' Park. A high-stakes clash with European ambitions on the line.</desc>
 </programme>
 
-<programme channel="EPL4" start="20251130013000 +0800" stop="20251130040000 +0800">
-  <title lang="en">Premier League (M13): Everton vs. Newcastle</title>
-  <desc>Matchday 13: Everton takes on Newcastle United at Goodison Park. A heated contest expected in front of the home fans.</desc>
+<programme channel="EPL4" start="20251204033000 +0800" stop="20251204060000 +0800">
+  <title lang="en">Premier League (MW14): Arsenal vs. Brentford</title>
+  <desc>Matchweek 14: Arsenal welcomes Brentford to the Emirates Stadium. The Gunners seek a crucial victory at home.</desc>
 </programme>
 
-<programme channel="EPL5" start="20251130040000 +0800" stop="20251130063000 +0800">
-  <title lang="en">Premier League (M13): Spurs vs. Fulham</title>
-  <desc>Matchday 13: Tottenham Hotspur plays Fulham in a London derby at the magnificent Tottenham Hotspur Stadium.</desc>
+<programme channel="EPL5" start="20251204033000 +0800" stop="20251204060000 +0800">
+  <title lang="en">Premier League (MW14): Brighton vs. Aston Villa</title>
+  <desc>Matchweek 14: Brighton &amp; Hove Albion faces Aston Villa at the Amex Stadium. A battle between two tactically strong sides.</desc>
 </programme>
 
-<programme channel="EPL6" start="20251130200000 +0800" stop="20251130223000 +0800">
-  <title lang="en">Premier League (M13): Crystal Palace vs. Man Utd</title>
-  <desc>Matchday 13: Crystal Palace hosts Manchester United at Selhurst Park. The Eagles look to ground the Red Devils in this tough fixture.</desc>
+<programme channel="EPL6" start="20251204033000 +0800" stop="20251204060000 +0800">
+  <title lang="en">Premier League (MW14): Burnley vs. Crystal Palace</title>
+  <desc>Matchweek 14: Burnley hosts Crystal Palace at Turf Moor. A key fixture for both teams near the bottom of the table.</desc>
 </programme>
 
-<programme channel="EPL7" start="20251130220500 +0800" stop="20251201003500 +0800">
-  <title lang="en">Premier League (M13): Aston Villa vs. Wolves</title>
-  <desc>Matchday 13: The highly anticipated Midlands derby! Aston Villa meets rivals Wolverhampton Wanderers at Villa Park.</desc>
+<programme channel="EPL7" start="20251204033000 +0800" stop="20251204060000 +0800">
+  <title lang="en">Premier League (MW14): Wolves vs. Nottingham</title>
+  <desc>Matchweek 14: Wolverhampton Wanderers meets Nottingham Forest at Molineux Stadium. A Midlands derby with bragging rights at stake.</desc>
 </programme>
 
-<programme channel="EPL8" start="20251130220500 +0800" stop="20251201003500 +0800">
-  <title lang="en">Premier League (M13): Nott'm Forest vs. Brighton</title>
-  <desc>Matchday 13: Nottingham Forest welcomes Brighton &amp; Hove Albion to The City Ground. A tight encounter against a strong tactical side.</desc>
+<programme channel="EPL8" start="20251204041500 +0800" stop="20251204064500 +0800">
+  <title lang="en">Premier League (MW14): Leeds vs. Chelsea</title>
+  <desc>Matchweek 14: Leeds United hosts Chelsea at Elland Road. An intense atmosphere expected for this rivalry match.</desc>
 </programme>
 
-<programme channel="EPL9" start="20251130220500 +0800" stop="20251201003500 +0800">
-  <title lang="en">Premier League (M13): West Ham vs. Liverpool</title>
-  <desc>Matchday 13: West Ham United hosts high-flying Liverpool at the London Stadium. Can the Hammers defy the odds?</desc>
+<programme channel="EPL9" start="20251204041500 +0800" stop="20251204064500 +0800">
+  <title lang="en">Premier League (MW14): Liverpool vs. Sunderland</title>
+  <desc>Matchweek 14: Liverpool welcomes Sunderland to Anfield. The Reds look to capitalize on their home advantage.</desc>
 </programme>
 
-<programme channel="EPL10" start="20251201003000 +0800" stop="20251201030000 +0800">
-  <title lang="en">Premier League (M13): Chelsea vs. Arsenal</title>
-  <desc>Matchday 13: The main event! Chelsea battles London rivals Arsenal in a massive derby at Stamford Bridge. A must-watch clash.</desc>
+<programme channel="EPL10" start="20251205040000 +0800" stop="20251205063000 +0800">
+  <title lang="en">Premier League (MW14): Man Utd vs. West Ham</title>
+  <desc>Matchweek 14: Manchester United hosts West Ham United at Old Trafford. Both teams aiming to finish the matchweek strong.</desc>
+</programme>
+  
+<programme channel="LALIGA1" start="20251203040000 +0800" stop="20251203063000 +0800">
+  <title lang="en">LaLiga (MW19): Barcelona vs. Atl. Madrid</title>
+  <desc>Matchweek 19: The colossal showdown! Barcelona hosts rivals Atlético Madrid at the Spotify Camp Nou. A defining fixture in the title race.</desc>
 </programme>
 
-<programme channel="LALIGA1" start="20251129040000 +0800" stop="20251129063000 +0800">
-  <title lang="en">LaLiga (M14): Getafe vs. Elche</title>
-  <desc>Matchday 14: Getafe host Elche at the Coliseum Alfonso Pérez in a crucial LaLiga fixture.</desc>
-</programme>
-
-<programme channel="LALIGA2" start="20251129210000 +0800" stop="20251129233000 +0800">
-  <title lang="en">LaLiga (M14): Mallorca vs. Osasuna</title>
-  <desc>Matchday 14: Mallorca welcomes Osasuna to the Estadi Mallorca Son Moix. Can the home side secure a win?</desc>
-</programme>
-
-<programme channel="LALIGA3" start="20251129231500 +0800" stop="20251130014500 +0800">
-  <title lang="en">LaLiga (M14): Barcelona vs. Alaves</title>
-  <desc>Matchday 14: Barcelona takes on Alaves at the Spotify Camp Nou. The hosts look to dominate this evening match.</desc>
-</programme>
-
-<programme channel="LALIGA4" start="20251130013000 +0800" stop="20251130040000 +0800">
-  <title lang="en">LaLiga (M14): Levante vs. Ath Bilbao</title>
-  <desc>Matchday 14: Levante faces Athletic Bilbao at Estadi Ciutat de València in a tough mid-week contest.</desc>
-</programme>
-
-<programme channel="LALIGA5" start="20251130040000 +0800" stop="20251130063000 +0800">
-  <title lang="en">LaLiga (M14): Atl. Madrid vs. Oviedo</title>
-  <desc>Matchday 14: Atlético Madrid hosts Real Oviedo at the Cívitas Metropolitano. Diego Simeone's men aim for three points.</desc>
-</programme>
-
-<programme channel="LALIGA6" start="20251130210000 +0800" stop="20251130233000 +0800">
-  <title lang="en">LaLiga (M14): Real Sociedad vs. Villarreal</title>
-  <desc>Matchday 14: Real Sociedad meets Villarreal at the Reale Arena. A key fixture for European qualification hopes.</desc>
-</programme>
-
-<programme channel="LALIGA7" start="20251130231500 +0800" stop="20251201014500 +0800">
-  <title lang="en">LaLiga (M14): Sevilla vs. Betis</title>
-  <desc>Matchday 14: The explosive El Gran Derbi! Sevilla battles rivals Real Betis at the Ramón Sánchez Pizjuán. Must-watch action!</desc>
-</programme>
-
-<programme channel="LALIGA8" start="20251201013000 +0800" stop="20251201040000 +0800">
-  <title lang="en">LaLiga (M14): Celta Vigo vs. Espanyol</title>
-  <desc>Matchday 14: Celta Vigo hosts Espanyol at the Balaídos Stadium. Both teams need a win to climb the table.</desc>
-</programme>
-
-<programme channel="LALIGA9" start="20251201040000 +0800" stop="20251201063000 +0800">
-  <title lang="en">LaLiga (M14): Girona vs. Real Madrid</title>
-  <desc>Matchday 14: Giants Real Madrid travel to Girona. A tough challenge for the home side at Estadi Montilivi.</desc>
-</programme>
-
-<programme channel="LALIGA10" start="20251202040000 +0800" stop="20251202063000 +0800">
-  <title lang="en">LaLiga (M14): Rayo Vallecano vs. Valencia</title>
-  <desc>Matchday 14: Rayo Vallecano takes on Valencia at the Campo de Fútbol de Vallecas in the final match of the round.</desc>
-</programme>
-
-<programme channel="SERIEA1" start="20251129034500 +0800" stop="20251129061500 +0800">
-  <title lang="en">Serie A (M13): Como vs. Sassuolo</title>
-  <desc>Round 13: Como hosts Sassuolo at the Stadio Giuseppe Sinigaglia. A crucial clash in the Italian top flight.</desc>
-</programme>
-
-<programme channel="SERIEA2" start="20251129220000 +0800" stop="20251130003000 +0800">
-  <title lang="en">Serie A (M13): Genoa vs. Verona</title>
-  <desc>Round 13: Genoa welcomes Hellas Verona to the Stadio Luigi Ferraris. Both teams seek three points in this evening match.</desc>
-</programme>
-
-<programme channel="SERIEA3" start="20251129220000 +0800" stop="20251130003000 +0800">
-  <title lang="en">Serie A (M13): Parma vs. Udinese</title>
-  <desc>Round 13: Parma faces Udinese at the Stadio Ennio Tardini. A tough competition in the middle of the table.</desc>
-</programme>
-
-<programme channel="SERIEA4" start="20251130010000 +0800" stop="20251130033000 +0800">
-  <title lang="en">Serie A (M13): Juventus vs. Cagliari</title>
-  <desc>Round 13: Juventus hosts Cagliari at the Allianz Stadium. The Old Lady aims for a dominant home victory.</desc>
-</programme>
-
-<programme channel="SERIEA5" start="20251130034500 +0800" stop="20251130061500 +0800">
-  <title lang="en">Serie A (M13): AC Milan vs. Lazio</title>
-  <desc>Round 13: AC Milan takes on Lazio at the San Siro (Stadio Giuseppe Meazza). A massive match that could impact the title race.</desc>
-</programme>
-
-<programme channel="SERIEA6" start="20251130193000 +0800" stop="20251130220000 +0800">
-  <title lang="en">Serie A (M13): Lecce vs. Torino</title>
-  <desc>Round 13: Lecce battles Torino at the Stadio Via del Mare. A crucial early fixture in this round.</desc>
-</programme>
-
-<programme channel="SERIEA7" start="20251130220000 +0800" stop="20251201003000 +0800">
-  <title lang="en">Serie A (M13): Pisa vs. Inter</title>
-  <desc>Round 13: Pisa hosts giants Inter Milan at the Arena Garibaldi. Can the home side pull off an unexpected result?</desc>
-</programme>
-
-<programme channel="SERIEA8" start="20251201010000 +0800" stop="20251201033000 +0800">
-  <title lang="en">Serie A (M13): Atalanta vs. Fiorentina</title>
-  <desc>Round 13: Atalanta faces Fiorentina at the Gewiss Stadium. A high-scoring and entertaining affair is expected.</desc>
-</programme>
-
-<programme channel="SERIEA9" start="20251201034500 +0800" stop="20251201061500 +0800">
-  <title lang="en">Serie A (M13): AS Roma vs. Napoli</title>
-  <desc>Round 13: The Derby del Sole! AS Roma meets rivals Napoli at the Stadio Olimpico. A historic and intense derby match.</desc>
-</programme>
-
-<programme channel="SERIEA10" start="20251202034500 +0800" stop="20251202061500 +0800">
-  <title lang="en">Serie A (M13): Bologna vs. Cremonese</title>
-  <desc>Round 13: Bologna hosts Cremonese at the Stadio Renato Dall'Ara in the final fixture of the round.</desc>
-</programme>
-
-  <programme channel="F1" start="20251129013000 +0800" stop="20251129021400 +0800">
-  <title lang="en">F1 Qatar 2025: Sprint Qualifying</title>
-  <desc>Coverage of the Sprint Qualifying session for the 2025 Formula 1 Qatar Grand Prix.</desc>
-</programme>
-
-<programme channel="F1" start="20251129220000 +0800" stop="20251129230000 +0800">
-  <title lang="en">F1 Qatar 2025: Sprint</title>
-  <desc>The main Sprint race event for the Qatar Grand Prix weekend.</desc>
-</programme>
-
-<programme channel="F1" start="20251130020000 +0800" stop="20251130030000 +0800">
-  <title lang="en">F1 Qatar 2025: Qualifying</title>
-  <desc>Qualifying session to determine the starting grid for the main Grand Prix race.</desc>
-</programme>
-
-<programme channel="F1" start="20251201000000 +0800" stop="20251201020000 +0800">
-  <title lang="en">F1 Qatar 2025: Race</title>
-  <desc>Live coverage of the main Formula 1 Grand Prix race from the Lusail International Circuit.</desc>
+<programme channel="LALIGA2" start="20251204020000 +0800" stop="20251204043000 +0800">
+  <title lang="en">LaLiga (MW19): Ath Bilbao vs. Real Madrid</title>
+  <desc>Matchweek 19: Athletic Bilbao welcomes Real Madrid to San Mamés. A huge test for Los Blancos in the Basque country.</desc>
 </programme>
 </tv> 
