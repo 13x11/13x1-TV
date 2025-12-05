@@ -2,36 +2,47 @@
 <tv date="20250426203000+0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
   <channel id="F1">
     <display-name>F1</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png" />
   </channel>
   <channel id="EPL1">
     <display-name>EPL</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/4c377s1535214890.png" />
   </channel>
   <channel id="EPL2">
     <display-name>EPL</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/4c377s1535214890.png" />
   </channel>
   <channel id="EPL3">
     <display-name>EPL</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/4c377s1535214890.png" />
   </channel>
   <channel id="EPL4">
     <display-name>EPL</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/4c377s1535214890.png" />
   </channel>
   <channel id="EPL5">
     <display-name>EPL</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/4c377s1535214890.png" />
   </channel>
   <channel id="EPL6">
     <display-name>EPL</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/4c377s1535214890.png" />
   </channel>
   <channel id="EPL7">
     <display-name>EPL</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/4c377s1535214890.png" />
   </channel>
   <channel id="EPL8">
     <display-name>EPL</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/4c377s1535214890.png" />
   </channel>
   <channel id="EPL9">
     <display-name>EPL</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/4c377s1535214890.png" />
   </channel>
   <channel id="EPL10">
     <display-name>EPL</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/4c377s1535214890.png" />
   </channel>
   <channel id="LALIGA1">
     <display-name>LALIGA</display-name>
@@ -98,6 +109,7 @@
 <programme channel="EPL1" start="20251206203000 +0800" stop="20251206230000 +0800">
   <title lang="en">Premier League (MW15): Aston Villa vs. Arsenal</title>
   <desc>Matchweek 15: Aston Villa hosts Arsenal at Villa Park. A great fixture to kick off the weekend action.</desc>
+  <icon src="https://r2.thesportsdb.com/images/media/event/thumb/th0u891750320466.jpg" />
 </programme>
 
 <programme channel="EPL2" start="20251206230000 +0800" stop="20251207013000 +0800">
