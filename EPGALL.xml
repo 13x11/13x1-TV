@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv date="20250426203000+0700" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/400477/20250418.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=400477&date=20250418&timezone=None">
-  <channel id="F1">
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="SDPLAY">
     <display-name>F1</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png" />
   </channel>
