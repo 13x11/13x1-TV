@@ -194,4 +194,54 @@
   <title lang="en">LaLiga (MW15): Osasuna vs. Levante</title>
   <desc>Matchweek 15: Osasuna battles Levante in the final match of the round.</desc>
 </programme>
+
+<programme channel="SERIEA1" start="20251206220000 +0800" stop="20251207003000 +0800">
+  <title lang="en">Serie A (MW14): Sassuolo vs. Fiorentina</title>
+  <desc>Matchweek 14: Sassuolo hosts Fiorentina at the Stadio Città del Tricolore.</desc>
+</programme>
+
+<programme channel="SERIEA2" start="20251207010000 +0800" stop="20251207033000 +0800">
+  <title lang="en">Serie A (MW14): Inter vs. Como</title>
+  <desc>Matchweek 14: Inter Milan faces Como at the San Siro (Stadio Giuseppe Meazza).</desc>
+</programme>
+
+<programme channel="SERIEA3" start="20251207034500 +0800" stop="20251207061500 +0800">
+  <title lang="en">Serie A (MW14): Verona vs. Atalanta</title>
+  <desc>Matchweek 14: Hellas Verona takes on Atalanta at the Stadio Marcantonio Bentegodi.</desc>
+</programme>
+
+<programme channel="SERIEA4" start="20251207193000 +0800" stop="20251207220000 +0800">
+  <title lang="en">Serie A (MW14): Cremonese vs. Lecce</title>
+  <desc>Matchweek 14: Cremonese welcomes Lecce in an early Sunday fixture.</desc>
+</programme>
+
+<programme channel="SERIEA5" start="20251207220000 +0800" stop="20251208003000 +0800">
+  <title lang="en">Serie A (MW14): Cagliari vs. AS Roma</title>
+  <desc>Matchweek 14: Cagliari hosts AS Roma at the Sardegna Arena. A crucial fixture for both sides.</desc>
+</programme>
+
+<programme channel="SERIEA6" start="20251208010000 +0800" stop="20251208033000 +0800">
+  <title lang="en">Serie A (MW14): Lazio vs. Bologna</title>
+  <desc>Matchweek 14: Lazio battles Bologna at the Stadio Olimpico.</desc>
+</programme>
+
+<programme channel="SERIEA7" start="20251208034500 +0800" stop="20251208061500 +0800">
+  <title lang="en">Serie A (MW14): Napoli vs. Juventus</title>
+  <desc>Matchweek 14: Big match! Napoli hosts rivals Juventus at the Stadio Diego Armando Maradona.</desc>
+</programme>
+
+<programme channel="SERIEA8" start="20251208220000 +0800" stop="20251209003000 +0800">
+  <title lang="en">Serie A (MW14): Pisa vs. Parma</title>
+  <desc>Matchweek 14: Pisa takes on Parma in a Monday evening game.</desc>
+</programme>
+
+<programme channel="SERIEA9" start="20251209010000 +0800" stop="20251209033000 +0800">
+  <title lang="en">Serie A (MW14): Udinese vs. Genoa</title>
+  <desc>Matchweek 14: Udinese welcomes Genoa to the Stadio Friuli.</desc>
+</programme>
+
+<programme channel="SERIEA10" start="20251209034500 +0800" stop="20251209061500 +0800">
+  <title lang="en">Serie A (MW14): Torino vs. AC Milan</title>
+  <desc>Matchweek 14: Torino faces AC Milan at the Stadio Olimpico Grande Torino in the final match of the round.</desc>
+</programme>
 </tv> 
