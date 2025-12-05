@@ -86,33 +86,79 @@
   </channel>
   <channel id="SERIEA1">
     <display-name>SERIEA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
   </channel>
   <channel id="SERIEA2">
     <display-name>SERIEA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
   </channel>
   <channel id="SERIEA3">
     <display-name>SERIEA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
   </channel>
   <channel id="SERIEA4">
     <display-name>SERIEA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
   </channel>
   <channel id="SERIEA5">
     <display-name>SERIEA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
   </channel>
   <channel id="SERIEA6">
     <display-name>SERIEA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
   </channel>
   <channel id="SERIEA7">
     <display-name>SERIEA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
   </channel>
   <channel id="SERIEA8">
     <display-name>SERIEA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
   </channel>
   <channel id="SERIEA9">
     <display-name>SERIEA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
   </channel>
   <channel id="SERIEA10">
     <display-name>SERIEA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
+  </channel>
+  <channel id="BUNDES1">
+    <display-name>BUNDESLIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
+  </channel>
+  <channel id="BUNDES2">
+    <display-name>BUNDESLIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
+  </channel>
+  <channel id="BUNDES3">
+    <display-name>BUNDESLIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
+  </channel>
+  <channel id="BUNDES4">
+    <display-name>BUNDESLIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
+  </channel>
+  <channel id="BUNDES5">
+    <display-name>BUNDESLIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
+  </channel>
+  <channel id="BUNDES6">
+    <display-name>BUNDESLIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
+  </channel>
+  <channel id="BUNDES7">
+    <display-name>BUNDESLIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
+  </channel>
+  <channel id="BUNDES8">
+    <display-name>BUNDESLIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
+  </channel>
+  <channel id="BUNDES9">
+    <display-name>BUNDESLIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
   </channel>
 
 
@@ -274,5 +320,50 @@
 <programme channel="SERIEA10" start="20251209034500 +0800" stop="20251209061500 +0800">
   <title lang="en">Serie A (MW14): Torino vs. AC Milan</title>
   <desc>Matchweek 14: Torino faces AC Milan at the Stadio Olimpico Grande Torino in the final match of the round.</desc>
+</programme>
+
+<programme channel="BUNDES1" start="20251206033000 +0800" stop="20251206060000 +0800">
+  <title lang="en">Bundesliga (MW13): Mainz vs. B. Monchengladbach</title>
+  <desc>Matchweek 13: 1. FSV Mainz 05 hosts Borussia Mönchengladbach at the Mewa Arena.</desc>
+</programme>
+
+<programme channel="BUNDES2" start="20251206223000 +0800" stop="20251207010000 +0800">
+  <title lang="en">Bundesliga (MW13): Augsburg vs. Bayer Leverkusen</title>
+  <desc>Matchweek 13: FC Augsburg faces Bayer Leverkusen at the WWK Arena. The league leaders look to continue their run.</desc>
+</programme>
+
+<programme channel="BUNDES3" start="20251206223000 +0800" stop="20251207010000 +0800">
+  <title lang="en">Bundesliga (MW13): FC Koln vs. St. Pauli</title>
+  <desc>Matchweek 13: FC Köln welcomes FC St. Pauli to the RheinEnergieStadion.</desc>
+</programme>
+
+<programme channel="BUNDES4" start="20251206223000 +0800" stop="20251207010000 +0800">
+  <title lang="en">Bundesliga (MW13): Heidenheim vs. Freiburg</title>
+  <desc>Matchweek 13: FC Heidenheim 1846 hosts SC Freiburg.</desc>
+</programme>
+
+<programme channel="BUNDES5" start="20251206223000 +0800" stop="20251207010000 +0800">
+  <title lang="en">Bundesliga (MW13): Stuttgart vs. Bayern Munich</title>
+  <desc>Matchweek 13: VfB Stuttgart takes on giants Bayern Munich at the MHPArena. A massive contest for the top spots.</desc>
+</programme>
+
+<programme channel="BUNDES6" start="20251206223000 +0800" stop="20251207010000 +0800">
+  <title lang="en">Bundesliga (MW13): Wolfsburg vs. Union Berlin</title>
+  <desc>Matchweek 13: VfL Wolfsburg hosts 1. FC Union Berlin.</desc>
+</programme>
+
+<programme channel="BUNDES7" start="20251207013000 +0800" stop="20251207040000 +0800">
+  <title lang="en">Bundesliga (MW13): RB Leipzig vs. Eintracht Frankfurt</title>
+  <desc>Matchweek 13: RB Leipzig battles Eintracht Frankfurt at the Red Bull Arena.</desc>
+</programme>
+
+<programme channel="BUNDES8" start="20251207223000 +0800" stop="20251208010000 +0800">
+  <title lang="en">Bundesliga (MW13): Hamburger SV vs. Werder Bremen</title>
+  <desc>Matchweek 13: Hamburger SV meets rivals Werder Bremen in the North Derby (Nordderby).</desc>
+</programme>
+
+<programme channel="BUNDES9" start="20251208003000 +0800" stop="20251208030000 +0800">
+  <title lang="en">Bundesliga (MW13): Dortmund vs. Hoffenheim</title>
+  <desc>Matchweek 13: Borussia Dortmund hosts TSG 1899 Hoffenheim at the Signal Iduna Park.</desc>
 </programme>
 </tv> 
