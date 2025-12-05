@@ -46,33 +46,43 @@
   </channel>
   <channel id="LALIGA1">
     <display-name>LALIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/gq4b1r1687707889.png" />
   </channel>
   <channel id="LALIGA2">
     <display-name>LALIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/gq4b1r1687707889.png" />
   </channel>
   <channel id="LALIGA3">
     <display-name>LALIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/gq4b1r1687707889.png" />
   </channel>
   <channel id="LALIGA4">
     <display-name>LALIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/gq4b1r1687707889.png" />
   </channel>
   <channel id="LALIGA5">
     <display-name>LALIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/gq4b1r1687707889.png" />
   </channel>
   <channel id="LALIGA6">
     <display-name>LALIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/gq4b1r1687707889.png" />
   </channel>
   <channel id="LALIGA7">
     <display-name>LALIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/gq4b1r1687707889.png" />
   </channel>
   <channel id="LALIGA8">
     <display-name>LALIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/gq4b1r1687707889.png" />
   </channel>
   <channel id="LALIGA9">
     <display-name>LALIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/gq4b1r1687707889.png" />
   </channel>
   <channel id="LALIGA10">
     <display-name>LALIGA</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/logo/gq4b1r1687707889.png" />
   </channel>
   <channel id="SERIEA1">
     <display-name>SERIEA</display-name>
@@ -115,46 +125,55 @@
 <programme channel="EPL2" start="20251206230000 +0800" stop="20251207013000 +0800">
   <title lang="en">Premier League (MW15): Bournemouth vs. Chelsea</title>
   <desc>Matchweek 15: AFC Bournemouth faces Chelsea at the Vitality Stadium. The visitors look to secure a crucial away win.</desc>
+  <icon src="https://r2.thesportsdb.com/images/media/event/thumb/z7vz2b1750320468.jpg" />
 </programme>
 
 <programme channel="EPL3" start="20251206230000 +0800" stop="20251207013000 +0800">
   <title lang="en">Premier League (MW15): Everton vs. Nottingham</title>
   <desc>Matchweek 15: Everton welcomes Nottingham Forest to Goodison Park. A battle between two teams looking to climb the table.</desc>
+  <icon src="https://r2.thesportsdb.com/images/media/event/thumb/a4wy431750320474.jpg" />
 </programme>
 
 <programme channel="EPL4" start="20251206230000 +0800" stop="20251207013000 +0800">
   <title lang="en">Premier League (MW15): Man City vs. Sunderland</title>
   <desc>Matchweek 15: Manchester City hosts Sunderland at the Etihad Stadium. The defending champions aim for a dominant performance.</desc>
+  <icon src="https://r2.thesportsdb.com/images/media/event/thumb/rbr6dw1750320481.jpg" />
 </programme>
 
 <programme channel="EPL5" start="20251206230000 +0800" stop="20251207013000 +0800">
   <title lang="en">Premier League (MW15): Newcastle vs. Burnley</title>
   <desc>Matchweek 15: Newcastle United takes on Burnley at St James' Park. The Magpies will be seeking a comfortable home victory.</desc>
+  <icon src="https://r2.thesportsdb.com/images/media/event/thumb/47v3pq1750320484.jpg" />
 </programme>
 
 <programme channel="EPL6" start="20251206230000 +0800" stop="20251207013000 +0800">
   <title lang="en">Premier League (MW15): Tottenham vs. Brentford</title>
   <desc>Matchweek 15: Tottenham Hotspur faces Brentford in a London derby at the Tottenham Hotspur Stadium.</desc>
+  <icon src="https://r2.thesportsdb.com/images/media/event/thumb/xfd65r1750320487.jpg" />
 </programme>
 
 <programme channel="EPL7" start="20251207013000 +0800" stop="20251207040000 +0800">
   <title lang="en">Premier League (MW15): Leeds vs. Liverpool</title>
   <desc>Matchweek 15: Leeds United hosts Liverpool at Elland Road. A high-tempo match expected between the two rivals.</desc>
+  <icon src="https://r2.thesportsdb.com/images/media/event/thumb/7hiwi51750320479.jpg" />
 </programme>
 
 <programme channel="EPL8" start="20251207220000 +0800" stop="20251208003000 +0800">
   <title lang="en">Premier League (MW15): Brighton vs. West Ham</title>
   <desc>Matchweek 15: Brighton &amp; Hove Albion welcomes West Ham United to the Amex Stadium. A tough contest between two European contenders.</desc>
+  <icon src="https://r2.thesportsdb.com/images/media/event/thumb/shmzu31750320471.jpg" />
 </programme>
 
 <programme channel="EPL9" start="20251208003000 +0800" stop="20251208030000 +0800">
   <title lang="en">Premier League (MW15): Fulham vs. Crystal Palace</title>
   <desc>Matchweek 15: Fulham hosts Crystal Palace at Craven Cottage. A London derby crucial for mid-table standings.</desc>
+  <icon src="https://r2.thesportsdb.com/images/media/event/thumb/sjnhn41750320476.jpg" />
 </programme>
 
 <programme channel="EPL10" start="20251209040000 +0800" stop="20251209063000 +0800">
   <title lang="en">Premier League (MW15): Wolves vs. Man Utd</title>
   <desc>Matchweek 15: Wolverhampton Wanderers meets Manchester United at Molineux Stadium. A challenging final fixture for the Red Devils.</desc>
+  <icon src="https://r2.thesportsdb.com/images/media/event/thumb/xy6own1750320489.jpg" />
 </programme>
 
 <programme channel="LALIGA1" start="20251206040000 +0800" stop="20251206063000 +0800">
