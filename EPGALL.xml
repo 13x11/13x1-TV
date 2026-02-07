@@ -236,9 +236,17 @@
     <display-name>futsal</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/id/9/96/Logo_Piala_Futsal_Asia_AFC_Indonesia_2026.png" />
   </channel>
+   <channel id="eurof">
+    <display-name>futsal</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/d/d3/UEFA_Futsal_Euro_2026.png" />
+  </channel>
 
 <programme channel="futsal" start="20260207195500 +0800" stop="20260207224000 +0800">
   <title lang="en">AFC Futsal Asian Cup 2026</title>
   <desc>Finals: Indonesia vs. Iran (L)</desc>
+</programme>
+<programme channel="futsal" start="20260208022500 +0800" stop="20260208045000 +0800">
+  <title lang="en">UEFA Futsal Euro 2026</title>
+  <desc>Finals: Portugal vs. Spain (L)</desc>
 </programme>
 </tv> 
