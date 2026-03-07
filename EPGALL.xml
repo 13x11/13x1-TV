@@ -241,42 +241,42 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/d/d3/UEFA_Futsal_Euro_2026.png" />
   </channel>
 
-<programme channel="UCL1" start="20260311014000 +0000" stop="20260311035500 +0000">
-    <title lang="en">1/8-Finals: Gaalatasaray vs. Liverpool (Rams Park, Istanbul)</title>
+<programme channel="UCL1" start="20260310174000 +0000" stop="20260310195500 +0000">
+    <title lang="en">1/8-Finals: Galatasaray vs. Liverpool (Rams Park, Istanbul)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
 
-  <programme channel="UCL2" start="20260311035500 +0000" stop="20260311061000 +0000">
+  <programme channel="UCL2" start="20260310195500 +0000" stop="20260310221000 +0000">
     <title lang="en">1/8-Finals: Atalanta vs. Bayern Munich (Gewiss Stadium, Bergamo)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
 
-  <programme channel="UCL3" start="20260311035500 +0000" stop="20260311061000 +0000">
+  <programme channel="UCL3" start="20260310195500 +0000" stop="20260310221000 +0000">
     <title lang="en">1/8-Finals: Atl. Madrid vs. Tottenham (Metropolitano Stadium, Madrid)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
 
-  <programme channel="UCL4" start="20260311035500 +0000" stop="20260311061000 +0000">
+  <programme channel="UCL4" start="20260310195500 +0000" stop="20260310221000 +0000">
     <title lang="en">1/8-Finals: Newcastle vs. Barcelona (St. James' Park, Newcastle)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
 
-  <programme channel="UCL1" start="20260312014000 +0000" stop="20260312035500 +0000">
+  <programme channel="UCL1" start="20260311174000 +0000" stop="20260311195500 +0000">
     <title lang="en">1/8-Finals: Bayer Leverkusen vs. Arsenal (BayArena, Leverkusen)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
 
-  <programme channel="UCL2" start="20260312035500 +0000" stop="20260312061000 +0000">
+  <programme channel="UCL2" start="20260311195500 +0000" stop="20260311221000 +0000">
     <title lang="en">1/8-Finals: Bodo/Glimt vs. Sporting CP (Aspmyra Stadion, Bodo)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
 
-  <programme channel="UCL3" start="20260312035500 +0000" stop="20260312061000 +0000">
+  <programme channel="UCL3" start="20260311195500 +0000" stop="20260311221000 +0000">
     <title lang="en">1/8-Finals: PSG vs. Chelsea (Parc des Princes, Paris)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
 
-  <programme channel="UCL4" start="20260312035500 +0000" stop="20260312061000 +0000">
+  <programme channel="UCL4" start="20260311195500 +0000" stop="20260311221000 +0000">
     <title lang="en">1/8-Finals: Real Madrid vs. Manchester City (Santiago Bernabeu, Madrid)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
