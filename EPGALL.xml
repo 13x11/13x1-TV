@@ -240,6 +240,11 @@
     <display-name>futsal</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/d/d3/UEFA_Futsal_Euro_2026.png" />
   </channel>
+  
+<programme channel="F1" start="20260308035500 +0000" stop="20260308063000 +0000">
+    <title lang="en">Race: Formula 1 Qatar Airways Australian Grand Prix 2026 (Albert Park Circuit, Melbourne)</title>
+    <desc>Formula One</desc>
+  </programme>
 
 <programme channel="UCL1" start="20260310174000 +0000" stop="20260310195500 +0000">
     <title lang="en">1/8-Finals: Galatasaray vs. Liverpool (Rams Park, Istanbul)</title>
