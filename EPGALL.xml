@@ -285,4 +285,29 @@
     <title lang="en">1/8-Finals: Real Madrid vs. Manchester City (Santiago Bernabeu, Madrid)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
+
+  <programme channel="f1" start="20260313033000 +0000" stop="20260313043000 +0000">
+    <title lang="en">PRACTICE 1: Chinese Grand Prix 2026</title>
+    <desc>Formula One</desc>
+  </programme>
+
+  <programme channel="f1" start="20260313073000 +0000" stop="20260313081400 +0000">
+    <title lang="en">SPRINT QUALIFYING: Chinese Grand Prix 2026</title>
+    <desc>Formula One</desc>
+  </programme>
+
+  <programme channel="f1" start="20260314030000 +0000" stop="20260314040000 +0000">
+    <title lang="en">SPRINT: Chinese Grand Prix 2026</title>
+    <desc>Formula One</desc>
+  </programme>
+
+  <programme channel="f1" start="20260314070000 +0000" stop="20260314080000 +0000">
+    <title lang="en">QUALIFYING: Chinese Grand Prix 2026</title>
+    <desc>Formula One</desc>
+  </programme>
+
+  <programme channel="f1" start="20260315070000 +0000" stop="20260315100000 +0000">
+    <title lang="en">RACE: Chinese Grand Prix 2026</title>
+    <desc>Formula One</desc>
+  </programme>
 </tv> 
