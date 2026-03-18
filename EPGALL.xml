@@ -241,68 +241,23 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/d/d3/UEFA_Futsal_Euro_2026.png" />
   </channel>
   
-<programme channel="UCL1" start="20260310174000 +0000" stop="20260310195500 +0000">
-    <title lang="en">1/8-Finals: Galatasaray vs. Liverpool (Rams Park, Istanbul)</title>
+<programme channel="UCL1" start="20260319014000 +0800" stop="20260319035500 +0800">
+    <title lang="en">1/8-Finals: Barcelona vs. Newcastle (Estadi Olimpic Lluis Companys, Barcelona)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
 
-  <programme channel="UCL2" start="20260310195500 +0000" stop="20260310221000 +0000">
-    <title lang="en">1/8-Finals: Atalanta vs. Bayern Munich (Gewiss Stadium, Bergamo)</title>
+  <programme channel="UCL2" start="20260319035500 +0800" stop="20260319061000 +0800">
+    <title lang="en">1/8-Finals: Bayern Munich vs. Atalanta (Allianz Arena, Munich)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
 
-  <programme channel="UCL3" start="20260310195500 +0000" stop="20260310221000 +0000">
-    <title lang="en">1/8-Finals: Atl. Madrid vs. Tottenham (Metropolitano Stadium, Madrid)</title>
+  <programme channel="UCL3" start="20260319035500 +0800" stop="20260319061000 +0800">
+    <title lang="en">1/8-Finals: Liverpool vs. Galatasaray (Anfield, Liverpool)</title>
     <desc>UEFA Champions League 2025-2026</desc>
   </programme>
 
-  <programme channel="UCL4" start="20260310195500 +0000" stop="20260310221000 +0000">
-    <title lang="en">1/8-Finals: Newcastle vs. Barcelona (St. James' Park, Newcastle)</title>
+  <programme channel="UCL4" start="20260319035500 +0800" stop="20260319061000 +0800">
+    <title lang="en">1/8-Finals: Tottenham vs. Atl. Madrid (Tottenham Hotspur Stadium, London)</title>
     <desc>UEFA Champions League 2025-2026</desc>
-  </programme>
-
-  <programme channel="UCL1" start="20260311174000 +0000" stop="20260311195500 +0000">
-    <title lang="en">1/8-Finals: Bayer Leverkusen vs. Arsenal (BayArena, Leverkusen)</title>
-    <desc>UEFA Champions League 2025-2026</desc>
-  </programme>
-
-  <programme channel="UCL2" start="20260311195500 +0000" stop="20260311221000 +0000">
-    <title lang="en">1/8-Finals: Bodo/Glimt vs. Sporting CP (Aspmyra Stadion, Bodo)</title>
-    <desc>UEFA Champions League 2025-2026</desc>
-  </programme>
-
-  <programme channel="UCL3" start="20260311195500 +0000" stop="20260311221000 +0000">
-    <title lang="en">1/8-Finals: PSG vs. Chelsea (Parc des Princes, Paris)</title>
-    <desc>UEFA Champions League 2025-2026</desc>
-  </programme>
-
-  <programme channel="UCL4" start="20260311195500 +0000" stop="20260311221000 +0000">
-    <title lang="en">1/8-Finals: Real Madrid vs. Manchester City (Santiago Bernabeu, Madrid)</title>
-    <desc>UEFA Champions League 2025-2026</desc>
-  </programme>
-
-  <programme channel="F1" start="20260313033000 +0000" stop="20260313043000 +0000">
-    <title lang="en">PRACTICE 1: Chinese Grand Prix 2026</title>
-    <desc>Formula One</desc>
-  </programme>
-
-  <programme channel="F1" start="20260313073000 +0000" stop="20260313081400 +0000">
-    <title lang="en">SPRINT QUALIFYING: Chinese Grand Prix 2026</title>
-    <desc>Formula One</desc>
-  </programme>
-
-  <programme channel="F1" start="20260314030000 +0000" stop="20260314040000 +0000">
-    <title lang="en">SPRINT: Chinese Grand Prix 2026</title>
-    <desc>Formula One</desc>
-  </programme>
-
-  <programme channel="F1" start="20260314070000 +0000" stop="20260314080000 +0000">
-    <title lang="en">QUALIFYING: Chinese Grand Prix 2026</title>
-    <desc>Formula One</desc>
-  </programme>
-
-  <programme channel="F1" start="20260315070000 +0000" stop="20260315100000 +0000">
-    <title lang="en">RACE: Chinese Grand Prix 2026</title>
-    <desc>Formula One</desc>
   </programme>
 </tv> 
