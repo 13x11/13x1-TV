@@ -160,35 +160,35 @@
     <display-name>BUNDESLIGA</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
   </channel>
-  <channel id="UCL1">
+  <channel id="WCQ1">
     <display-name>UCL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
   </channel>
-  <channel id="UCL2">
+  <channel id="WCQ2">
     <display-name>UCL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
   </channel>
-  <channel id="UCL3">
+  <channel id="WCQ3">
     <display-name>UCL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
   </channel>
-  <channel id="UCL4">
+  <channel id="WCQ4">
     <display-name>UCL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
   </channel>
-  <channel id="UCL5">
+  <channel id="WCQ5">
     <display-name>UCL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
   </channel>
-  <channel id="UCL6">
+  <channel id="WCQ6">
     <display-name>UCL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
   </channel>
-  <channel id="UCL7">
+  <channel id="WCQ7">
     <display-name>UCL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
   </channel>
-  <channel id="UCL8">
+  <channel id="WCQ8">
     <display-name>UCL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
   </channel>
@@ -241,23 +241,43 @@
     <icon src="https://upload.wikimedia.org/wikipedia/en/d/d3/UEFA_Futsal_Euro_2026.png" />
   </channel>
   
-<programme channel="UCL1" start="20260319014000 +0800" stop="20260319035500 +0800">
-    <title lang="en">1/8-Finals: Barcelona vs. Newcastle (Spotify Camp Nou, Barcelona)</title>
-    <desc>UEFA Champions League 2025-2026</desc>
-  </programme>
+<programme channel="WCQ1" start="20260327005500 +0800" stop="20260327031000 +0800">
+    <title lang="en">Semi-Finals: Turkey vs. Romania (Atatürk Olympic Stadium, Istanbul)</title>
+    <desc>World Cup Qualification 2026</desc>
+</programme>
 
-  <programme channel="UCL2" start="20260319035500 +0800" stop="20260319061000 +0800">
-    <title lang="en">1/8-Finals: Bayern Munich vs. Atalanta (Allianz Arena, Munich)</title>
-    <desc>UEFA Champions League 2025-2026</desc>
-  </programme>
+<programme channel="WCQ2" start="20260327034000 +0800" stop="20260327055500 +0800">
+    <title lang="en">Semi-Finals: Czech Republic vs. Ireland (Generali Arena, Prague)</title>
+    <desc>World Cup Qualification 2026</desc>
+</programme>
 
-  <programme channel="UCL3" start="20260319035500 +0800" stop="20260319061000 +0800">
-    <title lang="en">1/8-Finals: Liverpool vs. Galatasaray (Anfield, Liverpool)</title>
-    <desc>UEFA Champions League 2025-2026</desc>
-  </programme>
+<programme channel="WCQ3" start="20260327034000 +0800" stop="20260327055500 +0800">
+    <title lang="en">Semi-Finals: Denmark vs. North Macedonia (Parken Stadium, Copenhagen)</title>
+    <desc>World Cup Qualification 2026</desc>
+</programme>
 
-  <programme channel="UCL4" start="20260319035500 +0800" stop="20260319061000 +0800">
-    <title lang="en">1/8-Finals: Tottenham vs. Atl. Madrid (Tottenham Hotspur Stadium, London)</title>
-    <desc>UEFA Champions League 2025-2026</desc>
-  </programme>
+<programme channel="WCQ4" start="20260327034000 +0800" stop="20260327055500 +0800">
+    <title lang="en">Semi-Finals: Italy vs. Northern Ireland (Stadio Olimpico, Rome)</title>
+    <desc>World Cup Qualification 2026</desc>
+</programme>
+
+<programme channel="WCQ5" start="20260327034000 +0800" stop="20260327055500 +0800">
+    <title lang="en">Semi-Finals: Poland vs. Albania (PGE Narodowy, Warsaw)</title>
+    <desc>World Cup Qualification 2026</desc>
+</programme>
+
+<programme channel="WCQ6" start="20260327034000 +0800" stop="20260327055500 +0800">
+    <title lang="en">Semi-Finals: Slovakia vs. Kosovo (Tehelne pole, Bratislava)</title>
+    <desc>World Cup Qualification 2026</desc>
+</programme>
+
+<programme channel="WCQ7" start="20260327034000 +0800" stop="20260327055500 +0800">
+    <title lang="en">Semi-Finals: Ukraine vs. Sweden (Olympic Stadium, Kyiv (Neutral Venue))</title>
+    <desc>World Cup Qualification 2026</desc>
+</programme>
+
+<programme channel="WCQ8" start="20260327034000 +0800" stop="20260327055500 +0800">
+    <title lang="en">Semi-Finals: Wales vs. Bosnia &amp; Herzegovina (Cardiff City Stadium, Cardiff)</title>
+    <desc>World Cup Qualification 2026</desc>
+</programme>
 </tv> 
