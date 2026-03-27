@@ -240,7 +240,32 @@
     <display-name>futsal</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/d/d3/UEFA_Futsal_Euro_2026.png" />
   </channel>
-  
+
+<programme channel="F1" start="20260327103000 +0800" stop="20260327113000 +0800">
+    <title lang="en">Formula 1 Aramco Japanese Grand Prix 2026 - Practice 1</title>
+    <desc>Formula 1 Aramco Japanese Grand Prix 2026</desc>
+</programme>
+
+<programme channel="F1" start="20260327140000 +0800" stop="20260327150000 +0800">
+    <title lang="en">Formula 1 Aramco Japanese Grand Prix 2026 - Practice 2</title>
+    <desc>Formula 1 Aramco Japanese Grand Prix 2026</desc>
+</programme>
+
+<programme channel="F1" start="20260328103000 +0800" stop="20260328113000 +0800">
+    <title lang="en">Formula 1 Aramco Japanese Grand Prix 2026 - Practice 3</title>
+    <desc>Formula 1 Aramco Japanese Grand Prix 2026</desc>
+</programme>
+
+<programme channel="F1" start="20260328140000 +0800" stop="20260328150000 +0800">
+    <title lang="en">Formula 1 Aramco Japanese Grand Prix 2026 - Qualifying</title>
+    <desc>Formula 1 Aramco Japanese Grand Prix 2026</desc>
+</programme>
+
+<programme channel="F1" start="20260329125500 +0800" stop="20260329154000 +0800">
+    <title lang="en">Formula 1 Aramco Japanese Grand Prix 2026 - Race</title>
+    <desc>Formula 1 Aramco Japanese Grand Prix 2026</desc>
+</programme>
+
 <programme channel="WCQ1" start="20260401024000 +0800" stop="20260401045500 +0800">
     <title lang="en">Final: Bosnia &amp; Herzegovina vs. Italy (Bilino Polje, Zenica)</title>
     <desc>2026 FIFA World Cup European Qualifiers Play-Offs</desc>
