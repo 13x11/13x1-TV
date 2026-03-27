@@ -192,8 +192,8 @@
     <display-name>UCL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
   </channel>
-  <channel id="UCL9">
-    <display-name>UCL</display-name>
+  <channel id="FIFA-Series">
+    <display-name>FIFA-Series</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
   </channel>
   <channel id="UCL10">
@@ -284,5 +284,15 @@
 <programme channel="WCQ4" start="20260401024000 +0800" stop="20260401045500 +0800">
     <title lang="en">Final: Sweden vs. Poland (Friends Arena, Solna)</title>
     <desc>2026 FIFA World Cup European Qualifiers Play-Offs</desc>
+</programme>
+
+<programme channel="FIFA-Series" start="20260327162500 +0800" stop="20260327184500 +0800">
+    <title lang="en">FIFA Series: Solomon Islands vs Bulgaria (Gelora Bung Karno, Jakarta)</title>
+    <desc>FIFA Series 2026</desc>
+</programme>
+
+<programme channel="FIFA-Series" start="20260327205500 +0800" stop="20260327231000 +0800">
+    <title lang="en">FIFA Series: Indonesia vs. Saint Kitts and Nevis (Gelora Bung Karno, Jakarta)</title>
+    <desc>FIFA Series 2026</desc>
 </programme>
 </tv> 
