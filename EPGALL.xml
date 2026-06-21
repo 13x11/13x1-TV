@@ -5,7 +5,6 @@
     <icon src="https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png" />
   </channel>
 
-<tv>
   <!-- Group H - Uruguay vs. Cabo Verde -->
   <programme channel="FOX" start="20260622055500 +0800" stop="20260622081000 +0800">
     <title lang="en">FIFA World Cup 2026™ Matches</title>
