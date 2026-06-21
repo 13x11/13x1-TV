@@ -4,25 +4,209 @@
     <display-name>FOX 4K</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png" />
   </channel>
-  <channel id="NOW HK">
-    <display-name>NOW HK</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
-  </channel>
-  <channel id="FUSS1">
-    <display-name>FUSS1</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
-  </channel>
 
-<programme channel="FOX" start="20260621000000 +0800" stop="20260622014904 +0800">
-    <title lang="en">FIFA World Cup 2026</title>
-    <desc></desc>
-</programme>
-<programme channel="NOW HK" start="20260621000000 +0800" stop="20260622014939 +0800">
-    <title lang="en">FIFA World Cup 2026</title>
-    <desc></desc>
-</programme>
-<programme channel="FUSS1" start="20260621000000 +0800" stop="20260622014925 +0800">
-    <title lang="en">FIFA World Cup 2026</title>
-    <desc></desc>
-</programme>
+<tv>
+  <!-- Group H - Uruguay vs. Cabo Verde -->
+  <programme channel="FOX" start="20260622055500 +0800" stop="20260622081000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group H - Uruguay vs. Cabo Verde (Live from Miami Stadium, Miami)</desc>
+  </programme>
+
+  <!-- Group G - New Zealand vs. Egypt -->
+  <programme channel="FOX" start="20260622085500 +0800" stop="20260622111000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group G - New Zealand vs. Egypt (Live from BC Place Vancouver, Vancouver)</desc>
+  </programme>
+
+  <!-- Group J - Argentina vs. Austria -->
+  <programme channel="FOX" start="20260623005500 +0800" stop="20260623031000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group J - Argentina vs. Austria (Live from Dallas Stadium, Dallas)</desc>
+  </programme>
+
+  <!-- Group I - France vs. Iraq -->
+  <programme channel="FOX" start="20260623045500 +0800" stop="20260623071000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group I - France vs. Iraq (Live from Philadelphia Stadium, Philadelphia)</desc>
+  </programme>
+
+  <!-- Group I - Norway vs. Senegal -->
+  <programme channel="FOX" start="20260623075500 +0800" stop="20260623101000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group I - Norway vs. Senegal (Live from New York/New Jersey Stadium, New York)</desc>
+  </programme>
+
+  <!-- Group J - Jordan vs. Algeria -->
+  <programme channel="FOX" start="20260623105500 +0800" stop="20260623131000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group J - Jordan vs. Algeria (Live from San Francisco Bay Area Stadium, San Francisco Bay Area)</desc>
+  </programme>
+
+  <!-- Group K - Portugal vs. Uzbekistan -->
+  <programme channel="FOX" start="20260624005500 +0800" stop="20260624031000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group K - Portugal vs. Uzbekistan (Live from Houston Stadium, Houston)</desc>
+  </programme>
+
+  <!-- Group L - England vs. Ghana -->
+  <programme channel="FOX" start="20260624035500 +0800" stop="20260624061000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group L - England vs. Ghana (Live from Boston Stadium, Boston)</desc>
+  </programme>
+
+  <!-- Group L - Panama vs. Croatia -->
+  <programme channel="FOX" start="20260624065500 +0800" stop="20260624091000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group L - Panama vs. Croatia (Live from Toronto Stadium, Toronto)</desc>
+  </programme>
+
+  <!-- Group K - Colombia vs. Congo DR -->
+  <programme channel="FOX" start="20260624095500 +0800" stop="20260624121000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group K - Colombia vs. Congo DR (Live from Guadalajara Stadium, Guadalajara)</desc>
+  </programme>
+
+  <!-- Group B - Switzerland vs. Canada -->
+  <programme channel="FOX" start="20260625025500 +0800" stop="20260625051000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group B - Switzerland vs. Canada (Live from BC Place Vancouver, Vancouver)</desc>
+  </programme>
+
+  <!-- Group B - Bosnia-Herzegovina vs. Qatar -->
+  <programme channel="FOX" start="20260625025500 +0800" stop="20260625051000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group B - Bosnia-Herzegovina vs. Qatar (Live from Seattle Stadium, Seattle)</desc>
+  </programme>
+
+  <!-- Group C - Scotland vs. Brazil -->
+  <programme channel="FOX" start="20260625055500 +0800" stop="20260625081000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group C - Scotland vs. Brazil (Live from Miami Stadium, Miami)</desc>
+  </programme>
+
+  <!-- Group C - Morocco vs. Haiti -->
+  <programme channel="FOX" start="20260625055500 +0800" stop="20260625081000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group C - Morocco vs. Haiti (Live from Atlanta Stadium, Atlanta)</desc>
+  </programme>
+
+  <!-- Group A - Czechia vs. Mexico -->
+  <programme channel="FOX" start="20260625085500 +0800" stop="20260625111000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group A - Czechia vs. Mexico (Live from Mexico City Stadium, Mexico City)</desc>
+  </programme>
+
+  <!-- Group A - South Africa vs. Korea Republic -->
+  <programme channel="FOX" start="20260625085500 +0800" stop="20260625111000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group A - South Africa vs. Korea Republic (Live from Monterrey Stadium, Monterrey)</desc>
+  </programme>
+
+  <!-- Group E - Curaçao vs. Côte d'Ivoire -->
+  <programme channel="FOX" start="20260626035500 +0800" stop="20260626061000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group E - Curaçao vs. Côte d'Ivoire (Live from Philadelphia Stadium, Philadelphia)</desc>
+  </programme>
+
+  <!-- Group E - Ecuador vs. Germany -->
+  <programme channel="FOX" start="20260626035500 +0800" stop="20260626061000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group E - Ecuador vs. Germany (Live from New York/New Jersey Stadium, New York)</desc>
+  </programme>
+
+  <!-- Group F - Japan vs. Sweden -->
+  <programme channel="FOX" start="20260626065500 +0800" stop="20260626091000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group F - Japan vs. Sweden (Live from Dallas Stadium, Dallas)</desc>
+  </programme>
+
+  <!-- Group F - Tunisia vs. Netherlands -->
+  <programme channel="FOX" start="20260626065500 +0800" stop="20260626091000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group F - Tunisia vs. Netherlands (Live from Kansas City Stadium, Kansas City)</desc>
+  </programme>
+
+  <!-- Group D - Türkiye vs. USA -->
+  <programme channel="FOX" start="20260626095500 +0800" stop="20260626121000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group D - Türkiye vs. USA (Live from Los Angeles Stadium, Los Angeles)</desc>
+  </programme>
+
+  <!-- Group D - Paraguay vs. Australia -->
+  <programme channel="FOX" start="20260626095500 +0800" stop="20260626121000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group D - Paraguay vs. Australia (Live from San Francisco Bay Area Stadium, San Francisco Bay Area)</desc>
+  </programme>
+
+  <!-- Group I - Norway vs. France -->
+  <programme channel="FOX" start="20260627025500 +0800" stop="20260627051000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group I - Norway vs. France (Live from Boston Stadium, Boston)</desc>
+  </programme>
+
+  <!-- Group I - Senegal vs. Iraq -->
+  <programme channel="FOX" start="20260627025500 +0800" stop="20260627051000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group I - Senegal vs. Iraq (Live from Toronto Stadium, Toronto)</desc>
+  </programme>
+
+  <!-- Group H - Cabo Verde vs. Saudi Arabia -->
+  <programme channel="FOX" start="20260627075500 +0800" stop="20260627101000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group H - Cabo Verde vs. Saudi Arabia (Live from Houston Stadium, Houston)</desc>
+  </programme>
+
+  <!-- Group H - Uruguay vs. Spain -->
+  <programme channel="FOX" start="20260627075500 +0800" stop="20260627101000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group H - Uruguay vs. Spain (Live from Guadalajara Stadium, Guadalajara)</desc>
+  </programme>
+
+  <!-- Group G - Egypt vs. IR Iran -->
+  <programme channel="FOX" start="20260627105500 +0800" stop="20260627131000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group G - Egypt vs. IR Iran (Live from Seattle Stadium, Seattle)</desc>
+  </programme>
+
+  <!-- Group G - New Zealand vs. Belgium -->
+  <programme channel="FOX" start="20260627105500 +0800" stop="20260627131000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group G - New Zealand vs. Belgium (Live from BC Place Vancouver, Vancouver)</desc>
+  </programme>
+
+  <!-- Group L - Panama vs. England -->
+  <programme channel="FOX" start="20260628045500 +0800" stop="20260628071000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group L - Panama vs. England (Live from New York/New Jersey Stadium, New York)</desc>
+  </programme>
+
+  <!-- Group L - Croatia vs. Ghana -->
+  <programme channel="FOX" start="20260628045500 +0800" stop="20260628071000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group L - Croatia vs. Ghana (Live from Philadelphia Stadium, Philadelphia)</desc>
+  </programme>
+
+  <!-- Group K - Colombia vs. Portugal -->
+  <programme channel="FOX" start="20260628072500 +0800" stop="20260628094000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group K - Colombia vs. Portugal (Live from Miami Stadium, Miami)</desc>
+  </programme>
+
+  <!-- Group K - Congo DR vs. Uzbekistan -->
+  <programme channel="FOX" start="20260628072500 +0800" stop="20260628094000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group K - Congo DR vs. Uzbekistan (Live from Atlanta Stadium, Atlanta)</desc>
+  </programme>
+
+  <!-- Group J - Algeria vs. Austria -->
+  <programme channel="FOX" start="20260628095500 +0800" stop="20260628121000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group J - Algeria vs. Austria (Live from Kansas City Stadium, Kansas City)</desc>
+  </programme>
+
+  <!-- Group J - Jordan vs. Argentina -->
+  <programme channel="FOX" start="20260628095500 +0800" stop="20260628121000 +0800">
+    <title lang="en">FIFA World Cup 2026™ Matches</title>
+    <desc lang="en">Group J - Jordan vs. Argentina (Live from Dallas Stadium, Dallas)</desc>
+  </programme>
 </tv> 
