@@ -5,139 +5,173 @@
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png" />
   </channel>
   <programme channel="FOX" start="20260622055500 +0800" stop="20260622081000 +0800">
-    <title lang="en">Uruguay vs. Cabo Verde</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group H (Live from Miami Stadium, Miami)</desc>
+    <title>Uruguay vs. Cabo Verde</title>
+    <desc>FIFA World Cup 2026™ Matches - Group H (Live from Miami Stadium, Miami)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260622085500 +0800" stop="20260622111000 +0800">
-    <title lang="en">New Zealand vs. Egypt</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group G (Live from BC Place Vancouver, Vancouver)</desc>
+    <title>New Zealand vs. Egypt</title>
+    <desc>FIFA World Cup 2026™ Matches - Group G (Live from BC Place Vancouver, Vancouver)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260623005500 +0800" stop="20260623031000 +0800">
-    <title lang="en">Argentina vs. Austria</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group J (Live from Dallas Stadium, Dallas)</desc>
+    <title>Argentina vs. Austria</title>
+    <desc>FIFA World Cup 2026™ Matches - Group J (Live from Dallas Stadium, Dallas)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260623045500 +0800" stop="20260623071000 +0800">
-    <title lang="en">France vs. Iraq</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group I (Live from Philadelphia Stadium, Philadelphia)</desc>
+    <title>France vs. Iraq</title>
+    <desc>FIFA World Cup 2026™ Matches - Group I (Live from Philadelphia Stadium, Philadelphia)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260623075500 +0800" stop="20260623101000 +0800">
-    <title lang="en">Norway vs. Senegal</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group I (Live from New York/New Jersey Stadium, New York)</desc>
+    <title>Norway vs. Senegal</title>
+    <desc>FIFA World Cup 2026™ Matches - Group I (Live from New York/New Jersey Stadium, New York)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260623105500 +0800" stop="20260623131000 +0800">
-    <title lang="en">Jordan vs. Algeria</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group J (Live from San Francisco Bay Area Stadium, San Francisco Bay Area)</desc>
+    <title>Jordan vs. Algeria</title>
+    <desc>FIFA World Cup 2026™ Matches - Group J (Live from San Francisco Bay Area Stadium, San Francisco Bay Area)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260624005500 +0800" stop="20260624031000 +0800">
-    <title lang="en">Portugal vs. Uzbekistan</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group K (Live from Houston Stadium, Houston)</desc>
+    <title>Portugal vs. Uzbekistan</title>
+    <desc>FIFA World Cup 2026™ Matches - Group K (Live from Houston Stadium, Houston)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260624035500 +0800" stop="20260624061000 +0800">
-    <title lang="en">England vs. Ghana</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group L (Live from Boston Stadium, Boston)</desc>
+    <title>England vs. Ghana</title>
+    <desc>FIFA World Cup 2026™ Matches - Group L (Live from Boston Stadium, Boston)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260624065500 +0800" stop="20260624091000 +0800">
-    <title lang="en">Panama vs. Croatia</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group L (Live from Toronto Stadium, Toronto)</desc>
+    <title>Panama vs. Croatia</title>
+    <desc>FIFA World Cup 2026™ Matches - Group L (Live from Toronto Stadium, Toronto)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260624095500 +0800" stop="20260624121000 +0800">
-    <title lang="en">Colombia vs. Congo DR</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group K (Live from Guadalajara Stadium, Guadalajara)</desc>
+    <title>Colombia vs. Congo DR</title>
+    <desc>FIFA World Cup 2026™ Matches - Group K (Live from Guadalajara Stadium, Guadalajara)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260625025500 +0800" stop="20260625051000 +0800">
-    <title lang="en">Switzerland vs. Canada</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group B (Live from BC Place Vancouver, Vancouver)</desc>
+    <title>Switzerland vs. Canada</title>
+    <desc>FIFA World Cup 2026™ Matches - Group B (Live from BC Place Vancouver, Vancouver)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260625025500 +0800" stop="20260625051000 +0800">
-    <title lang="en">Bosnia-Herzegovina vs. Qatar</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group B (Live from Seattle Stadium, Seattle)</desc>
+    <title>Bosnia-Herzegovina vs. Qatar</title>
+    <desc>FIFA World Cup 2026™ Matches - Group B (Live from Seattle Stadium, Seattle)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260625055500 +0800" stop="20260625081000 +0800">
-    <title lang="en">Scotland vs. Brazil</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group C (Live from Miami Stadium, Miami)</desc>
+    <title>Scotland vs. Brazil</title>
+    <desc>FIFA World Cup 2026™ Matches - Group C (Live from Miami Stadium, Miami)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260625055500 +0800" stop="20260625081000 +0800">
-    <title lang="en">Morocco vs. Haiti</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group C (Live from Atlanta Stadium, Atlanta)</desc>
+    <title>Morocco vs. Haiti</title>
+    <desc>FIFA World Cup 2026™ Matches - Group C (Live from Atlanta Stadium, Atlanta)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260625085500 +0800" stop="20260625111000 +0800">
-    <title lang="en">Czechia vs. Mexico</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group A (Live from Mexico City Stadium, Mexico City)</desc>
+    <title>Czechia vs. Mexico</title>
+    <desc>FIFA World Cup 2026™ Matches - Group A (Live from Mexico City Stadium, Mexico City)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260625085500 +0800" stop="20260625111000 +0800">
-    <title lang="en">South Africa vs. Korea Republic</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group A (Live from Monterrey Stadium, Monterrey)</desc>
+    <title>South Africa vs. Korea Republic</title>
+    <desc>FIFA World Cup 2026™ Matches - Group A (Live from Monterrey Stadium, Monterrey)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260626035500 +0800" stop="20260626061000 +0800">
-    <title lang="en">Curaçao vs. Côte d'Ivoire</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group E (Live from Philadelphia Stadium, Philadelphia)</desc>
+    <title>Curaçao vs. Côte d'Ivoire</title>
+    <desc>FIFA World Cup 2026™ Matches - Group E (Live from Philadelphia Stadium, Philadelphia)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260626035500 +0800" stop="20260626061000 +0800">
-    <title lang="en">Ecuador vs. Germany</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group E (Live from New York/New Jersey Stadium, New York)</desc>
+    <title>Ecuador vs. Germany</title>
+    <desc>FIFA World Cup 2026™ Matches - Group E (Live from New York/New Jersey Stadium, New York)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260626065500 +0800" stop="20260626091000 +0800">
-    <title lang="en">Japan vs. Sweden</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group F (Live from Dallas Stadium, Dallas)</desc>
+    <title>Japan vs. Sweden</title>
+    <desc>FIFA World Cup 2026™ Matches - Group F (Live from Dallas Stadium, Dallas)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260626065500 +0800" stop="20260626091000 +0800">
-    <title lang="en">Tunisia vs. Netherlands</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group F (Live from Kansas City Stadium, Kansas City)</desc>
+    <title>Tunisia vs. Netherlands</title>
+    <desc>FIFA World Cup 2026™ Matches - Group F (Live from Kansas City Stadium, Kansas City)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260626095500 +0800" stop="20260626121000 +0800">
-    <title lang="en">Türkiye vs. USA</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group D (Live from Los Angeles Stadium, Los Angeles)</desc>
+    <title>Türkiye vs. USA</title>
+    <desc>FIFA World Cup 2026™ Matches - Group D (Live from Los Angeles Stadium, Los Angeles)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260626095500 +0800" stop="20260626121000 +0800">
-    <title lang="en">Paraguay vs. Australia</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group D (Live from San Francisco Bay Area Stadium, San Francisco Bay Area)</desc>
+    <title>Paraguay vs. Australia</title>
+    <desc>FIFA World Cup 2026™ Matches - Group D (Live from San Francisco Bay Area Stadium, San Francisco Bay Area)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260627025500 +0800" stop="20260627051000 +0800">
-    <title lang="en">Norway vs. France</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group I (Live from Boston Stadium, Boston)</desc>
+    <title>Norway vs. France</title>
+    <desc>FIFA World Cup 2026™ Matches - Group I (Live from Boston Stadium, Boston)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260627025500 +0800" stop="20260627051000 +0800">
-    <title lang="en">Senegal vs. Iraq</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group I (Live from Toronto Stadium, Toronto)</desc>
+    <title>Senegal vs. Iraq</title>
+    <desc>FIFA World Cup 2026™ Matches - Group I (Live from Toronto Stadium, Toronto)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260627075500 +0800" stop="20260627101000 +0800">
-    <title lang="en">Cabo Verde vs. Saudi Arabia</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group H (Live from Houston Stadium, Houston)</desc>
+    <title>Cabo Verde vs. Saudi Arabia</title>
+    <desc>FIFA World Cup 2026™ Matches - Group H (Live from Houston Stadium, Houston)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260627075500 +0800" stop="20260627101000 +0800">
-    <title lang="en">Uruguay vs. Spain</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group H (Live from Guadalajara Stadium, Guadalajara)</desc>
+    <title>Uruguay vs. Spain</title>
+    <desc>FIFA World Cup 2026™ Matches - Group H (Live from Guadalajara Stadium, Guadalajara)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260627105500 +0800" stop="20260627131000 +0800">
-    <title lang="en">Egypt vs. IR Iran</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group G (Live from Seattle Stadium, Seattle)</desc>
+    <title>Egypt vs. IR Iran</title>
+    <desc>FIFA World Cup 2026™ Matches - Group G (Live from Seattle Stadium, Seattle)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260627105500 +0800" stop="20260627131000 +0800">
-    <title lang="en">New Zealand vs. Belgium</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group G (Live from BC Place Vancouver, Vancouver)</desc>
+    <title>New Zealand vs. Belgium</title>
+    <desc>FIFA World Cup 2026™ Matches - Group G (Live from BC Place Vancouver, Vancouver)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260628045500 +0800" stop="20260628071000 +0800">
-    <title lang="en">Panama vs. England</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group L (Live from New York/New Jersey Stadium, New York)</desc>
+    <title>Panama vs. England</title>
+    <desc>FIFA World Cup 2026™ Matches - Group L (Live from New York/New Jersey Stadium, New York)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260628045500 +0800" stop="20260628071000 +0800">
-    <title lang="en">Croatia vs. Ghana</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group L (Live from Philadelphia Stadium, Philadelphia)</desc>
+    <title>Croatia vs. Ghana</title>
+    <desc>FIFA World Cup 2026™ Matches - Group L (Live from Philadelphia Stadium, Philadelphia)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260628072500 +0800" stop="20260628094000 +0800">
-    <title lang="en">Colombia vs. Portugal</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group K (Live from Miami Stadium, Miami)</desc>
+    <title>Colombia vs. Portugal</title>
+    <desc>FIFA World Cup 2026™ Matches - Group K (Live from Miami Stadium, Miami)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260628072500 +0800" stop="20260628094000 +0800">
-    <title lang="en">Congo DR vs. Uzbekistan</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group K (Live from Atlanta Stadium, Atlanta)</desc>
+    <title>Congo DR vs. Uzbekistan</title>
+    <desc>FIFA World Cup 2026™ Matches - Group K (Live from Atlanta Stadium, Atlanta)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260628095500 +0800" stop="20260628121000 +0800">
-    <title lang="en">Algeria vs. Austria</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group J (Live from Kansas City Stadium, Kansas City)</desc>
+    <title>Algeria vs. Austria</title>
+    <desc>FIFA World Cup 2026™ Matches - Group J (Live from Kansas City Stadium, Kansas City)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
   <programme channel="FOX" start="20260628095500 +0800" stop="20260628121000 +0800">
-    <title lang="en">Jordan vs. Argentina</title>
-    <desc lang="en">FIFA World Cup 2026™ Matches - Group J (Live from Dallas Stadium, Dallas)</desc>
+    <title>Jordan vs. Argentina</title>
+    <desc>FIFA World Cup 2026™ Matches - Group J (Live from Dallas Stadium, Dallas)</desc>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png/medium" />
   </programme>
 </tv>
