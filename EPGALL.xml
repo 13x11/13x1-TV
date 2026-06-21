@@ -1,19 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv generator-info-name="https://github.com/dbghelp">
   <channel id="FOX">
-    <display-name>F1</display-name>
+    <display-name>FOX 4K</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png" />
   </channel>
   <channel id="NOW HK">
-    <display-name>EPL</display-name>
+    <display-name>NOW HK</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
   </channel>
   <channel id="FUSS1">
-    <display-name>EPL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
-  </channel>
-  <channel id="EPL3">
-    <display-name>EPL</display-name>
+    <display-name>FUSS1</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
   </channel>
 
