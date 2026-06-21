@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv generator-info-name="https://github.com/dbghelp">
-  <channel id="F1">
+  <channel id="FOX">
     <display-name>F1</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png" />
   </channel>
-  <channel id="EPL1">
+  <channel id="NOW HK">
     <display-name>EPL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
   </channel>
-  <channel id="EPL2">
+  <channel id="FUSS1">
     <display-name>EPL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
   </channel>
@@ -16,233 +16,17 @@
     <display-name>EPL</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
   </channel>
-  <channel id="EPL4">
-    <display-name>EPL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
-  </channel>
-  <channel id="EPL5">
-    <display-name>EPL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
-  </channel>
-  <channel id="EPL6">
-    <display-name>EPL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
-  </channel>
-  <channel id="EPL7">
-    <display-name>EPL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
-  </channel>
-  <channel id="EPL8">
-    <display-name>EPL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
-  </channel>
-  <channel id="EPL9">
-    <display-name>EPL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
-  </channel>
-  <channel id="EPL10">
-    <display-name>EPL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png" />
-  </channel>
-  <channel id="LALIGA1">
-    <display-name>LALIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
-  </channel>
-  <channel id="LALIGA2">
-    <display-name>LALIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
-  </channel>
-  <channel id="LALIGA3">
-    <display-name>LALIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
-  </channel>
-  <channel id="LALIGA4">
-    <display-name>LALIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
-  </channel>
-  <channel id="LALIGA5">
-    <display-name>LALIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
-  </channel>
-  <channel id="LALIGA6">
-    <display-name>LALIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
-  </channel>
-  <channel id="LALIGA7">
-    <display-name>LALIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
-  </channel>
-  <channel id="LALIGA8">
-    <display-name>LALIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
-  </channel>
-  <channel id="LALIGA9">
-    <display-name>LALIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
-  </channel>
-  <channel id="LALIGA10">
-    <display-name>LALIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
-  </channel>
-  <channel id="SERIEA1">
-    <display-name>SERIEA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
-  </channel>
-  <channel id="SERIEA2">
-    <display-name>SERIEA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
-  </channel>
-  <channel id="SERIEA3">
-    <display-name>SERIEA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
-  </channel>
-  <channel id="SERIEA4">
-    <display-name>SERIEA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
-  </channel>
-  <channel id="SERIEA5">
-    <display-name>SERIEA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
-  </channel>
-  <channel id="SERIEA6">
-    <display-name>SERIEA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
-  </channel>
-  <channel id="SERIEA7">
-    <display-name>SERIEA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
-  </channel>
-  <channel id="SERIEA8">
-    <display-name>SERIEA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
-  </channel>
-  <channel id="SERIEA9">
-    <display-name>SERIEA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
-  </channel>
-  <channel id="SERIEA10">
-    <display-name>SERIEA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png" />
-  </channel>
-  <channel id="BUNDES1">
-    <display-name>BUNDESLIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
-  </channel>
-  <channel id="BUNDES2">
-    <display-name>BUNDESLIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
-  </channel>
-  <channel id="BUNDES3">
-    <display-name>BUNDESLIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
-  </channel>
-  <channel id="BUNDES4">
-    <display-name>BUNDESLIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
-  </channel>
-  <channel id="BUNDES5">
-    <display-name>BUNDESLIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
-  </channel>
-  <channel id="BUNDES6">
-    <display-name>BUNDESLIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
-  </channel>
-  <channel id="BUNDES7">
-    <display-name>BUNDESLIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
-  </channel>
-  <channel id="BUNDES8">
-    <display-name>BUNDESLIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
-  </channel>
-  <channel id="BUNDES9">
-    <display-name>BUNDESLIGA</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png" />
-  </channel>
-  <channel id="WCQ1">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="WCQ2">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="WCQ3">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="WCQ4">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="WCQ5">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="WCQ6">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="WCQ7">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="WCQ8">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="FIFA-Series">
-    <display-name>FIFA-Series</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="UCL10">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="UCL11">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="UCL12">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="UCL13">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="UCL14">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="UCL15">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="UCL16">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="UCL17">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="UCL18">
-    <display-name>UCL</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" />
-  </channel>
-  <channel id="futsal">
-    <display-name>futsal</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/id/9/96/Logo_Piala_Futsal_Asia_AFC_Indonesia_2026.png" />
-  </channel>
-   <channel id="eurof">
-    <display-name>futsal</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/d/d3/UEFA_Futsal_Euro_2026.png" />
-  </channel>
 
-<programme channel="UCL10" start="20260530000000 +0800" stop="20260531070000 +0800">
-    <title lang="en">UEFA Champions League 2025-2026 - Final: Paris Saint-Germain F.C. vs. Arsenal F.C.</title>
-    <desc>UEFA Champions League 2025-2026 - Final live at Puskás Aréna, Budapest</desc>
+<programme channel="FOX" start="20260622000004 +0800" stop="20260622014904 +0800">
+    <title lang="en">FIFA World Cup 2026</title>
+    <desc></desc>
+</programme>
+<programme channel="NOW HK" start="20260622000004 +0800" stop="20260622014939 +0800">
+    <title lang="en">FIFA World Cup 2026</title>
+    <desc></desc>
+</programme>
+<programme channel="FUSS1" start="20260622000004 +0800" stop="20260622014925 +0800">
+    <title lang="en">FIFA World Cup 2026</title>
+    <desc></desc>
 </programme>
 </tv> 
